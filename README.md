@@ -1,8 +1,8 @@
-### Hi there👋, I’m @nglaz0v
+### Hi there👋
 - 👀 I’m interested in Data Science and Computer Vision
 - 🌱 I’m currently learning Machine Learning and Neural Networks
 <!--- - :telescope: I'm currently working on ...
-<!--- - 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
 <!---
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.qt.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40" /> </a>
   <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" /> </a>
   <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40" /> </a>
+  <a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
   <a href="https://numpy.org" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40" /> </a>
   <a href="https://scipy.org" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40" /> </a>
-  <a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
 </p>
