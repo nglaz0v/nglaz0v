@@ -5,15 +5,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
-<!---
-nglaz0v/nglaz0v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nglaz0v)](https://git.io/streak-stats) --->
-
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nglaz0v&layout=compact)](https://github.com/nglaz0v/github-readme-stats) --->
-
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> </a>
@@ -33,3 +24,11 @@ You can click the Preview link to take a look at your changes.
 
 <!--- #### Instruction sets:
 x86, x86-64, E2k, AVR, ARM --->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nglaz0v)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nglaz0v&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nglaz0v&layout=compact)](https://github.com/nglaz0v/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=nglaz0v)
