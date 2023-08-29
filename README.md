@@ -24,7 +24,9 @@
   <a href="https://sympy.org" target="_blank"> <img src="https://github.com/sympy/sympy/blob/master/doc/src/logo/sympy.svg" alt="SymPy" width="40" height="40" /> </a>
   <a href="https://numpy.org" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40" /> </a>
   <a href="https://scipy.org" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40" /> </a>
-  <a href="https://matplotlib.org" target="_blank"> <img src="https://github.com/matplotlib/matplotlib/blob/main/doc/_static/matplotlib-icon.svg" alt="matplotlib" width="40" height="40" /> </a>
+  <a href="https://matplotlib.org" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40" /> </a>
+  <a href="https://keras.io" target="_blank"> <img src="https://gb.ru/channels/programs/images/logo/keras.svg" alt="Keras" width="40" height="40" /> </a>
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /> </a>
 </p>
 
 <!--- #### Instruction sets:
