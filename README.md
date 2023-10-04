@@ -37,10 +37,26 @@
   <a href="https://keras.io" target="_blank"> <img src="https://gb.ru/channels/programs/images/logo/keras.svg" alt="Keras" width="40" height="40" /> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /> </a>
 </p>
+<h4 align="left">Data Visualization:</h4>
+<p align="left">
+  <a href="https://www.tableau.com" target="_blank"> Tableau </a>
+  <a href="https://datalens.yandex.ru/" target="_blank"> Yandex DataLens </a>
+</p>
+<h4 align="left">Cloud Computing:</h4>
+<p align="left">
+  <a href="https://colab.research.google.com" target="_blank"> Google Colab </a>
+  <a href="https://cloud.yandex.ru/services/datasphere" target="_blank"> Yandex DataSphere </a>
+</p>
+<h5 align="left">Instruction sets:</h5>
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/X86" target="_blank"> x86 </a>
+  <a href="https://en.wikipedia.org/wiki/X86-64" target="_blank"> x86-64 </a>
+  <a href="https://en.wikipedia.org/wiki/Elbrus_2000" target="_blank"> E2k </a>
+  <a href="https://en.wikipedia.org/wiki/AVR_microcontrollers" target="_blank"> AVR </a>
+  <a href="https://en.wikipedia.org/wiki/ARM_architecture_family" target="_blank"> ARM </a>
+</p>
 
-<!--- #### Instruction sets:
-x86, x86-64, E2k, AVR, ARM --->
-
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nglaz0v)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nglaz0v&show_icons=true)
@@ -48,3 +64,4 @@ x86, x86-64, E2k, AVR, ARM --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nglaz0v&layout=compact)](https://github.com/nglaz0v/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=nglaz0v)
+-->
