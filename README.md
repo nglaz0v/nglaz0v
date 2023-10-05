@@ -39,20 +39,20 @@
 </p>
 <h4 align="left">Data Visualization:</h4>
 <p align="left">
-  <a href="https://www.tableau.com" target="_blank"> Tableau </a>
+  <a href="https://www.tableau.com" target="_blank"> Tableau </a> |
   <a href="https://datalens.yandex.ru/" target="_blank"> Yandex DataLens </a>
 </p>
 <h4 align="left">Cloud Computing:</h4>
 <p align="left">
-  <a href="https://colab.research.google.com" target="_blank"> Google Colab </a>
+  <a href="https://colab.research.google.com" target="_blank"> Google Colab </a> |
   <a href="https://cloud.yandex.ru/services/datasphere" target="_blank"> Yandex DataSphere </a>
 </p>
 <h5 align="left">Instruction sets:</h5>
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/X86" target="_blank"> x86 </a>
-  <a href="https://en.wikipedia.org/wiki/X86-64" target="_blank"> x86-64 </a>
-  <a href="https://en.wikipedia.org/wiki/Elbrus_2000" target="_blank"> E2k </a>
-  <a href="https://en.wikipedia.org/wiki/AVR_microcontrollers" target="_blank"> AVR </a>
+  <a href="https://en.wikipedia.org/wiki/X86" target="_blank"> x86 </a> |
+  <a href="https://en.wikipedia.org/wiki/X86-64" target="_blank"> x86-64 </a> |
+  <a href="https://en.wikipedia.org/wiki/Elbrus_2000" target="_blank"> E2k </a> |
+  <a href="https://en.wikipedia.org/wiki/AVR_microcontrollers" target="_blank"> AVR </a> |
   <a href="https://en.wikipedia.org/wiki/ARM_architecture_family" target="_blank"> ARM </a>
 </p>
 
