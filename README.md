@@ -47,13 +47,19 @@
   <a href="https://colab.research.google.com" target="_blank"> Google Colab </a> |
   <a href="https://cloud.yandex.ru/services/datasphere" target="_blank"> Yandex DataSphere </a>
 </p>
-<h5 align="left">Instruction sets:</h5>
+<h5 align="left">Instruction Sets:</h5>
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/X86" target="_blank"> x86 </a> |
   <a href="https://en.wikipedia.org/wiki/X86-64" target="_blank"> x86-64 </a> |
   <a href="https://en.wikipedia.org/wiki/Elbrus_2000" target="_blank"> E2k </a> |
   <a href="https://en.wikipedia.org/wiki/AVR_microcontrollers" target="_blank"> AVR </a> |
   <a href="https://en.wikipedia.org/wiki/ARM_architecture_family" target="_blank"> ARM </a>
+</p>
+<h5 align="left">Parallel Computing:</h5>
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/CUDA" target="_blank"> NVIDIA CUDA </a> |
+  <a href="https://en.wikipedia.org/wiki/Math_Kernel_Library" target="_blank"> Intel MKL </a> |
+  <a href="https://en.wikipedia.org/wiki/IBM_Z#IBM_zSeries_family" target="_blank"> IBM zSeries </a>
 </p>
 
 <!--
