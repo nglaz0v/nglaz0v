@@ -36,6 +36,7 @@
 <p align="left">
   <a href="https://keras.io" target="_blank"> <img src="https://gb.ru/channels/programs/images/logo/keras.svg" alt="Keras" width="40" height="40" /> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /> </a>
+  <a href="https://pytorch.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /> </a>
 </p>
 <h4 align="left">Data Visualization:</h4>
 <p align="left">
