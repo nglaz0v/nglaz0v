@@ -11,13 +11,10 @@
   <a href="https://isocpp.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a>
 </p>
-<h3 align="left">Libraries and Tools:</h3>
+<h3 align="left">Libraries:</h3>
 <p align="left">
   <a href="https://www.qt.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40" /> </a>
   <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" /> </a>
-  <a href="https://kernel.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> </a>
-  <a href="https://raspberrypi.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" /> </a>
-  <a href="https://processing.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" width="40" height="40" /> </a>
   <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
   <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
   <a href="https://sympy.org" target="_blank"> <img src="https://github.com/sympy/sympy/blob/master/doc/src/logo/sympy.svg" alt="SymPy" width="40" height="40" /> </a>
@@ -37,6 +34,13 @@
   <a href="https://keras.io" target="_blank"> <img src="https://gb.ru/channels/programs/images/logo/keras.svg" alt="Keras" width="40" height="40" /> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /> </a>
   <a href="https://pytorch.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /> </a>
+</p>
+<h3 align="left">Prototyping:</h3>
+<p align="left">
+  <a href="https://raspberrypi.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" /> </a>
+  <a href="https://arduino.cc" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" /> </a>
+  <a href="https://processing.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" width="40" height="40" /> </a>
+  <!--<a href="https://kernel.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> </a>-->
 </p>
 <h4 align="left">Data Visualization:</h4>
 <p align="left">
