@@ -13,14 +13,32 @@
 </p>
 <h3 align="left">Libraries:</h3>
 <p align="left">
-  <a href="https://www.qt.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40" /> </a>
-  <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" /> </a>
-  <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
-  <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
-  <a href="https://sympy.org" target="_blank"> <img src="https://github.com/sympy/sympy/blob/master/doc/src/logo/sympy.svg" alt="SymPy" width="40" height="40" /> </a>
-  <a href="https://numpy.org" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40" /> </a>
-  <a href="https://scipy.org" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40" /> </a>
-  <a href="https://matplotlib.org" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40" /> </a>
+  <ul>
+    <li>Math:
+      <a href="https://sympy.org" target="_blank"> <img src="https://github.com/sympy/sympy/blob/master/doc/src/logo/sympy.svg" alt="SymPy" width="40" height="40" /> </a>
+      <a href="https://numpy.org" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40" /> </a>
+      <a href="https://scipy.org" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40" /> </a>
+    </li>
+    <li>Plots:
+      <a href="https://matplotlib.org" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40" /> </a>
+    </li>
+    <li>Data:
+      <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
+    </li>
+    <li>GUI:
+      <a href="https://www.qt.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40" /> </a>
+    </li>
+    <li>CV:
+      <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" /> </a>
+    </li>
+    <li>NLP:
+      <a href="https://www.nltk.org" target="_blank"> NLTK </a>
+    </li>
+    <li>misc:
+      <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
+      <a href="https://www.anaconda.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" /> </a>
+    </li>
+  </ul>
 </p>
 <h3 align="left">Machine Learning:</h3>
 <p align="left">
