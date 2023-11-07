@@ -22,9 +22,9 @@
     <li>Plots:
       <a href="https://matplotlib.org" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" width="40" height="40" /> </a>
       <a href="https://seaborn.pydata.org" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" /> </a>
-      <a href="https://plotly.com" target="_blank"> <img src="https://github.com/plotly/plotly.py/blob/doc-prod/packages/javascript/jupyterlab-plotly/style/plotly.svg" alt="Plotly" width="40" height="40" /> </a>
+      <!--<a href="https://plotly.com" target="_blank"> <img src="https://github.com/plotly/plotly.py/blob/doc-prod/packages/javascript/jupyterlab-plotly/style/plotly.svg" alt="Plotly" width="40" height="40" /> </a>
       <a href="https://bokeh.org" target="_blank"> <img src="https://github.com/bokeh/bokeh/blob/branch-3.4/bokehjs/test/assets/images/logo.svg" alt="Bokeh" width="40" height="40" /> </a>
-      <a href="https://altair-viz.github.io" target="_blank"> <img src="https://github.com/altair-viz/altair/blob/main/design/altair-logo.svg" alt="Altair" width="40" height="40" /> </a>
+      <a href="https://altair-viz.github.io" target="_blank"> <img src="https://github.com/altair-viz/altair/blob/main/design/altair-logo.svg" alt="Altair" width="40" height="40" /> </a>-->
     </li>
     <li>Data:
       <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
@@ -42,6 +42,7 @@
       <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
       <a href="https://www.anaconda.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" /> </a>
       <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
+      <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" /> </a>
     </li>
   </ul>
 </p>
