@@ -10,6 +10,7 @@
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> </a>
   <a href="https://isocpp.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a>
+  <!-- <a href="https://www.r-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40" /> </a> -->
 </p>
 <h3 align="left">Libraries:</h3>
 <p align="left">
