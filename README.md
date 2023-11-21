@@ -10,7 +10,7 @@
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> </a>
   <a href="https://isocpp.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a>
-  <!-- <a href="https://www.r-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40" /> </a> -->
+  <!--<a href="https://www.r-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40" /> </a>-->
 </p>
 <h3 align="left">Libraries:</h3>
 <p align="left">
@@ -19,13 +19,14 @@
       <a href="https://sympy.org" target="_blank"> <img src="https://github.com/sympy/sympy/blob/master/doc/src/logo/sympy.svg" alt="SymPy" width="40" height="40" /> </a>
       <a href="https://numpy.org" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40" /> </a>
       <a href="https://scipy.org" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40" /> </a>
+      <!--<a href="https://www.statsmodels.org" target="_blank"> <img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="40" height="40" /> </a>-->
     </li>
     <li>Plots:
       <a href="https://matplotlib.org" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" width="40" height="40" /> </a>
       <a href="https://seaborn.pydata.org" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" /> </a>
-      <!--<a href="https://plotly.com" target="_blank"> <img src="https://github.com/plotly/plotly.py/blob/doc-prod/packages/javascript/jupyterlab-plotly/style/plotly.svg" alt="Plotly" width="40" height="40" /> </a>
-      <a href="https://bokeh.org" target="_blank"> <img src="https://github.com/bokeh/bokeh/blob/branch-3.4/bokehjs/test/assets/images/logo.svg" alt="Bokeh" width="40" height="40" /> </a>
-      <a href="https://altair-viz.github.io" target="_blank"> <img src="https://github.com/altair-viz/altair/blob/main/design/altair-logo.svg" alt="Altair" width="40" height="40" /> </a>-->
+      <!--<a href="https://plotly.com" target="_blank"> <img src="https://github.com/plotly/plotly.py/blob/doc-prod/packages/javascript/jupyterlab-plotly/style/plotly.svg" alt="Plotly" width="40" height="40" /> </a>-->
+      <!--<a href="https://bokeh.org" target="_blank"> <img src="https://github.com/bokeh/bokeh/blob/branch-3.4/bokehjs/test/assets/images/logo.svg" alt="Bokeh" width="40" height="40" /> </a>-->
+      <!--<a href="https://altair-viz.github.io" target="_blank"> <img src="https://github.com/altair-viz/altair/blob/main/design/altair-logo.svg" alt="Altair" width="40" height="40" /> </a>-->
     </li>
     <li>Data:
       <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
@@ -35,6 +36,7 @@
     </li>
     <li>CV:
       <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" /> </a>
+      <!--<a href="https://scikit-image.org" target="_blank"> <img src="https://github.com/scikit-image/scikit-image/blob/main/skimage/data/logo.png" alt="scikit-image" width="40" height="40" /> </a>-->
     </li>
     <li>NLP:
       <a href="https://www.nltk.org" target="_blank"> NLTK </a>
