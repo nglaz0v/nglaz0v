@@ -52,7 +52,7 @@
       <a href="https://www.anaconda.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" /> </a>
       <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
       <!-- <a href="https://www.docker.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> </a> -->
-      <!-- <a href="https://sqlite.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" /> </a> -->
+      <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /> </a>
     </li>
   </ul>
 </p>
@@ -74,7 +74,8 @@
   <a href="https://raspberrypi.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" /> </a>
   <a href="https://arduino.cc" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" /> </a>
   <a href="https://processing.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" width="40" height="40" /> </a>
-  <!--<a href="https://kernel.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> </a>-->
+  <a href="https://kernel.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> </a>
+  <a href="https://www.qemu.org" target="_blank"> <img src="https://www.qemu.org/docs/master/_static/qemu_128x128.png" alt="QEMU" width="40" height="40" /> </a>
 </p>
 <h4 align="left">Data Visualization:</h4>
 <p align="left">
