@@ -81,6 +81,11 @@
   <a href="https://kernel.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> </a>
   <a href="https://www.qemu.org" target="_blank"> <img src="https://www.qemu.org/docs/master/_static/qemu_128x128.png" alt="QEMU" width="40" height="40" /> </a>
 </p>
+<h3 align="left">Computer Algebra Systems:</h3>
+<p align="left">
+  <a href="https://maxima.sourceforge.io" target="_blank"> <img src="https://maxima.sourceforge.io/img/maxima.svg" alt="Maxima" width="40" height="40" /> </a>
+  <a href="https://www.scilab.org" target="_blank"> <img src="https://www.scilab.org/themes/bs43ds/img/scilab-logo.png" alt="Scilab" width="40" height="40" /> </a>
+</p>
 <h4 align="left">Data Visualization:</h4>
 <p align="left">
   <a href="https://www.tableau.com" target="_blank"> Tableau </a> |
