@@ -36,6 +36,7 @@
     </li>
     <li>CV:
       <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" /> </a>
+      <!-- <a href="https://python-pillow.org" target="_blank"> <img src="https://github.com/python-pillow/Pillow/blob/main/docs/resources/favicon.ico" alt="Pillow" width="40" height="40" /> </a> -->
       <!--<a href="https://scikit-image.org" target="_blank"> <img src="https://github.com/scikit-image/scikit-image/blob/main/skimage/data/logo.png" alt="scikit-image" width="40" height="40" /> </a>-->
     </li>
     <li>NLP:
@@ -92,6 +93,7 @@
 <p align="left">
   <a href="https://www.kicad.org" target="_blank"> <img src="https://docs.kicad.org/img/guide-icons/kicad.png" alt="KiCad" width="40" height="40" /> </a>
   <a href="https://www.autodesk.com/products/inventor/overview" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.autodesk.com%2Fcontent%2Fdam%2Fautodesk%2Fwww%2Fproduct-imagery%2Fbadge-75x75%2Finventor-professional-badge-75x75.png&f=1&nofb=1&ipt=1eb0ac87c08544b25f7815aa2541182d93911187339cec309c1f7c982175c86d&ipo=images" alt="Autodesk Inventor" width="40" height="40" /> </a>
+  <a href="https://www.pronterface.com" target="_blank"> <img src="https://github.com/kliment/Printrun/blob/master/pronterface.png" alt="Pronterface" width="40" height="40" /> </a>
 </p>
 <h4 align="left">Data Visualization:</h4>
 <p align="left">
