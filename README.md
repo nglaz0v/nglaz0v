@@ -40,7 +40,12 @@
       <!--<a href="https://scikit-image.org" target="_blank"> <img src="https://github.com/scikit-image/scikit-image/blob/main/skimage/data/logo.png" alt="scikit-image" width="40" height="40" /> </a>-->
     </li>
     <li>NLP:
-      <a href="https://www.nltk.org" target="_blank"> NLTK </a>
+      <!-- <a href="https://spacy.io/" target="_blank"> spaCy </a> | -->
+      <!-- <a href="https://radimrehurek.com/gensim/" target="_blank"> Gensim </a> | -->
+      <a href="https://www.nltk.org" target="_blank"> NLTK </a> |
+      <a href="https://github.com/pymorphy2/pymorphy2" target="_blank"> pymorphy2 </a> |
+      <a href="https://github.com/amueller/word_cloud" target="_blank"> wordcloud </a> |
+      <!-- <a href="https://sparknlp.org/" target="_blank"> Spark NLP </a> -->
     </li>
     <li>Web:
       <a href="https://requests.readthedocs.io" target="_blank"> <img src="https://github.com/psf/requests/blob/main/ext/requests-logo.svg" alt="Requests" width="40" height="40" /> </a>
