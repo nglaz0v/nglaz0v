@@ -37,7 +37,9 @@
     <li>CV:
       <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" /> </a>
       <!-- <a href="https://python-pillow.org" target="_blank"> <img src="https://github.com/python-pillow/Pillow/blob/main/docs/resources/favicon.ico" alt="Pillow" width="40" height="40" /> </a> -->
-      <!--<a href="https://scikit-image.org" target="_blank"> <img src="https://github.com/scikit-image/scikit-image/blob/main/skimage/data/logo.png" alt="scikit-image" width="40" height="40" /> </a>-->
+      <!-- <a href="https://scikit-image.org" target="_blank"> <img src="https://github.com/scikit-image/scikit-image/blob/main/skimage/data/logo.png" alt="scikit-image" width="40" height="40" /> </a> -->
+      <!-- <a href="https://github.com/OlafenwaMoses/ImageAI" target="_blank"> <img src="https://github.com/OlafenwaMoses/ImageAI/blob/master/logo2.png" alt="ImageAI" width="40" height="40" /> </a> -->
+      <!-- <a href="https://developers.google.com/mediapipe" target="_blank"> <img src="https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg" alt="MediaPipe" width="40" height="40" /> </a> -->
     </li>
     <li>NLP:
       <!-- <a href="https://spacy.io/" target="_blank"> spaCy </a> | -->
