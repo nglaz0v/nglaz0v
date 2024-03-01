@@ -47,7 +47,6 @@
       <a href="https://www.nltk.org" target="_blank"> NLTK </a> |
       <a href="https://github.com/pymorphy2/pymorphy2" target="_blank"> pymorphy2 </a> |
       <a href="https://github.com/amueller/word_cloud" target="_blank"> wordcloud </a> |
-      <!-- <a href="https://sparknlp.org/" target="_blank"> Spark NLP </a> -->
     </li>
     <li>Web:
       <a href="https://requests.readthedocs.io" target="_blank"> <img src="https://github.com/psf/requests/blob/main/ext/requests-logo.svg" alt="Requests" width="40" height="40" /> </a>
@@ -59,13 +58,12 @@
       <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
     </li>
     <li>DB:
-        <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /> </a>
-        <a href="https://sqlite.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" /> </a>
+      <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /> </a>
+      <a href="https://sqlite.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" /> </a>
     </li>
     <li>misc:
       <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
       <a href="https://www.anaconda.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" /> </a>
-      <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
       <!-- <a href="https://airflow.apache.org/" target="_blank"> <img src="https://github.com/apache/airflow/blob/main/docs/apache-airflow/img/logos/airflow_transparent.png" alt="Apache Airflow" width="40" height="40" /> </a> -->
       <!-- <a href="https://www.docker.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> </a> -->
     </li>
@@ -84,6 +82,13 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /> </a>
   <a href="https://pytorch.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /> </a>
   <a href="https://github.com/facebookresearch/pytorch3d" target="_blank"> <img src="https://github.com/facebookresearch/pytorch3d/blob/main/website/static/img/pytorch3dfavicon.png" alt="PyTorch3D" width="40" height="40" /> </a>
+</p>
+<h3 align="left">BioMed:</h3>
+<p align="left">
+  <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
+  <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a>
+  <a href="https://sparknlp.org/" target="_blank"> <img src="https://github.com/JohnSnowLabs/spark-nlp/blob/master/docs/assets/fav.ico" alt="Spark NLP" width="40" height="40" /> </a>
+  <a href="https://allenai.github.io/scispacy/" target="_blank"> <img src="https://github.com/allenai/scispacy/blob/main/docs/scispacy-logo-square.png" alt="scispaCy" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Prototyping:</h3>
 <p align="left">
