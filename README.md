@@ -45,6 +45,8 @@
       <a href="https://spacy.io/" target="_blank"> spaCy </a> |
       <a href="https://radimrehurek.com/gensim/" target="_blank"> Gensim </a> |
       <a href="https://www.nltk.org" target="_blank"> NLTK </a> |
+      <!-- <a href="https://textblob.readthedocs.io/en/dev/" target="_blank"> TextBlob </a> | -->
+      <!-- <a href="https://fasttext.cc/" target="_blank"> fastText </a> | -->
       <a href="https://github.com/pymorphy2/pymorphy2" target="_blank"> pymorphy2 </a> |
       <a href="https://github.com/amueller/word_cloud" target="_blank"> wordcloud </a> |
     </li>
