@@ -42,8 +42,8 @@
       <!-- <a href="https://developers.google.com/mediapipe" target="_blank"> <img src="https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg" alt="MediaPipe" width="40" height="40" /> </a> -->
     </li>
     <li>NLP:
-      <!-- <a href="https://spacy.io/" target="_blank"> spaCy </a> | -->
-      <!-- <a href="https://radimrehurek.com/gensim/" target="_blank"> Gensim </a> | -->
+      <a href="https://spacy.io/" target="_blank"> spaCy </a> |
+      <a href="https://radimrehurek.com/gensim/" target="_blank"> Gensim </a> |
       <a href="https://www.nltk.org" target="_blank"> NLTK </a> |
       <a href="https://github.com/pymorphy2/pymorphy2" target="_blank"> pymorphy2 </a> |
       <a href="https://github.com/amueller/word_cloud" target="_blank"> wordcloud </a> |
@@ -86,9 +86,9 @@
 <h3 align="left">BioMed:</h3>
 <p align="left">
   <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
-  <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a>
-  <a href="https://sparknlp.org/" target="_blank"> <img src="https://github.com/JohnSnowLabs/spark-nlp/blob/master/docs/assets/fav.ico" alt="Spark NLP" width="40" height="40" /> </a>
-  <a href="https://allenai.github.io/scispacy/" target="_blank"> <img src="https://github.com/allenai/scispacy/blob/main/docs/scispacy-logo-square.png" alt="scispaCy" width="40" height="40" /> </a>
+  <!-- <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a> -->
+  <!-- <a href="https://sparknlp.org/" target="_blank"> <img src="https://github.com/JohnSnowLabs/spark-nlp/blob/master/docs/assets/fav.ico" alt="Spark NLP" width="40" height="40" /> </a> -->
+  <!-- <a href="https://allenai.github.io/scispacy/" target="_blank"> <img src="https://github.com/allenai/scispacy/blob/main/docs/scispacy-logo-square.png" alt="scispaCy" width="40" height="40" /> </a> -->
 </p>
 <h3 align="left">Prototyping:</h3>
 <p align="left">
