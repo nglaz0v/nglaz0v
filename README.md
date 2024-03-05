@@ -47,8 +47,14 @@
       <a href="https://www.nltk.org" target="_blank"> NLTK </a> |
       <!-- <a href="https://textblob.readthedocs.io/en/dev/" target="_blank"> TextBlob </a> | -->
       <!-- <a href="https://fasttext.cc/" target="_blank"> fastText </a> | -->
-      <a href="https://github.com/pymorphy2/pymorphy2" target="_blank"> pymorphy2 </a> |
       <a href="https://github.com/amueller/word_cloud" target="_blank"> wordcloud </a> |
+      <!-- <a href="https://deeppavlov.ai/" target="_blank"> DeepPavlov </a> | -->
+      <ul>
+        <li>NLP-ru:
+          <a href="https://github.com/pymorphy2/pymorphy2" target="_blank"> pymorphy2 </a> |
+          <!-- <a href="https://github.com/natasha" target="_blank"> natasha </a> | -->
+        </li>
+      </ul>
     </li>
     <li>Web:
       <a href="https://requests.readthedocs.io" target="_blank"> <img src="https://github.com/psf/requests/blob/main/ext/requests-logo.svg" alt="Requests" width="40" height="40" /> </a>
@@ -94,6 +100,8 @@
   <!-- <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a> -->
   <!-- <a href="https://sparknlp.org/" target="_blank"> <img src="https://github.com/JohnSnowLabs/spark-nlp/blob/master/docs/assets/fav.ico" alt="Spark NLP" width="40" height="40" /> </a> -->
   <!-- <a href="https://allenai.github.io/scispacy/" target="_blank"> <img src="https://github.com/allenai/scispacy/blob/main/docs/scispacy-logo-square.png" alt="scispaCy" width="40" height="40" /> </a> -->
+  <!-- <a href="https://github.com/medspacy/medspacy" target="_blank"> <img src="https://github.com/medspacy/medspacy/blob/master/images/medspacy_logo.png" alt="medspacy" width="40" height="40" /> </a> -->
+  <!-- <a href="https://github.com/ncbi-nlp/BioSentVec" target="_blank"> BioSentVec </a> -->
 </p>
 <h3 align="left">Prototyping:</h3>
 <p align="left">
