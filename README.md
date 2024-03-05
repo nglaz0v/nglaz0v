@@ -83,9 +83,15 @@
   <a href="https://github.com/dmlc/xgboost" target="_blank"> <img src="https://xgboost.ai/images/logo/xgboost-logo.png" alt="XGBoost" width="40" height="40" /> </a>
   <a href="https://github.com/microsoft/LightGBM" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
   <a href="https://github.com/catboost" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
-  <!-- <a href="https://github.com/scikit-learn-contrib/imbalanced-learn" target="_blank"> <img src="https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/doc/_static/img/logo.png" alt="imbalanced-learn" width="40" height="40" /> </a> -->
-  <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
-  <!-- <a href="https://www.scikit-yb.org/en/latest/" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a> -->
+  <ul>
+    <li>ML-tools:
+      <a href="https://shap.readthedocs.io/en/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/favicon.ico" alt="SHAP" width="40" height="40" /> </a>
+      <a href="https://github.com/eli5-org/eli5" target="_blank"> ELI5 </a>
+      <!-- <a href="https://github.com/scikit-learn-contrib/imbalanced-learn" target="_blank"> <img src="https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/doc/_static/img/logo.png" alt="imbalanced-learn" width="40" height="40" /> </a> -->
+      <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
+      <!-- <a href="https://www.scikit-yb.org/en/latest/" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a> -->
+    </li>
+  </ul>
 </p>
 <h3 align="left">Deep Learning:</h3>
 <p align="left">
