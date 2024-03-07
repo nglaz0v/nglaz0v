@@ -33,6 +33,7 @@
     </li>
     <li>GUI:
       <a href="https://www.qt.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40" /> </a>
+      <!-- <a href="https://kivy.org" target="_blank"> <img src="https://github.com/kivy/kivy/blob/master/kivy/data/logo/kivy-icon-256.png" alt="Kivy" width="40" height="40" /> </a> -->
     </li>
     <li>CV:
       <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" /> </a>
@@ -64,6 +65,7 @@
       <a href="https://github.com/eternnoir/pyTelegramBotAPI/" target="_blank"> <img src="https://github.com/eternnoir/pyTelegramBotAPI/blob/master/docs/source/_static/logo.png" alt="pyTelegramBotAPI" width="40" height="40" /> </a>
       <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/favicon.png" alt="FastAPI" width="40" height="40" /> </a>
       <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
+      <!-- <a href="https://github.com/aio-libs/aiohttp" target="_blank"> <img src="https://github.com/aio-libs/aiohttp/blob/master/docs/aiohttp-icon.svg" alt="AIOHTTP" width="40" height="40" /> </a> -->
     </li>
     <li>DB:
       <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /> </a>
@@ -80,6 +82,7 @@
 <h3 align="left">Machine Learning:</h3>
 <p align="left">
   <a href="https://scikit-learn.org" target="_blank"> <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="scikit-learn" width="40" height="40" /> </a>
+  <!-- <a href="https://pycaret.org" target="_blank"> <img src="https://github.com/pycaret/pycaret/blob/master/docs/images/logo.png" alt="PyCaret" width="40" height="40" /> </a> -->
   <a href="https://github.com/dmlc/xgboost" target="_blank"> <img src="https://xgboost.ai/images/logo/xgboost-logo.png" alt="XGBoost" width="40" height="40" /> </a>
   <a href="https://github.com/microsoft/LightGBM" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
   <a href="https://github.com/catboost" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
