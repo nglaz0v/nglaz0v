@@ -61,21 +61,15 @@
       <a href="https://requests.readthedocs.io" target="_blank"> <img src="https://github.com/psf/requests/blob/main/ext/requests-logo.svg" alt="Requests" width="40" height="40" /> </a>
       <a href="https://scrapy.org" target="_blank"> <img src="https://scrapy.org/img/scrapy-pros.png" alt="Scrapy" width="40" height="40" /> </a>
       <!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://github.com/SeleniumHQ/selenium/blob/trunk/javascript/grid-ui/public/logo192.png" alt="Selenium" width="40" height="40" /> </a> -->
-      <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" /> </a>
+      <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://github.com/pallets/flask/blob/main/docs/_static/shortcut-icon.png" alt="Flask" width="40" height="40" /> </a>
       <a href="https://github.com/eternnoir/pyTelegramBotAPI/" target="_blank"> <img src="https://github.com/eternnoir/pyTelegramBotAPI/blob/master/docs/source/_static/logo.png" alt="pyTelegramBotAPI" width="40" height="40" /> </a>
       <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/favicon.png" alt="FastAPI" width="40" height="40" /> </a>
       <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
       <!-- <a href="https://github.com/aio-libs/aiohttp" target="_blank"> <img src="https://github.com/aio-libs/aiohttp/blob/master/docs/aiohttp-icon.svg" alt="AIOHTTP" width="40" height="40" /> </a> -->
     </li>
-    <li>DB:
-      <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /> </a>
-      <a href="https://sqlite.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" /> </a>
-    </li>
     <li>misc:
       <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
       <a href="https://www.anaconda.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" /> </a>
-      <!-- <a href="https://airflow.apache.org/" target="_blank"> <img src="https://github.com/apache/airflow/blob/main/docs/apache-airflow/img/logos/airflow_transparent.png" alt="Apache Airflow" width="40" height="40" /> </a> -->
-      <!-- <a href="https://www.docker.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> </a> -->
     </li>
   </ul>
 </p>
@@ -112,13 +106,26 @@
   <!-- <a href="https://github.com/medspacy/medspacy" target="_blank"> <img src="https://github.com/medspacy/medspacy/blob/master/images/medspacy_logo.png" alt="medspacy" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/ncbi-nlp/BioSentVec" target="_blank"> BioSentVec </a> -->
 </p>
+<h3 align="left">Virtualization:</h3>
+<p align="left">
+  <a href="https://www.qemu.org" target="_blank"> <img src="https://www.qemu.org/docs/master/_static/qemu_128x128.png" alt="QEMU" width="40" height="40" /> </a>
+  <a href="https://www.docker.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> </a>
+</p>
+<h3 align="left">Workflow:</h3>
+<p align="left">
+  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://github.com/apache/airflow/blob/main/docs/apache-airflow/img/logos/airflow_transparent.png" alt="Apache Airflow" width="40" height="40" /> </a>
+</p>
 <h3 align="left">Prototyping:</h3>
 <p align="left">
   <a href="https://raspberrypi.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" /> </a>
   <a href="https://arduino.cc" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" /> </a>
   <a href="https://processing.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" width="40" height="40" /> </a>
   <a href="https://kernel.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> </a>
-  <a href="https://www.qemu.org" target="_blank"> <img src="https://www.qemu.org/docs/master/_static/qemu_128x128.png" alt="QEMU" width="40" height="40" /> </a>
+</p>
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /> </a>
+  <a href="https://sqlite.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Computer Algebra Systems:</h3>
 <p align="left">
@@ -149,7 +156,7 @@
   <a href="https://en.wikipedia.org/wiki/AVR_microcontrollers" target="_blank"> AVR </a> |
   <a href="https://en.wikipedia.org/wiki/ARM_architecture_family" target="_blank"> ARM </a>
 </p>
-<h5 align="left">Parallel Computing:</h5>
+<h5 align="left">High-Performance Computing:</h5>
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/CUDA" target="_blank"> NVIDIA CUDA </a> |
   <a href="https://en.wikipedia.org/wiki/Math_Kernel_Library" target="_blank"> Intel MKL </a> |
