@@ -10,7 +10,7 @@
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> </a>
   <a href="https://isocpp.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a>
-  <!--<a href="https://www.r-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40" /> </a>-->
+  <a href="https://www.r-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Libraries:</h3>
 <p align="left">
@@ -27,9 +27,11 @@
       <!--<a href="https://plotly.com" target="_blank"> <img src="https://github.com/plotly/plotly.py/blob/doc-prod/packages/javascript/jupyterlab-plotly/style/plotly.svg" alt="Plotly" width="40" height="40" /> </a>-->
       <!--<a href="https://bokeh.org" target="_blank"> <img src="https://github.com/bokeh/bokeh/blob/branch-3.4/bokehjs/test/assets/images/logo.svg" alt="Bokeh" width="40" height="40" /> </a>-->
       <!--<a href="https://altair-viz.github.io" target="_blank"> <img src="https://github.com/altair-viz/altair/blob/main/design/altair-logo.svg" alt="Altair" width="40" height="40" /> </a>-->
+      <a href="https://ggplot2.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/ggplot2/blob/main/man/figures/logo.png" alt="ggplot2" width="40" height="40" /> </a>
     </li>
     <li>Data:
       <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
+      <a href="https://tidyverse.tidyverse.org" target="_blank"> <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="tidyverse" width="40" height="40" /> </a>
     </li>
     <li>GUI:
       <a href="https://www.qt.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40" /> </a>
@@ -65,6 +67,7 @@
       <a href="https://github.com/eternnoir/pyTelegramBotAPI/" target="_blank"> <img src="https://github.com/eternnoir/pyTelegramBotAPI/blob/master/docs/source/_static/logo.png" alt="pyTelegramBotAPI" width="40" height="40" /> </a>
       <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/favicon.png" alt="FastAPI" width="40" height="40" /> </a>
       <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
+      <!-- <a href="https://www.gradio.app" target="_blank"> <img src="https://github.com/gradio-app/gradio/blob/main/guides/assets/logo.png" alt="Gradio" width="40" height="40" /> </a> -->
       <!-- <a href="https://github.com/aio-libs/aiohttp" target="_blank"> <img src="https://github.com/aio-libs/aiohttp/blob/master/docs/aiohttp-icon.svg" alt="AIOHTTP" width="40" height="40" /> </a> -->
     </li>
     <li>misc:
@@ -80,6 +83,7 @@
   <a href="https://github.com/dmlc/xgboost" target="_blank"> <img src="https://xgboost.ai/images/logo/xgboost-logo.png" alt="XGBoost" width="40" height="40" /> </a>
   <a href="https://github.com/microsoft/LightGBM" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
   <a href="https://github.com/catboost" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
+  <!-- <a href="https://tidymodels.tidymodels.org" target="_blank"> <img src="https://github.com/tidymodels/tidymodels/blob/main/man/figures/logo.png" alt="tidymodels" width="40" height="40" /> </a> -->
   <ul>
     <li>ML-tools:
       <a href="https://shap.readthedocs.io/en/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/favicon.ico" alt="SHAP" width="40" height="40" /> </a>
@@ -87,6 +91,7 @@
       <!-- <a href="https://github.com/scikit-learn-contrib/imbalanced-learn" target="_blank"> <img src="https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/doc/_static/img/logo.png" alt="imbalanced-learn" width="40" height="40" /> </a> -->
       <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
       <!-- <a href="https://www.scikit-yb.org/en/latest/" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a> -->
+      <!-- <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a> -->
     </li>
   </ul>
 </p>
@@ -96,6 +101,7 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /> </a>
   <a href="https://pytorch.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /> </a>
   <a href="https://github.com/facebookresearch/pytorch3d" target="_blank"> <img src="https://github.com/facebookresearch/pytorch3d/blob/main/website/static/img/pytorch3dfavicon.png" alt="PyTorch3D" width="40" height="40" /> </a>
+  <a href="https://huggingface.co/transformers" target="_blank"> 🤗 Transformers </a>
 </p>
 <h3 align="left">BioMed:</h3>
 <p align="left">
