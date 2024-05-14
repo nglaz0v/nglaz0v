@@ -12,7 +12,22 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a>
   <a href="https://www.r-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40" /> </a>
 </p>
-<h3 align="left">Libraries:</h3>
+<h3 align="left">Graphical User Interface:</h3>
+<p align="left">
+  <a href="https://www.qt.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40" /> </a>
+  <!-- <a href="https://kivy.org" target="_blank"> <img src="https://github.com/kivy/kivy/blob/master/kivy/data/logo/kivy-icon-256.png" alt="Kivy" width="40" height="40" /> </a> -->
+</p>
+<h3 align="left">Image Processing & Computer Vision:</h3>
+<p align="left">
+  <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" /> </a>
+  <!-- <a href="https://python-pillow.org" target="_blank"> <img src="https://github.com/python-pillow/Pillow/blob/main/docs/resources/favicon.ico" alt="Pillow" width="40" height="40" /> </a> -->
+  <!-- <a href="https://scikit-image.org" target="_blank"> <img src="https://github.com/scikit-image/scikit-image/blob/main/skimage/data/logo.png" alt="scikit-image" width="40" height="40" /> </a> -->
+  <!-- <a href="https://github.com/OlafenwaMoses/ImageAI" target="_blank"> <img src="https://github.com/OlafenwaMoses/ImageAI/blob/master/logo2.png" alt="ImageAI" width="40" height="40" /> </a> -->
+  <!-- <a href="https://developers.google.com/mediapipe" target="_blank"> <img src="https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg" alt="MediaPipe" width="40" height="40" /> </a> -->
+  <!-- <a href="https://simpleitk.org" target="_blank"> <img src="https://github.com/SimpleITK/SimpleITK/blob/master/docs/source/_static/yellow_itk_icon.svg" alt="SimpleITK" width="40" height="40" /> </a> -->
+  <!-- <a href="https://luispedro.org/software/mahotas" target="_blank"> Mahotas </a> -->
+</p>
+<h3 align="left">Data Science:</h3>
 <p align="left">
   <ul>
     <li>Math:
@@ -31,21 +46,9 @@
     </li>
     <li>Data:
       <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
-      <a href="https://www.dask.org" target="_blank"> <img src="https://github.com/dask/dask/blob/main/docs/source/images/dask_icon.svg" alt="Dask" width="40" height="40" /> </a>
+      <!-- <a href="https://www.dask.org" target="_blank"> <img src="https://github.com/dask/dask/blob/main/docs/source/images/dask_icon.svg" alt="Dask" width="40" height="40" /> </a> -->
       <a href="https://tidyverse.tidyverse.org" target="_blank"> <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="tidyverse" width="40" height="40" /> </a>
-    </li>
-    <li>GUI:
-      <a href="https://www.qt.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40" /> </a>
-      <!-- <a href="https://kivy.org" target="_blank"> <img src="https://github.com/kivy/kivy/blob/master/kivy/data/logo/kivy-icon-256.png" alt="Kivy" width="40" height="40" /> </a> -->
-    </li>
-    <li>CV:
-      <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" /> </a>
-      <!-- <a href="https://python-pillow.org" target="_blank"> <img src="https://github.com/python-pillow/Pillow/blob/main/docs/resources/favicon.ico" alt="Pillow" width="40" height="40" /> </a> -->
-      <!-- <a href="https://scikit-image.org" target="_blank"> <img src="https://github.com/scikit-image/scikit-image/blob/main/skimage/data/logo.png" alt="scikit-image" width="40" height="40" /> </a> -->
-      <!-- <a href="https://github.com/OlafenwaMoses/ImageAI" target="_blank"> <img src="https://github.com/OlafenwaMoses/ImageAI/blob/master/logo2.png" alt="ImageAI" width="40" height="40" /> </a> -->
-      <!-- <a href="https://developers.google.com/mediapipe" target="_blank"> <img src="https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg" alt="MediaPipe" width="40" height="40" /> </a> -->
-      <!-- <a href="https://simpleitk.org" target="_blank"> <img src="https://github.com/SimpleITK/SimpleITK/blob/master/docs/source/_static/yellow_itk_icon.svg" alt="SimpleITK" width="40" height="40" /> </a> -->
-      <!-- <a href="https://luispedro.org/software/mahotas" target="_blank"> Mahotas </a> -->
+      <!-- <a href="https://geopandas.org" target="_blank"> <img src="https://github.com/geopandas/geopandas/blob/main/doc/source/_static/logo/favicon.png" alt="GeoPandas" width="40" height="40" /> </a> -->
     </li>
     <li>NLP:
       <a href="https://spacy.io/" target="_blank"> spaCy </a> |
@@ -62,23 +65,6 @@
           <!-- <a href="https://github.com/natasha" target="_blank"> natasha </a> | -->
         </li>
       </ul>
-    </li>
-    <li>Web framework:
-      <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://github.com/pallets/flask/blob/main/docs/_static/shortcut-icon.png" alt="Flask" width="40" height="40" /> </a>
-      <a href="https://github.com/eternnoir/pyTelegramBotAPI/" target="_blank"> <img src="https://github.com/eternnoir/pyTelegramBotAPI/blob/master/docs/source/_static/logo.png" alt="pyTelegramBotAPI" width="40" height="40" /> </a>
-      <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/favicon.png" alt="FastAPI" width="40" height="40" /> </a>
-      <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
-      <!-- <a href="https://www.gradio.app" target="_blank"> <img src="https://github.com/gradio-app/gradio/blob/main/guides/assets/logo.png" alt="Gradio" width="40" height="40" /> </a> -->
-      <!-- <a href="https://github.com/aio-libs/aiohttp" target="_blank"> <img src="https://github.com/aio-libs/aiohttp/blob/master/docs/aiohttp-icon.svg" alt="AIOHTTP" width="40" height="40" /> </a> -->
-      <!-- <a href="https://www.djangoproject.com/" target="_blank"> Django </a> -->
-      <!-- <a href="https://plotly.com/dash/" target="_blank"> Dash </a> -->
-      <!-- <a href="https://trypyramid.com/" target="_blank"> Pyramid </a> -->
-    </li>
-    <li>Web scrapping:
-      <a href="https://requests.readthedocs.io" target="_blank"> <img src="https://github.com/psf/requests/blob/main/ext/requests-logo.svg" alt="Requests" width="40" height="40" /> </a>
-      <a href="https://scrapy.org" target="_blank"> <img src="https://scrapy.org/img/scrapy-pros.png" alt="Scrapy" width="40" height="40" /> </a>
-      <!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://github.com/SeleniumHQ/selenium/blob/trunk/javascript/grid-ui/public/logo192.png" alt="Selenium" width="40" height="40" /> </a> -->
-      <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"> bs4 </a>
     </li>
     <li>misc:
       <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
@@ -129,6 +115,28 @@
   <!-- <a href="https://github.com/medspacy/medspacy" target="_blank"> <img src="https://github.com/medspacy/medspacy/blob/master/images/medspacy_logo.png" alt="medspacy" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/ncbi-nlp/BioSentVec" target="_blank"> BioSentVec </a> -->
 </p>
+<h3 align="left">Web:</h3>
+<p align="left">
+  <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://github.com/pallets/flask/blob/main/docs/_static/shortcut-icon.png" alt="Flask" width="40" height="40" /> </a>
+  <a href="https://github.com/eternnoir/pyTelegramBotAPI/" target="_blank"> <img src="https://github.com/eternnoir/pyTelegramBotAPI/blob/master/docs/source/_static/logo.png" alt="pyTelegramBotAPI" width="40" height="40" /> </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/favicon.png" alt="FastAPI" width="40" height="40" /> </a>
+  <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
+  <!-- <a href="https://www.gradio.app" target="_blank"> <img src="https://github.com/gradio-app/gradio/blob/main/guides/assets/logo.png" alt="Gradio" width="40" height="40" /> </a> -->
+  <!-- <a href="https://github.com/aio-libs/aiohttp" target="_blank"> <img src="https://github.com/aio-libs/aiohttp/blob/master/docs/aiohttp-icon.svg" alt="AIOHTTP" width="40" height="40" /> </a> -->
+  <!-- <a href="https://www.djangoproject.com/" target="_blank"> Django </a> -->
+  <!-- <a href="https://plotly.com/dash/" target="_blank"> Dash </a> -->
+  <!-- <a href="https://trypyramid.com/" target="_blank"> Pyramid </a> -->
+  |
+  <a href="https://requests.readthedocs.io" target="_blank"> <img src="https://github.com/psf/requests/blob/main/ext/requests-logo.svg" alt="Requests" width="40" height="40" /> </a>
+  <a href="https://scrapy.org" target="_blank"> <img src="https://scrapy.org/img/scrapy-pros.png" alt="Scrapy" width="40" height="40" /> </a>
+  <!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://github.com/SeleniumHQ/selenium/blob/trunk/javascript/grid-ui/public/logo192.png" alt="Selenium" width="40" height="40" /> </a> -->
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"> bs4 </a>
+</p>
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /> </a>
+  <a href="https://sqlite.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" /> </a>
+</p>
 <h3 align="left">Virtualization:</h3>
 <p align="left">
   <a href="https://www.qemu.org" target="_blank"> <img src="https://www.qemu.org/docs/master/_static/qemu_128x128.png" alt="QEMU" width="40" height="40" /> </a>
@@ -144,11 +152,6 @@
   <a href="https://arduino.cc" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" /> </a>
   <a href="https://processing.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" width="40" height="40" /> </a>
   <a href="https://kernel.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> </a>
-</p>
-<h3 align="left">Databases:</h3>
-<p align="left">
-  <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /> </a>
-  <a href="https://sqlite.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Computer Algebra Systems:</h3>
 <p align="left">
