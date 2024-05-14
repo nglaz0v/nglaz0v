@@ -31,6 +31,7 @@
     </li>
     <li>Data:
       <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
+      <a href="https://www.dask.org" target="_blank"> <img src="https://github.com/dask/dask/blob/main/docs/source/images/dask_icon.svg" alt="Dask" width="40" height="40" /> </a>
       <a href="https://tidyverse.tidyverse.org" target="_blank"> <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="tidyverse" width="40" height="40" /> </a>
     </li>
     <li>GUI:
@@ -43,6 +44,8 @@
       <!-- <a href="https://scikit-image.org" target="_blank"> <img src="https://github.com/scikit-image/scikit-image/blob/main/skimage/data/logo.png" alt="scikit-image" width="40" height="40" /> </a> -->
       <!-- <a href="https://github.com/OlafenwaMoses/ImageAI" target="_blank"> <img src="https://github.com/OlafenwaMoses/ImageAI/blob/master/logo2.png" alt="ImageAI" width="40" height="40" /> </a> -->
       <!-- <a href="https://developers.google.com/mediapipe" target="_blank"> <img src="https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg" alt="MediaPipe" width="40" height="40" /> </a> -->
+      <!-- <a href="https://simpleitk.org" target="_blank"> <img src="https://github.com/SimpleITK/SimpleITK/blob/master/docs/source/_static/yellow_itk_icon.svg" alt="SimpleITK" width="40" height="40" /> </a> -->
+      <!-- <a href="https://luispedro.org/software/mahotas" target="_blank"> Mahotas </a> -->
     </li>
     <li>NLP:
       <a href="https://spacy.io/" target="_blank"> spaCy </a> |
@@ -52,6 +55,7 @@
       <!-- <a href="https://fasttext.cc/" target="_blank"> fastText </a> | -->
       <a href="https://github.com/amueller/word_cloud" target="_blank"> wordcloud </a> |
       <!-- <a href="https://deeppavlov.ai/" target="_blank"> DeepPavlov </a> | -->
+      <!-- <a href="https://stanfordnlp.github.io/CoreNLP/" target="_blank"> CoreNLP </a> | -->
       <ul>
         <li>NLP-ru:
           <a href="https://github.com/pymorphy2/pymorphy2" target="_blank"> pymorphy2 </a> |
@@ -59,16 +63,22 @@
         </li>
       </ul>
     </li>
-    <li>Web:
-      <a href="https://requests.readthedocs.io" target="_blank"> <img src="https://github.com/psf/requests/blob/main/ext/requests-logo.svg" alt="Requests" width="40" height="40" /> </a>
-      <a href="https://scrapy.org" target="_blank"> <img src="https://scrapy.org/img/scrapy-pros.png" alt="Scrapy" width="40" height="40" /> </a>
-      <!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://github.com/SeleniumHQ/selenium/blob/trunk/javascript/grid-ui/public/logo192.png" alt="Selenium" width="40" height="40" /> </a> -->
+    <li>Web framework:
       <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://github.com/pallets/flask/blob/main/docs/_static/shortcut-icon.png" alt="Flask" width="40" height="40" /> </a>
       <a href="https://github.com/eternnoir/pyTelegramBotAPI/" target="_blank"> <img src="https://github.com/eternnoir/pyTelegramBotAPI/blob/master/docs/source/_static/logo.png" alt="pyTelegramBotAPI" width="40" height="40" /> </a>
       <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/favicon.png" alt="FastAPI" width="40" height="40" /> </a>
       <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
       <!-- <a href="https://www.gradio.app" target="_blank"> <img src="https://github.com/gradio-app/gradio/blob/main/guides/assets/logo.png" alt="Gradio" width="40" height="40" /> </a> -->
       <!-- <a href="https://github.com/aio-libs/aiohttp" target="_blank"> <img src="https://github.com/aio-libs/aiohttp/blob/master/docs/aiohttp-icon.svg" alt="AIOHTTP" width="40" height="40" /> </a> -->
+      <!-- <a href="https://www.djangoproject.com/" target="_blank"> Django </a> -->
+      <!-- <a href="https://plotly.com/dash/" target="_blank"> Dash </a> -->
+      <!-- <a href="https://trypyramid.com/" target="_blank"> Pyramid </a> -->
+    </li>
+    <li>Web scrapping:
+      <a href="https://requests.readthedocs.io" target="_blank"> <img src="https://github.com/psf/requests/blob/main/ext/requests-logo.svg" alt="Requests" width="40" height="40" /> </a>
+      <a href="https://scrapy.org" target="_blank"> <img src="https://scrapy.org/img/scrapy-pros.png" alt="Scrapy" width="40" height="40" /> </a>
+      <!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://github.com/SeleniumHQ/selenium/blob/trunk/javascript/grid-ui/public/logo192.png" alt="Selenium" width="40" height="40" /> </a> -->
+      <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"> bs4 </a>
     </li>
     <li>misc:
       <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
@@ -85,9 +95,16 @@
   <a href="https://github.com/catboost" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
   <!-- <a href="https://tidymodels.tidymodels.org" target="_blank"> <img src="https://github.com/tidymodels/tidymodels/blob/main/man/figures/logo.png" alt="tidymodels" width="40" height="40" /> </a> -->
   <ul>
-    <li>ML-tools:
+    <!--<li>MLOps:
+      <a href="https://mlflow.org" target="_blank"> <img src="https://github.com/mlflow/mlflow/blob/master/assets/icon.svg" alt="MLflow" width="40" height="40" /> </a>
+      <a href="https://www.kubeflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/kubeflow/kubeflow/master/components/centraldashboard/public/assets/favicon-32x32.png" alt="Kubeflow" width="40" height="40" /> </a>
+      <a href="https://www.zenml.io" target="_blank"> <img src="https://github.com/zenml-io/zenml/blob/main/docs/mkdocs/_assets/favicon.png" alt="ZenML" width="40" height="40" /> </a>
+    </li>-->
+    <li>Explainable AI:
       <a href="https://shap.readthedocs.io/en/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/favicon.ico" alt="SHAP" width="40" height="40" /> </a>
       <a href="https://github.com/eli5-org/eli5" target="_blank"> ELI5 </a>
+      <!-- <a href="https://github.com/marcotcr/lime" target="_blank"> LIME </a> -->
+      <!-- <a href="https://interpret.ml" target="_blank"> InterpretML </a> -->
       <!-- <a href="https://github.com/scikit-learn-contrib/imbalanced-learn" target="_blank"> <img src="https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/doc/_static/img/logo.png" alt="imbalanced-learn" width="40" height="40" /> </a> -->
       <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
       <!-- <a href="https://www.scikit-yb.org/en/latest/" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a> -->
