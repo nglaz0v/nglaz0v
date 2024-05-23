@@ -81,6 +81,7 @@
   <a href="https://lightgbm.readthedocs.io" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
   <a href="https://catboost.ai" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
   <!-- <a href="https://tidymodels.tidymodels.org" target="_blank"> <img src="https://github.com/tidymodels/tidymodels/blob/main/man/figures/logo.png" alt="tidymodels" width="40" height="40" /> </a> -->
+  <!-- <a href="https://facebook.github.io/prophet" target="_blank"> <img src="https://github.com/facebook/prophet/blob/main/docs/static/favicon.png" alt="Prophet" width="40" height="40" /> </a> -->
   <ul>
     <!--<li>MLOps:
       <a href="https://mlflow.org" target="_blank"> <img src="https://github.com/mlflow/mlflow/blob/master/assets/icon.svg" alt="MLflow" width="40" height="40" /> </a>
@@ -115,6 +116,7 @@
   <!-- <a href="https://allenai.github.io/scispacy" target="_blank"> <img src="https://github.com/allenai/scispacy/blob/main/docs/scispacy-logo-square.png" alt="scispaCy" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/medspacy/medspacy" target="_blank"> <img src="https://github.com/medspacy/medspacy/blob/master/images/medspacy_logo.png" alt="medspacy" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/ncbi-nlp/BioSentVec" target="_blank"> BioSentVec </a> -->
+  <a href="https://github.com/therneau/survival" target="_blank"> <img src="https://github.com/therneau/survival/blob/master/man/figures/logo.png" alt="survival" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Web:</h3>
 <p align="left">
