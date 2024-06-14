@@ -118,6 +118,7 @@
   <!-- <a href="https://github.com/ncbi-nlp/BioSentVec" target="_blank"> BioSentVec </a> -->
   <a href="https://github.com/therneau/survival" target="_blank"> <img src="https://github.com/therneau/survival/blob/master/man/figures/logo.png" alt="survival" width="40" height="40" /> </a>
   <!-- <a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://github.com/mne-tools/mne-python/blob/main/doc/_static/mne_logo.svg" alt="MNE" width="40" height="40" /> </a> -->
+  <!-- <a href="https://github.com/pydicom/pydicom" target="_blank"> <img src="https://github.com/pydicom/pydicom/blob/main/doc/assets/img/pydicom_flat_black.svg" alt="pydicom" width="40" height="40" /> </a> -->
 </p>
 <h3 align="left">Web:</h3>
 <p align="left">
