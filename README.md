@@ -60,6 +60,7 @@
       <a href="https://github.com/amueller/word_cloud" target="_blank"> wordcloud </a> |
       <!-- <a href="https://deeppavlov.ai" target="_blank"> DeepPavlov </a> | -->
       <!-- <a href="https://stanfordnlp.github.io/CoreNLP" target="_blank"> CoreNLP </a> | -->
+      <!-- <a href="https://github.com/makcedward/nlpaug" target="_blank"> nlpaug </a> | -->
       <ul>
         <li>NLP-ru:
           <a href="https://github.com/pymorphy2/pymorphy2" target="_blank"> pymorphy2 </a> |
@@ -107,6 +108,7 @@
   <a href="https://pytorch.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /> </a>
   <!-- <a href="https://lightning.ai" target="_blank"> <img src="https://github.com/Lightning-AI/pytorch-lightning/blob/master/docs/source-app/_static/images/logo-large.svg" alt="PyTorch Lightning" width="40" height="40" /> </a> -->
   <a href="https://github.com/facebookresearch/pytorch3d" target="_blank"> <img src="https://github.com/facebookresearch/pytorch3d/blob/main/website/static/img/pytorch3dfavicon.png" alt="PyTorch3D" width="40" height="40" /> </a>
+  <!-- <a href="https://albumentations.ai" target="_blank"> <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="Albumentations" width="40" height="40" /> </a> -->
   <a href="https://huggingface.co/transformers" target="_blank"> 🤗 Transformers </a>
 </p>
 <h3 align="left">BioMed:</h3>
