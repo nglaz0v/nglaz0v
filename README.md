@@ -83,6 +83,7 @@
   <a href="https://catboost.ai" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
   <!-- <a href="https://tidymodels.tidymodels.org" target="_blank"> <img src="https://github.com/tidymodels/tidymodels/blob/main/man/figures/logo.png" alt="tidymodels" width="40" height="40" /> </a> -->
   <!-- <a href="https://facebook.github.io/prophet" target="_blank"> <img src="https://github.com/facebook/prophet/blob/main/docs/static/favicon.png" alt="Prophet" width="40" height="40" /> </a> -->
+  <!-- <a href="https://rapids.ai" target="_blank"> <img src="https://github.com/rapidsai/rapids.ai/blob/main/assets/images/RAPIDS-logo.png" alt="RAPIDS" width="40" height="40" /> </a> -->
   <ul>
     <!--<li>MLOps:
       <a href="https://mlflow.org" target="_blank"> <img src="https://github.com/mlflow/mlflow/blob/master/assets/icon.svg" alt="MLflow" width="40" height="40" /> </a>
