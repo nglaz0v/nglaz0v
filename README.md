@@ -85,11 +85,11 @@
   <!-- <a href="https://facebook.github.io/prophet" target="_blank"> <img src="https://github.com/facebook/prophet/blob/main/docs/static/favicon.png" alt="Prophet" width="40" height="40" /> </a> -->
   <!-- <a href="https://rapids.ai" target="_blank"> <img src="https://github.com/rapidsai/rapids.ai/blob/main/assets/images/RAPIDS-logo.png" alt="RAPIDS" width="40" height="40" /> </a> -->
   <ul>
-    <!--<li>MLOps:
+    <!-- <li>MLOps:
       <a href="https://mlflow.org" target="_blank"> <img src="https://github.com/mlflow/mlflow/blob/master/assets/icon.svg" alt="MLflow" width="40" height="40" /> </a>
       <a href="https://www.kubeflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/kubeflow/kubeflow/master/components/centraldashboard/public/assets/favicon-32x32.png" alt="Kubeflow" width="40" height="40" /> </a>
       <a href="https://www.zenml.io" target="_blank"> <img src="https://github.com/zenml-io/zenml/blob/main/docs/mkdocs/_assets/favicon.png" alt="ZenML" width="40" height="40" /> </a>
-    </li>-->
+    </li> -->
     <li>Explainable AI:
       <a href="https://shap.readthedocs.io" target="_blank"> <img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/favicon.ico" alt="SHAP" width="40" height="40" /> </a>
       <a href="https://github.com/eli5-org/eli5" target="_blank"> ELI5 </a>
@@ -116,13 +116,17 @@
 <p align="left">
   <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
   <!-- <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a> -->
-  <!-- <a href="https://sparknlp.org" target="_blank"> <img src="https://github.com/JohnSnowLabs/spark-nlp/blob/master/docs/assets/fav.ico" alt="Spark NLP" width="40" height="40" /> </a> -->
-  <!-- <a href="https://allenai.github.io/scispacy" target="_blank"> <img src="https://github.com/allenai/scispacy/blob/main/docs/scispacy-logo-square.png" alt="scispaCy" width="40" height="40" /> </a> -->
-  <!-- <a href="https://github.com/medspacy/medspacy" target="_blank"> <img src="https://github.com/medspacy/medspacy/blob/master/images/medspacy_logo.png" alt="medspacy" width="40" height="40" /> </a> -->
-  <!-- <a href="https://github.com/ncbi-nlp/BioSentVec" target="_blank"> BioSentVec </a> -->
   <a href="https://github.com/therneau/survival" target="_blank"> <img src="https://github.com/therneau/survival/blob/master/man/figures/logo.png" alt="survival" width="40" height="40" /> </a>
   <!-- <a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://github.com/mne-tools/mne-python/blob/main/doc/_static/mne_logo.svg" alt="MNE" width="40" height="40" /> </a> -->
-  <!-- <a href="https://github.com/pydicom/pydicom" target="_blank"> <img src="https://github.com/pydicom/pydicom/blob/main/doc/assets/img/pydicom_flat_black.svg" alt="pydicom" width="40" height="40" /> </a> -->
+  <a href="https://github.com/pydicom/pydicom" target="_blank"> <img src="https://github.com/pydicom/pydicom/blob/main/doc/assets/img/pydicom_flat_black.svg" alt="pydicom" width="40" height="40" /> </a>
+  <!-- <ul>
+    <li>MedNLP:
+      <a href="https://sparknlp.org" target="_blank"> <img src="https://github.com/JohnSnowLabs/spark-nlp/blob/master/docs/assets/fav.ico" alt="Spark NLP" width="40" height="40" /> </a>
+      <a href="https://allenai.github.io/scispacy" target="_blank"> <img src="https://github.com/allenai/scispacy/blob/main/docs/scispacy-logo-square.png" alt="scispaCy" width="40" height="40" /> </a>
+      <a href="https://github.com/medspacy/medspacy" target="_blank"> <img src="https://github.com/medspacy/medspacy/blob/master/images/medspacy_logo.png" alt="medspacy" width="40" height="40" /> </a>
+      <a href="https://github.com/ncbi-nlp/BioSentVec" target="_blank"> BioSentVec </a>
+    </li>
+  </ul> -->
 </p>
 <h3 align="left">Web:</h3>
 <p align="left">
@@ -181,7 +185,7 @@
 <h4 align="left">Cloud Computing:</h4>
 <p align="left">
   <a href="https://colab.research.google.com" target="_blank"> Google Colab </a> |
-  <a href="https://cloud.yandex.ru/services/datasphere" target="_blank"> Yandex DataSphere </a>
+  <a href="https://cloud.yandex.ru/services/datasphere" target="_blank"> Yandex Cloud </a>
 </p>
 <h5 align="left">Instruction Sets:</h5>
 <p align="left">
