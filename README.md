@@ -52,15 +52,15 @@
       <!-- <a href="https://geopandas.org" target="_blank"> <img src="https://github.com/geopandas/geopandas/blob/main/doc/source/_static/logo/favicon.png" alt="GeoPandas" width="40" height="40" /> </a> -->
     </li>
     <li>NLP:
-      <a href="https://spacy.io" target="_blank"> spaCy </a> |
-      <a href="https://radimrehurek.com/gensim" target="_blank"> Gensim </a> |
+      <a href="https://spacy.io" target="_blank"> <img src="https://github.com/explosion/spaCy/blob/master/website/src/images/icon.png" alt="spaCy" width="40" height="40" /> </a>
+      <a href="https://radimrehurek.com/gensim" target="_blank"> <img src="https://github.com/piskvorky/gensim/blob/develop/docs/src/_static/favicon.ico" alt="Gensim" width="40" height="40" /> </a>
       <a href="https://www.nltk.org" target="_blank"> NLTK </a> |
-      <!-- <a href="https://textblob.readthedocs.io" target="_blank"> TextBlob </a> | -->
-      <!-- <a href="https://fasttext.cc" target="_blank"> fastText </a> | -->
+      <!-- <a href="https://textblob.readthedocs.io" target="_blank"> <img src="https://github.com/sloria/TextBlob/blob/dev/docs/_static/textblob-logo.png" alt="TextBlob" width="40" height="40" /> </a> -->
+      <!-- <a href="https://fasttext.cc" target="_blank"> <img src="https://github.com/facebookresearch/fastText/blob/main/website/static/img/fasttext-icon-color-square.png" alt="fastText" width="40" height="40" /> </a> -->
       <a href="https://github.com/amueller/word_cloud" target="_blank"> wordcloud </a> |
-      <!-- <a href="https://deeppavlov.ai" target="_blank"> DeepPavlov </a> | -->
-      <!-- <a href="https://stanfordnlp.github.io/CoreNLP" target="_blank"> CoreNLP </a> | -->
-      <!-- <a href="https://github.com/makcedward/nlpaug" target="_blank"> nlpaug </a> | -->
+      <!-- <a href="https://deeppavlov.ai" target="_blank"> <img src="https://github.com/deeppavlov/DeepPavlov/blob/master/docs/_static/deeppavlov_logo.png" alt="DeepPavlov" width="40" height="40" /> </a> -->
+      <!-- <a href="https://stanfordnlp.github.io/CoreNLP" target="_blank"> <img src="https://github.com/stanfordnlp/CoreNLP/blob/main/data/webapps/favicon.ico" alt="CoreNLP" width="40" height="40" /> </a> -->
+      <!-- <a href="https://github.com/makcedward/nlpaug" target="_blank"> <img src="https://github.com/makcedward/nlpaug/blob/master/res/logo_small.png" alt="nlpaug" width="40" height="40" /> </a> -->
       <ul>
         <li>NLP-ru:
           <a href="https://github.com/pymorphy2/pymorphy2" target="_blank"> pymorphy2 </a> |
