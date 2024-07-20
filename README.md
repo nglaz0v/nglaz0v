@@ -138,6 +138,7 @@
 <p align="left">
   <a href="https://palletsprojects.com/p/flask" target="_blank"> <img src="https://github.com/pallets/flask/blob/main/docs/_static/shortcut-icon.png" alt="Flask" width="40" height="40" /> </a>
   <a href="https://github.com/eternnoir/pyTelegramBotAPI" target="_blank"> <img src="https://github.com/eternnoir/pyTelegramBotAPI/blob/master/docs/source/_static/logo.png" alt="pyTelegramBotAPI" width="40" height="40" /> </a>
+  <a href="https://python-telegram-bot.org" target="_blank"> <img src="https://github.com/python-telegram-bot/python-telegram-bot/blob/master/docs/source/ptb-logo_1024.png" alt="python-telegram-bot" width="40" height="40" /> </a>
   <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/favicon.png" alt="FastAPI" width="40" height="40" /> </a>
   <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
   <!-- <a href="https://www.gradio.app" target="_blank"> <img src="https://github.com/gradio-app/gradio/blob/main/guides/assets/logo.png" alt="Gradio" width="40" height="40" /> </a> -->
