@@ -130,6 +130,7 @@
 </p>
 <h3 align="left">Parallel Computing:</h3>
 <p align="left">
+  <a href="https://tqdm.github.io/" target="_blank"> <img src="https://github.com/tqdm/tqdm/blob/master/logo.png" alt="tqdm" width="40" height="40" /> </a>
   <a href="https://joblib.readthedocs.io/en/stable/" target="_blank"> <img src="https://github.com/joblib/joblib/blob/main/doc/_static/joblib_logo.svg" alt="Joblib" width="40" height="40" /> </a>
   <!-- <a href="https://numba.pydata.org/" target="_blank"> <img src="https://github.com/numba/numba/blob/main/docs/_static/numba-blue-icon-rgb.svg" alt="Numba" width="40" height="40" /> </a> -->
   <!-- <a href="https://jax.readthedocs.io/en/latest/" target="_blank"> <img src="https://github.com/google/jax/blob/main/images/jax_logo.svg" alt="JAX" width="40" height="40" /> </a> -->
