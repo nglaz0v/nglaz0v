@@ -108,11 +108,22 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /> </a>
   <a href="https://pytorch.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /> </a>
   <a href="https://lightning.ai" target="_blank"> <img src="https://github.com/Lightning-AI/pytorch-lightning/blob/master/docs/source-fabric/_static/images/logo-large.svg" alt="PyTorch Lightning" width="40" height="40" /> </a>
-  <a href="https://docs.ultralytics.com" target="_blank"> <img src="https://raw.githubusercontent.com/ultralytics/ultralytics/main/docs/overrides/assets/favicon.ico" alt="Ultralytics YOLOv8" width="40" height="40" /> </a>
-  <!-- <a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" alt="Detectron2" width="40" height="40" /> </a> -->
-  <a href="https://github.com/facebookresearch/pytorch3d" target="_blank"> <img src="https://github.com/facebookresearch/pytorch3d/blob/main/website/static/img/pytorch3dfavicon.png" alt="PyTorch3D" width="40" height="40" /> </a>
-  <!-- <a href="https://albumentations.ai" target="_blank"> <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="Albumentations" width="40" height="40" /> </a> -->
-  <a href="https://huggingface.co/transformers" target="_blank"> 🤗 Transformers </a>
+  <ul>
+    <li>SoTA:
+      <a href="https://docs.ultralytics.com" target="_blank"> <img src="https://raw.githubusercontent.com/ultralytics/ultralytics/main/docs/overrides/assets/favicon.ico" alt="Ultralytics YOLOv8" width="40" height="40" /> </a>
+      <!-- <a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" alt="Detectron2" width="40" height="40" /> </a> -->
+      <a href="https://github.com/facebookresearch/pytorch3d" target="_blank"> <img src="https://github.com/facebookresearch/pytorch3d/blob/main/website/static/img/pytorch3dfavicon.png" alt="PyTorch3D" width="40" height="40" /> </a>
+      <!-- <a href="https://albumentations.ai" target="_blank"> <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="Albumentations" width="40" height="40" /> </a> -->
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <a href="https://huggingface.co" target="_blank"> 🤗 Hugging Face </a>:
+      <a href="https://github.com/huggingface/transformers" target="_blank"> Transformers </a>,
+      <a href="https://github.com/huggingface/diffusers" target="_blank"> Diffusers </a>,
+      <a href="https://github.com/huggingface/accelerate" target="_blank"> Accelerate </a>
+    </li>
+  </ul>
 </p>
 <h3 align="left">BioMed:</h3>
 <p align="left">
