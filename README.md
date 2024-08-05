@@ -120,7 +120,8 @@
     <li>
       <a href="https://huggingface.co" target="_blank"> 🤗 Hugging Face </a>:
       <a href="https://github.com/huggingface/transformers" target="_blank"> Transformers </a>,
-      <a href="https://github.com/huggingface/diffusers" target="_blank"> Diffusers </a>,
+      <a href="https://github.com/huggingface/datasets" target="_blank"> Datasets </a>,
+      <a href="https://github.com/huggingface/diffusers" target="_blank"> 🧨 Diffusers </a>,
       <a href="https://github.com/huggingface/accelerate" target="_blank"> Accelerate </a>
     </li>
   </ul>
