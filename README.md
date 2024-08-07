@@ -1,6 +1,6 @@
 ## Hi there👋
-- 👀 I’m interested in Data Science and Computer Vision
-- 🌱 I’m currently learning Machine Learning and Neural Networks
+- 👀 I’m interested in Data Science, Computer Vision, Generative AI
+- 🌱 I’m currently learning Bioinformatics
 <!--- - :telescope: I'm currently working on ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
@@ -121,6 +121,7 @@
       <a href="https://huggingface.co" target="_blank"> 🤗 Hugging Face </a>:
       <a href="https://github.com/huggingface/transformers" target="_blank"> Transformers </a>,
       <a href="https://github.com/huggingface/datasets" target="_blank"> Datasets </a>,
+      <a href="https://github.com/huggingface/tokenizers" target="_blank"> Tokenizers </a>,
       <a href="https://github.com/huggingface/diffusers" target="_blank"> 🧨 Diffusers </a>,
       <a href="https://github.com/huggingface/accelerate" target="_blank"> Accelerate </a>
     </li>
