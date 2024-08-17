@@ -71,6 +71,7 @@
     <li>misc:
       <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
       <a href="https://www.anaconda.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" /> </a>
+      <!-- <a href="https://rpy2.github.io" target="_blank"> <img src="https://github.com/rpy2/rpy2/blob/master/doc/_static/rpy2_logo.png" alt="rpy2" width="40" height="40" /> </a> -->
     </li>
   </ul>
 </p>
@@ -142,11 +143,25 @@
       <a href="https://github.com/ncbi-nlp/BioSentVec" target="_blank"> BioSentVec </a>
     </li>
   </ul> -->
+  <!-- <ul>
+    <li>NGS:
+      <a href="https://github.com/jamescasbon/PyVCF" target="_blank"> PyVCF </a>
+      <a href="https://github.com/pysam-developers/pysam" target="_blank"> Pysam </a>
+      <a href="https://github.com/htseq/htseq" target="_blank"> HTSeq </a>
+    </li>
+    <li>Phylogenetics:
+      <a href="https://github.com/jeetsukumaran/DendroPy" target="_blank"> <img src="https://github.com/jeetsukumaran/DendroPy/blob/main/docs/source/_static/dendropy_icon.png" alt="DendroPy" width="40" height="40" /> </a>
+    </li>
+    <li>Proteomics:
+      <a href="https://github.com/schrodinger/pymol-open-source" target="_blank"> PyMOL </a>
+    </li>
+  </ul> -->
 </p>
 <h3 align="left">Performance:</h3>
 <p align="left">
   <a href="https://tqdm.github.io/" target="_blank"> <img src="https://github.com/tqdm/tqdm/blob/master/logo.png" alt="tqdm" width="40" height="40" /> </a>
   <a href="https://joblib.readthedocs.io/en/stable/" target="_blank"> <img src="https://github.com/joblib/joblib/blob/main/doc/_static/joblib_logo.svg" alt="Joblib" width="40" height="40" /> </a>
+  <!-- <a href="https://cython.org/" target="_blank"> <img src="https://github.com/cython/cython/blob/master/docs/_static/cython-logo-C.svg" alt="Cython" width="40" height="40" /> </a> -->
   <!-- <a href="https://numba.pydata.org/" target="_blank"> <img src="https://github.com/numba/numba/blob/main/docs/_static/numba-blue-icon-rgb.svg" alt="Numba" width="40" height="40" /> </a> -->
   <!-- <a href="https://jax.readthedocs.io/en/latest/" target="_blank"> <img src="https://github.com/google/jax/blob/main/images/jax_logo.svg" alt="JAX" width="40" height="40" /> </a> -->
 </p>
