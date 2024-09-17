@@ -100,6 +100,8 @@
       <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
       <!-- <a href="https://www.scikit-yb.org" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a> -->
       <!-- <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a> -->
+      <!-- <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/favicon.ico" alt="scikit-optimize" width="40" height="40" /> </a> -->
+      <!-- <a href="https://hyperopt.github.io/hyperopt/" target="_blank"> <img src="https://camo.githubusercontent.com/d9cabe82cdc7bff598f84d61b0a8921cd5c3ceb0716b03399fc31db1a2a23182/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a> -->
     </li>
   </ul>
 </p>
