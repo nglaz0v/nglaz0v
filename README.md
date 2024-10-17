@@ -123,12 +123,17 @@
     <li>
       <a href="https://huggingface.co" target="_blank"> 🤗 Hugging Face </a>:
       <a href="https://github.com/huggingface/transformers" target="_blank"> Transformers </a>,
-      <a href="https://github.com/huggingface/datasets" target="_blank"> Datasets </a>,
-      <a href="https://github.com/huggingface/tokenizers" target="_blank"> Tokenizers </a>,
+      <!-- <a href="https://github.com/huggingface/datasets" target="_blank"> Datasets </a>, -->
+      <!-- <a href="https://github.com/huggingface/tokenizers" target="_blank"> Tokenizers </a>, -->
       <a href="https://github.com/huggingface/diffusers" target="_blank"> 🧨 Diffusers </a>,
-      <a href="https://github.com/huggingface/accelerate" target="_blank"> Accelerate </a>
+      <!-- <a href="https://github.com/huggingface/accelerate" target="_blank"> Accelerate </a> -->
     </li>
   </ul>
+</p>
+<h3 align="left">GenAI:</h3>
+<p align="left">
+  <a href="https://github.com/openai/openai-python" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="OpenAI" width="40" height="40" /> </a>
+  <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank"> <img src="https://avatars.githubusercontent.com/u/100950301?s=200&v=4" alt="Stable Diffusion" width="40" height="40" /> </a>
 </p>
 <h3 align="left">BioMed:</h3>
 <p align="left">
