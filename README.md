@@ -39,7 +39,7 @@
     <li>Plots:
       <a href="https://matplotlib.org" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" width="40" height="40" /> </a>
       <a href="https://seaborn.pydata.org" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" /> </a>
-      <!--<a href="https://plotly.com/python" target="_blank"> <img src="https://github.com/plotly/plotly.py/blob/doc-prod/packages/javascript/jupyterlab-plotly/style/plotly.svg" alt="Plotly" width="40" height="40" /> </a>-->
+      <a href="https://plotly.com/python" target="_blank"> <img src="https://github.com/plotly/plotly.py/blob/doc-prod/packages/javascript/jupyterlab-plotly/style/plotly.svg" alt="Plotly" width="40" height="40" /> </a>
       <!--<a href="https://bokeh.org" target="_blank"> <img src="https://github.com/bokeh/bokeh/blob/branch-3.4/bokehjs/test/assets/images/logo.svg" alt="Bokeh" width="40" height="40" /> </a>-->
       <!--<a href="https://altair-viz.github.io" target="_blank"> <img src="https://github.com/altair-viz/altair/blob/main/design/altair-logo.svg" alt="Altair" width="40" height="40" /> </a>-->
       <a href="https://ggplot2.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/ggplot2/blob/main/man/figures/logo.png" alt="ggplot2" width="40" height="40" /> </a>
@@ -54,9 +54,9 @@
     <li>NLP:
       <a href="https://spacy.io" target="_blank"> <img src="https://github.com/explosion/spaCy/blob/master/website/src/images/icon.png" alt="spaCy" width="40" height="40" /> </a>
       <a href="https://radimrehurek.com/gensim" target="_blank"> <img src="https://github.com/piskvorky/gensim/blob/develop/docs/src/_static/favicon.ico" alt="Gensim" width="40" height="40" /> </a>
-      <a href="https://www.nltk.org" target="_blank"> NLTK </a> |
       <!-- <a href="https://textblob.readthedocs.io" target="_blank"> <img src="https://github.com/sloria/TextBlob/blob/dev/docs/_static/textblob-logo.png" alt="TextBlob" width="40" height="40" /> </a> -->
-      <!-- <a href="https://fasttext.cc" target="_blank"> <img src="https://github.com/facebookresearch/fastText/blob/main/website/static/img/fasttext-icon-color-square.png" alt="fastText" width="40" height="40" /> </a> -->
+      <a href="https://fasttext.cc" target="_blank"> <img src="https://github.com/facebookresearch/fastText/blob/main/website/static/img/fasttext-icon-color-square.png" alt="fastText" width="40" height="40" /> </a>
+      <a href="https://www.nltk.org" target="_blank"> NLTK </a> |
       <a href="https://github.com/amueller/word_cloud" target="_blank"> wordcloud </a> |
       <!-- <a href="https://deeppavlov.ai" target="_blank"> <img src="https://github.com/deeppavlov/DeepPavlov/blob/master/docs/_static/deeppavlov_logo.png" alt="DeepPavlov" width="40" height="40" /> </a> -->
       <!-- <a href="https://stanfordnlp.github.io/CoreNLP" target="_blank"> <img src="https://github.com/stanfordnlp/CoreNLP/blob/main/data/webapps/favicon.ico" alt="CoreNLP" width="40" height="40" /> </a> -->
@@ -91,17 +91,18 @@
       <a href="https://www.kubeflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/kubeflow/kubeflow/master/components/centraldashboard/public/assets/favicon-32x32.png" alt="Kubeflow" width="40" height="40" /> </a>
       <a href="https://www.zenml.io" target="_blank"> <img src="https://github.com/zenml-io/zenml/blob/main/docs/mkdocs/_assets/favicon.png" alt="ZenML" width="40" height="40" /> </a>
     </li> -->
-    <li>Explainable AI:
+    <li>ML tools:
       <a href="https://shap.readthedocs.io" target="_blank"> <img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/favicon.ico" alt="SHAP" width="40" height="40" /> </a>
       <a href="https://github.com/eli5-org/eli5" target="_blank"> ELI5 </a>
       <!-- <a href="https://github.com/marcotcr/lime" target="_blank"> LIME </a> -->
       <!-- <a href="https://interpret.ml" target="_blank"> InterpretML </a> -->
-      <!-- <a href="https://github.com/scikit-learn-contrib/imbalanced-learn" target="_blank"> <img src="https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/doc/_static/img/logo.png" alt="imbalanced-learn" width="40" height="40" /> </a> -->
+      <a href="https://github.com/scikit-learn-contrib/imbalanced-learn" target="_blank"> <img src="https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/doc/_static/img/logo.png" alt="imbalanced-learn" width="40" height="40" /> </a>
       <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
-      <!-- <a href="https://www.scikit-yb.org" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a> -->
+      <a href="https://www.scikit-yb.org" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a>
       <!-- <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a> -->
       <!-- <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/favicon.ico" alt="scikit-optimize" width="40" height="40" /> </a> -->
       <!-- <a href="https://hyperopt.github.io/hyperopt/" target="_blank"> <img src="https://camo.githubusercontent.com/d9cabe82cdc7bff598f84d61b0a8921cd5c3ceb0716b03399fc31db1a2a23182/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a> -->
+      <a href="https://github.com/lmcinnes/umap" target="_blank"> <img src="https://github.com/lmcinnes/umap/blob/master/doc/logo.png" alt="UMAP" width="40" height="40" /> </a>
     </li>
   </ul>
 </p>
