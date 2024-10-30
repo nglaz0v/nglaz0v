@@ -131,6 +131,13 @@
     </li>
   </ul>
 </p>
+<h3 align="left">Recommender Systems:</h3>
+<p align="left">
+  <a href="https://recbole.io" target="_blank"> <img src="https://github.com/RUCAIBox/RecBole/blob/master/asset/logo.png" alt="RecBole" width="40" height="40" /> </a>
+  <a href="https://github.com/lyst/lightfm" target="_blank"> <img src="https://github.com/lyst/lightfm/blob/master/lightfm.png" alt="LightFM" width="40" height="40" /> </a>
+  <a href="https://benfred.github.io/implicit" target="_blank"> Implicit </a> |
+  <a href="https://surpriselib.com" target="_blank"> <img src="https://github.com/NicolasHug/Surprise/blob/master/logo_black.svg" alt="Surprise" width="40" height="40" /> </a>
+</p>
 <h3 align="left">GenAI:</h3>
 <p align="left">
   <a href="https://github.com/openai/openai-python" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="OpenAI" width="40" height="40" /> </a>
