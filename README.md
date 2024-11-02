@@ -49,7 +49,12 @@
       <!-- <a href="https://www.dask.org" target="_blank"> <img src="https://github.com/dask/dask/blob/main/docs/source/images/dask_icon.svg" alt="Dask" width="40" height="40" /> </a> -->
       <!-- <a href="https://pola.rs" target="_blank"> <img src="https://github.com/pola-rs/polars/blob/main/docs/_build/assets/logo.png" alt="Polars" width="40" height="40" /> </a> -->
       <a href="https://tidyverse.tidyverse.org" target="_blank"> <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="tidyverse" width="40" height="40" /> </a>
-      <!-- <a href="https://geopandas.org" target="_blank"> <img src="https://github.com/geopandas/geopandas/blob/main/doc/source/_static/logo/favicon.png" alt="GeoPandas" width="40" height="40" /> </a> -->
+      <!-- <ul>
+        <li>Geo:
+          <a href="https://geopandas.org" target="_blank"> <img src="https://github.com/geopandas/geopandas/blob/main/doc/source/_static/logo/favicon.png" alt="GeoPandas" width="40" height="40" /> </a>
+          <a href="https://github.com/python-visualization/folium" target="_blank"> <img src="https://github.com/python-visualization/folium/blob/main/docs/_static/folium_logo.png" alt="folium" width="40" height="40" /> </a>
+        </li>
+      </ul> -->
     </li>
     <li>NLP:
       <a href="https://spacy.io" target="_blank"> <img src="https://github.com/explosion/spaCy/blob/master/website/src/images/icon.png" alt="spaCy" width="40" height="40" /> </a>
