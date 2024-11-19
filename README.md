@@ -85,11 +85,14 @@
       </ul>
     </li>
     <li>misc:
-      <a href="https://github.com/jupyter-widgets/ipywidgets" target="_blank"> ipywidgets </a> |
-      <!-- <a href="https://github.com/asweigart/pyperclip" target="_blank">  pyperclip </a> |
+      <a href="https://github.com/asweigart/pyautogui" target="_blank"> PyAutoGUI </a> |
+      <!-- <a href="https://github.com/jupyter-widgets/ipywidgets" target="_blank"> ipywidgets </a> |
+      <a href="https://github.com/asweigart/pyperclip" target="_blank">  pyperclip </a> |
       <a href="https://github.com/JessicaTegner/pypandoc" target="_blank">  pypandoc </a> |
       <a href="https://github.com/python-openxml/python-docx" target="_blank">  python-docx </a> |
-      <a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank">  openpyxl </a> | -->
+      <a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank">  openpyxl </a> |
+      <a href="https://github.com/py-pdf/pypdf" target="_blank"> pypdf </a> |
+      <a href="https://github.com/euske/pdfminer" target="_blank"> PDFMiner </a> | -->
       <!-- <a href="https://rpy2.github.io" target="_blank"> <img src="https://github.com/rpy2/rpy2/blob/master/doc/_static/rpy2_logo.png" alt="rpy2" width="40" height="40" /> </a> -->
     </li>
   </ul>
