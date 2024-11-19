@@ -27,6 +27,17 @@
   <!-- <a href="https://simpleitk.org" target="_blank"> <img src="https://github.com/SimpleITK/SimpleITK/blob/master/docs/source/_static/yellow_itk_icon.svg" alt="SimpleITK" width="40" height="40" /> </a> -->
   <!-- <a href="https://luispedro.org/software/mahotas" target="_blank"> Mahotas </a> -->
 </p>
+<h3 align="left">Package Installers:</h3>
+<p align="left">
+  <a href="https://www.anaconda.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" /> </a>
+  <a href="https://pypi.org" target="_blank"> <img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="PyPI" width="40" height="40" /> </a>
+  <a href="https://cran.r-project.org" target="_blank"> CRAN </a> |
+</p>
+<h3 align="left">Interactive Computing:</h3>
+<p align="left">
+  <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
+  <a href="https://ipython.org" target="_blank"> IPython </a> |
+</p>
 <h3 align="left">Data Science:</h3>
 <p align="left">
   <ul>
@@ -74,8 +85,11 @@
       </ul>
     </li>
     <li>misc:
-      <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
-      <a href="https://www.anaconda.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" /> </a>
+      <a href="https://github.com/jupyter-widgets/ipywidgets" target="_blank"> ipywidgets </a> |
+      <!-- <a href="https://github.com/asweigart/pyperclip" target="_blank">  pyperclip </a> |
+      <a href="https://github.com/JessicaTegner/pypandoc" target="_blank">  pypandoc </a> |
+      <a href="https://github.com/python-openxml/python-docx" target="_blank">  python-docx </a> |
+      <a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank">  openpyxl </a> | -->
       <!-- <a href="https://rpy2.github.io" target="_blank"> <img src="https://github.com/rpy2/rpy2/blob/master/doc/_static/rpy2_logo.png" alt="rpy2" width="40" height="40" /> </a> -->
     </li>
   </ul>
