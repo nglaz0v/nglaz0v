@@ -86,13 +86,16 @@
     </li>
     <li>misc:
       <a href="https://github.com/asweigart/pyautogui" target="_blank"> PyAutoGUI </a> |
+      <a href="https://github.com/theskumar/python-dotenv" target="_blank"> python-dotenv </a> |
       <!-- <a href="https://github.com/jupyter-widgets/ipywidgets" target="_blank"> ipywidgets </a> |
       <a href="https://github.com/asweigart/pyperclip" target="_blank">  pyperclip </a> |
       <a href="https://github.com/JessicaTegner/pypandoc" target="_blank">  pypandoc </a> |
       <a href="https://github.com/python-openxml/python-docx" target="_blank">  python-docx </a> |
       <a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank">  openpyxl </a> |
       <a href="https://github.com/py-pdf/pypdf" target="_blank"> pypdf </a> |
-      <a href="https://github.com/euske/pdfminer" target="_blank"> PDFMiner </a> | -->
+      <a href="https://github.com/euske/pdfminer" target="_blank"> PDFMiner </a> |
+      <a href="https://github.com/pymupdf/pymupdf" target="_blank"> PyMuPDF </a> |
+      <a href="https://github.com/facebookresearch/faiss" target="_blank"> Faiss </a> | -->
       <!-- <a href="https://rpy2.github.io" target="_blank"> <img src="https://github.com/rpy2/rpy2/blob/master/doc/_static/rpy2_logo.png" alt="rpy2" width="40" height="40" /> </a> -->
     </li>
   </ul>
@@ -142,6 +145,8 @@
       <!-- <a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" alt="Detectron2" width="40" height="40" /> </a> -->
       <a href="https://github.com/facebookresearch/pytorch3d" target="_blank"> <img src="https://github.com/facebookresearch/pytorch3d/blob/main/website/static/img/pytorch3dfavicon.png" alt="PyTorch3D" width="40" height="40" /> </a>
       <!-- <a href="https://albumentations.ai" target="_blank"> <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="Albumentations" width="40" height="40" /> </a> -->
+      <!-- <a href="https://github.com/UKPLab/sentence-transformers" target="_blank"> <img src="https://github.com/UKPLab/sentence-transformers/blob/master/docs/img/logo_org.png" alt="Sentence Transformers" width="40" height="40" /> </a> -->
+      <!-- <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️ LangChain </a> -->
     </li>
   </ul>
   <ul>
@@ -170,6 +175,7 @@
 <h3 align="left">BioMed:</h3>
 <p align="left">
   <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
+  <a href="https://deepchem.io" target="_blank"> <img src="https://deepchem.io//_next/static/media/deepchem-logo.95f3f074.png" alt="DeepChem" width="40" height="40" /> </a>
   <!-- <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a> -->
   <a href="https://github.com/therneau/survival" target="_blank"> <img src="https://github.com/therneau/survival/blob/master/man/figures/logo.png" alt="survival" width="40" height="40" /> </a>
   <!-- <a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://github.com/mne-tools/mne-python/blob/main/doc/_static/mne_logo.svg" alt="MNE" width="40" height="40" /> </a> -->
