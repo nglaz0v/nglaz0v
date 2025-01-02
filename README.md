@@ -202,6 +202,15 @@
     </li>
   </ul> -->
 </p>
+<h3 align="left">Audio:</h3>
+<p align="left">
+  <a href="https://github.com/openai/whisper" target="_blank"> Whisper </a> |
+  <a href="https://github.com/Uberi/speech_recognition" target="_blank"> SpeechRecognition </a> |
+  <a href="https://github.com/pndurette/gTTS" target="_blank"> gTTS </a> |
+  <!-- <a href="https://github.com/ssut/py-googletrans" target="_blank"> Googletrans </a> | -->
+  <a href="https://librosa.org/" target="_blank"> <img src="https://github.com/librosa/librosa/blob/main/docs/img/librosa_logo_text.png" alt="librosa" width="40" height="40" /> </a>
+  <a href="https://magenta.tensorflow.org/" target="_blank"> <img src="https://magenta.tensorflow.org/assets/magenta-logo-bottom-text.png" alt="Magenta" width="40" height="40" /> </a>
+</p>
 <h3 align="left">Performance:</h3>
 <p align="left">
   <a href="https://tqdm.github.io/" target="_blank"> <img src="https://github.com/tqdm/tqdm/blob/master/logo.png" alt="tqdm" width="40" height="40" /> </a>
