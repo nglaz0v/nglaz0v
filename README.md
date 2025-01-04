@@ -59,6 +59,7 @@
       <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
       <!-- <a href="https://xarray.dev" target="_blank"> <img src="https://github.com/pydata/xarray/blob/main/doc/_static/logos/Xarray_Icon_Final.png" alt="xarray" width="40" height="40" /> </a> -->
       <!-- <a href="https://www.dask.org" target="_blank"> <img src="https://github.com/dask/dask/blob/main/docs/source/images/dask_icon.svg" alt="Dask" width="40" height="40" /> </a> -->
+      <!-- <a href="https://github.com/zarr-developers/zarr-python" target="_blank"> <img src="https://github.com/zarr-developers/zarr-python/blob/main/docs/_static/logo1.png" alt="Zarr" width="40" height="40" /> -->
       <!-- <a href="https://pola.rs" target="_blank"> <img src="https://github.com/pola-rs/polars/blob/main/docs/_build/assets/logo.png" alt="Polars" width="40" height="40" /> </a> -->
       <a href="https://tidyverse.tidyverse.org" target="_blank"> <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="tidyverse" width="40" height="40" /> </a>
       <!-- <ul>
@@ -177,6 +178,7 @@
 <p align="left">
   <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
   <a href="https://deepchem.io" target="_blank"> <img src="https://deepchem.io//_next/static/media/deepchem-logo.95f3f074.png" alt="DeepChem" width="40" height="40" /> </a>
+  <!-- <a href="https://sgkit-dev.github.io/sgkit" target="_blank"> <img src="https://github.com/sgkit-dev/sgkit/blob/main/docs/_static/sgkit_blue_trnsprnt.png" alt="sgkit" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a> -->
   <a href="https://github.com/therneau/survival" target="_blank"> <img src="https://github.com/therneau/survival/blob/master/man/figures/logo.png" alt="survival" width="40" height="40" /> </a>
   <!-- <a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://github.com/mne-tools/mne-python/blob/main/doc/_static/mne_logo.svg" alt="MNE" width="40" height="40" /> </a> -->
