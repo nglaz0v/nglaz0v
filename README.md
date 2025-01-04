@@ -57,6 +57,7 @@
     </li>
     <li>Data:
       <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
+      <!-- <a href="https://xarray.dev" target="_blank"> <img src="https://github.com/pydata/xarray/blob/main/doc/_static/logos/Xarray_Icon_Final.png" alt="xarray" width="40" height="40" /> </a> -->
       <!-- <a href="https://www.dask.org" target="_blank"> <img src="https://github.com/dask/dask/blob/main/docs/source/images/dask_icon.svg" alt="Dask" width="40" height="40" /> </a> -->
       <!-- <a href="https://pola.rs" target="_blank"> <img src="https://github.com/pola-rs/polars/blob/main/docs/_build/assets/logo.png" alt="Polars" width="40" height="40" /> </a> -->
       <a href="https://tidyverse.tidyverse.org" target="_blank"> <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="tidyverse" width="40" height="40" /> </a>
@@ -208,8 +209,8 @@
   <a href="https://github.com/Uberi/speech_recognition" target="_blank"> SpeechRecognition </a> |
   <a href="https://github.com/pndurette/gTTS" target="_blank"> gTTS </a> |
   <!-- <a href="https://github.com/ssut/py-googletrans" target="_blank"> Googletrans </a> | -->
-  <a href="https://librosa.org/" target="_blank"> <img src="https://github.com/librosa/librosa/blob/main/docs/img/librosa_logo_text.png" alt="librosa" width="40" height="40" /> </a>
-  <a href="https://magenta.tensorflow.org/" target="_blank"> <img src="https://magenta.tensorflow.org/assets/magenta-logo-bottom-text.png" alt="Magenta" width="40" height="40" /> </a>
+  <!-- <a href="https://librosa.org/" target="_blank"> <img src="https://github.com/librosa/librosa/blob/main/docs/img/librosa_logo_text.png" alt="librosa" width="40" height="40" /> </a> -->
+  <!-- <a href="https://magenta.tensorflow.org/" target="_blank"> <img src="https://magenta.tensorflow.org/assets/magenta-logo-bottom-text.png" alt="Magenta" width="40" height="40" /> </a> -->
 </p>
 <h3 align="left">Performance:</h3>
 <p align="left">
