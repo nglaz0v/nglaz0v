@@ -177,6 +177,7 @@
 <h3 align="left">BioMed:</h3>
 <p align="left">
   <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
+  <!-- <a href="https://bioconductor.org" target="_blank"> <img src="https://bioconductor.org/images/icons/BioconductorSticker1.png" alt="Bioconductor" width="40" height="40" /> </a> -->
   <a href="https://deepchem.io" target="_blank"> <img src="https://deepchem.io//_next/static/media/deepchem-logo.95f3f074.png" alt="DeepChem" width="40" height="40" /> </a>
   <!-- <a href="https://sgkit-dev.github.io/sgkit" target="_blank"> <img src="https://github.com/sgkit-dev/sgkit/blob/main/docs/_static/sgkit_blue_trnsprnt.png" alt="sgkit" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a> -->
