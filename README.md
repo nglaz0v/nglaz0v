@@ -11,6 +11,7 @@
   <a href="https://isocpp.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a>
   <a href="https://www.r-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40" /> </a>
+  <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Graphical User Interface:</h3>
 <p align="left">
@@ -217,6 +218,7 @@
 </p>
 <h3 align="left">Performance:</h3>
 <p align="left">
+  <a href="https://github.com/giampaolo/psutil" target="_blank"> <img src="https://github.com/giampaolo/psutil/blob/master/docs/_static/psutil-logo.png" alt="psutil" width="40" height="40" /> </a>
   <a href="https://tqdm.github.io/" target="_blank"> <img src="https://github.com/tqdm/tqdm/blob/master/logo.png" alt="tqdm" width="40" height="40" /> </a>
   <a href="https://joblib.readthedocs.io/en/stable/" target="_blank"> <img src="https://github.com/joblib/joblib/blob/main/doc/_static/joblib_logo.svg" alt="Joblib" width="40" height="40" /> </a>
   <!-- <a href="https://cython.org/" target="_blank"> <img src="https://github.com/cython/cython/blob/master/docs/_static/cython-logo-C.svg" alt="Cython" width="40" height="40" /> </a> -->
