@@ -181,6 +181,7 @@
   <!-- <a href="https://bioconductor.org" target="_blank"> <img src="https://bioconductor.org/images/icons/BioconductorSticker1.png" alt="Bioconductor" width="40" height="40" /> </a> -->
   <a href="https://deepchem.io" target="_blank"> <img src="https://deepchem.io//_next/static/media/deepchem-logo.95f3f074.png" alt="DeepChem" width="40" height="40" /> </a>
   <!-- <a href="https://sgkit-dev.github.io/sgkit" target="_blank"> <img src="https://github.com/sgkit-dev/sgkit/blob/main/docs/_static/sgkit_blue_trnsprnt.png" alt="sgkit" width="40" height="40" /> </a> -->
+  <!-- <a href="https://www.rdkit.org" target="_blank"> <img src="https://www.rdkit.org/Images/logo.png" alt="RDKit" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a> -->
   <a href="https://github.com/therneau/survival" target="_blank"> <img src="https://github.com/therneau/survival/blob/master/man/figures/logo.png" alt="survival" width="40" height="40" /> </a>
   <!-- <a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://github.com/mne-tools/mne-python/blob/main/doc/_static/mne_logo.svg" alt="MNE" width="40" height="40" /> </a> -->
