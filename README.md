@@ -63,6 +63,7 @@
       <!-- <a href="https://github.com/zarr-developers/zarr-python" target="_blank"> <img src="https://github.com/zarr-developers/zarr-python/blob/main/docs/_static/logo1.png" alt="Zarr" width="40" height="40" /> -->
       <!-- <a href="https://pola.rs" target="_blank"> <img src="https://github.com/pola-rs/polars/blob/main/docs/_build/assets/logo.png" alt="Polars" width="40" height="40" /> </a> -->
       <a href="https://tidyverse.tidyverse.org" target="_blank"> <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="tidyverse" width="40" height="40" /> </a>
+      <!-- <a href="https://rdatatable.gitlab.io/data.table/" target="_blank"> <img src="https://github.com/Rdatatable/data.table/blob/master/.graphics/logo.png" alt="data.table" width="40" height="40" /> </a> -->
       <!-- <ul>
         <li>Geo:
           <a href="https://geopandas.org" target="_blank"> <img src="https://github.com/geopandas/geopandas/blob/main/doc/source/_static/logo/favicon.png" alt="GeoPandas" width="40" height="40" /> </a>
