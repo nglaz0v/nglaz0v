@@ -37,7 +37,8 @@
 <h3 align="left">Interactive Computing:</h3>
 <p align="left">
   <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
-  <a href="https://ipython.org" target="_blank"> IPython </a> |
+  <a href="https://ipython.org" target="_blank"> IPython </a>
+  <a href="https://jupytext.readthedocs.io" target="_blank"> <img src="https://github.com/mwouts/jupytext/blob/main/docs/images/logo.png" alt="Jupytext" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Data Science:</h3>
 <p align="left">
