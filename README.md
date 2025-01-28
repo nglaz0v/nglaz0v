@@ -12,6 +12,12 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a>
   <a href="https://www.r-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40" /> </a>
   <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
+  <ul>
+    <li>FFI:
+      <a href="https://rpy2.github.io" target="_blank"> <img src="https://github.com/rpy2/rpy2/blob/master/doc/_static/rpy2_logo.png" alt="rpy2" width="40" height="40" /> </a>
+      <a href="https://rstudio.github.io/reticulate" target="_blank"> <img src="https://github.com/rstudio/reticulate/blob/main/man/figures/reticulated_python.png" alt="reticulate" width="40" height="40" /> </a>
+    </li>
+  </ul>
 </p>
 <h3 align="left">Graphical User Interface:</h3>
 <p align="left">
@@ -102,7 +108,6 @@
       <a href="https://github.com/euske/pdfminer" target="_blank"> PDFMiner </a> |
       <a href="https://github.com/pymupdf/pymupdf" target="_blank"> PyMuPDF </a> |
       <a href="https://github.com/facebookresearch/faiss" target="_blank"> Faiss </a> | -->
-      <a href="https://rpy2.github.io" target="_blank"> <img src="https://github.com/rpy2/rpy2/blob/master/doc/_static/rpy2_logo.png" alt="rpy2" width="40" height="40" /> </a>
     </li>
   </ul>
 </p>
