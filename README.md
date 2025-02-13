@@ -118,7 +118,6 @@
   <a href="https://xgboost.ai" target="_blank"> <img src="https://xgboost.ai/images/logo/xgboost-logo.png" alt="XGBoost" width="40" height="40" /> </a>
   <a href="https://lightgbm.readthedocs.io" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
   <a href="https://catboost.ai" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
-  <a href="https://pycaret.org" target="_blank"> <img src="https://github.com/pycaret/pycaret/blob/master/docs/images/logo.png" alt="PyCaret" width="40" height="40" /> </a>
   <!-- <a href="https://tidymodels.tidymodels.org" target="_blank"> <img src="https://github.com/tidymodels/tidymodels/blob/main/man/figures/logo.png" alt="tidymodels" width="40" height="40" /> </a> -->
   <!-- <a href="https://facebook.github.io/prophet" target="_blank"> <img src="https://github.com/facebook/prophet/blob/main/docs/static/favicon.png" alt="Prophet" width="40" height="40" /> </a> -->
   <!-- <a href="https://rapids.ai" target="_blank"> <img src="https://github.com/rapidsai/rapids.ai/blob/main/assets/images/RAPIDS-logo.png" alt="RAPIDS" width="40" height="40" /> </a> -->
@@ -137,13 +136,17 @@
       <a href="https://www.scikit-yb.org" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a>
       <a href="https://github.com/lmcinnes/umap" target="_blank"> <img src="https://github.com/lmcinnes/umap/blob/master/doc/logo.png" alt="UMAP" width="40" height="40" /> </a>
       <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
-      <!-- <a href="https://github.com/AutoViML/AutoViz" target="_blank"> <img src="https://github.com/AutoViML/AutoViz/blob/master/images/logo.png" alt="AutoViz" width="40" height="40" /> </a> -->
       <!-- <a href="https://explainerdashboard.readthedocs.io" target="_blank"> <img src="https://github.com/oegedijk/explainerdashboard/blob/master/explainerdashboard/assets/favicon.ico" alt="explainerdashboard" width="40" height="40" /> -->
-      <!-- <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/favicon.ico" alt="scikit-optimize" width="40" height="40" /> </a> -->
-      <!-- <a href="https://hyperopt.github.io/hyperopt/" target="_blank"> <img src="https://camo.githubusercontent.com/d9cabe82cdc7bff598f84d61b0a8921cd5c3ceb0716b03399fc31db1a2a23182/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a> -->
-      <!-- <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a> -->
     </li>
   </ul>
+</p>
+<h3 align="left">AutoML:</h3>
+<p align="left">
+  <a href="https://pycaret.org" target="_blank"> <img src="https://github.com/pycaret/pycaret/blob/master/docs/images/logo.png" alt="PyCaret" width="40" height="40" /> </a>
+  <!-- <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/favicon.ico" alt="scikit-optimize" width="40" height="40" /> </a> -->
+  <!-- <a href="https://hyperopt.github.io/hyperopt/" target="_blank"> <img src="https://camo.githubusercontent.com/d9cabe82cdc7bff598f84d61b0a8921cd5c3ceb0716b03399fc31db1a2a23182/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a> -->
+  <!-- <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a> -->
+  <!-- <a href="https://github.com/AutoViML/AutoViz" target="_blank"> <img src="https://github.com/AutoViML/AutoViz/blob/master/images/logo.png" alt="AutoViz" width="40" height="40" /> </a> -->
 </p>
 <h3 align="left">Deep Learning:</h3>
 <p align="left">
