@@ -144,7 +144,9 @@
 <p align="left">
   <a href="https://pycaret.org" target="_blank"> <img src="https://github.com/pycaret/pycaret/blob/master/docs/images/logo.png" alt="PyCaret" width="40" height="40" /> </a>
   <a href="https://github.com/hyperopt/hyperopt-sklearn" target="_blank"> hyperopt-sklearn </a> |
-  <a href="https://github.com/AutoML/auto-sklearn" target="_blank"> auto-sklearn </a> |
+  <!-- <a href="https://github.com/AutoML/auto-sklearn" target="_blank"> auto-sklearn </a> | -->
+  <!-- <a href="https://photon-ai.com" target="_blank"> PHOTONAI </a> | -->
+  <!-- <a href="https://autokeras.com" target="_blank"> <img src="https://github.com/keras-team/autokeras/blob/master/docs/templates/img/logo_red.svg" alt="AutoKeras" width="40" height="40" /> </a> -->
   <!-- <ul>
     <li>Optimum:
       <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/favicon.ico" alt="scikit-optimize" width="40" height="40" /> </a>
