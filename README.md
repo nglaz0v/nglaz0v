@@ -59,7 +59,7 @@
     <li>Plots:
       <a href="https://matplotlib.org" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" width="40" height="40" /> </a>
       <a href="https://seaborn.pydata.org" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" /> </a>
-      <a href="https://plotly.com/python" target="_blank"> <img src="https://github.com/plotly/plotly.py/blob/doc-prod/packages/javascript/jupyterlab-plotly/style/plotly.svg" alt="Plotly" width="40" height="40" /> </a>
+      <a href="https://plotly.com/python" target="_blank"> <img src="https://raw.githubusercontent.com/plotly/plotly.py/refs/heads/main/doc/apidoc/_static/favicon.ico" alt="Plotly" width="40" height="40" /> </a>
       <!--<a href="https://bokeh.org" target="_blank"> <img src="https://github.com/bokeh/bokeh/blob/branch-3.4/bokehjs/test/assets/images/logo.svg" alt="Bokeh" width="40" height="40" /> </a>-->
       <!--<a href="https://altair-viz.github.io" target="_blank"> <img src="https://github.com/altair-viz/altair/blob/main/design/altair-logo.svg" alt="Altair" width="40" height="40" /> </a>-->
       <a href="https://ggplot2.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/ggplot2/blob/main/man/figures/logo.png" alt="ggplot2" width="40" height="40" /> </a>
@@ -143,9 +143,15 @@
 <h3 align="left">AutoML:</h3>
 <p align="left">
   <a href="https://pycaret.org" target="_blank"> <img src="https://github.com/pycaret/pycaret/blob/master/docs/images/logo.png" alt="PyCaret" width="40" height="40" /> </a>
-  <!-- <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/favicon.ico" alt="scikit-optimize" width="40" height="40" /> </a> -->
-  <!-- <a href="https://hyperopt.github.io/hyperopt/" target="_blank"> <img src="https://camo.githubusercontent.com/d9cabe82cdc7bff598f84d61b0a8921cd5c3ceb0716b03399fc31db1a2a23182/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a> -->
-  <!-- <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a> -->
+  <a href="https://github.com/hyperopt/hyperopt-sklearn" target="_blank"> hyperopt-sklearn </a> |
+  <a href="https://github.com/AutoML/auto-sklearn" target="_blank"> auto-sklearn </a> |
+  <!-- <ul>
+    <li>Optimum:
+      <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/favicon.ico" alt="scikit-optimize" width="40" height="40" /> </a>
+      <a href="https://hyperopt.github.io/hyperopt/" target="_blank"> <img src="https://camo.githubusercontent.com/d9cabe82cdc7bff598f84d61b0a8921cd5c3ceb0716b03399fc31db1a2a23182/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a>
+      <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a>
+    </li>
+  </ul> -->
   <!-- <a href="https://github.com/AutoViML/AutoViz" target="_blank"> <img src="https://github.com/AutoViML/AutoViz/blob/master/images/logo.png" alt="AutoViz" width="40" height="40" /> </a> -->
 </p>
 <h3 align="left">Deep Learning:</h3>
