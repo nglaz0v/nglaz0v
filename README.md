@@ -146,6 +146,7 @@
   <a href="https://github.com/hyperopt/hyperopt-sklearn" target="_blank"> hyperopt-sklearn </a> |
   <!-- <a href="https://github.com/AutoML/auto-sklearn" target="_blank"> auto-sklearn </a> | -->
   <!-- <a href="https://photon-ai.com" target="_blank"> PHOTONAI </a> | -->
+  <!-- <a href="https://github.com/keras-team/keras-tuner" target="_blank"> KerasTuner </a> | -->
   <!-- <a href="https://autokeras.com" target="_blank"> <img src="https://github.com/keras-team/autokeras/blob/master/docs/templates/img/logo_red.svg" alt="AutoKeras" width="40" height="40" /> </a> -->
   <!-- <ul>
     <li>Optimum:
