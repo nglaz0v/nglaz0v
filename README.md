@@ -143,10 +143,10 @@
 <h3 align="left">AutoML:</h3>
 <p align="left">
   <a href="https://pycaret.org" target="_blank"> <img src="https://github.com/pycaret/pycaret/blob/master/docs/images/logo.png" alt="PyCaret" width="40" height="40" /> </a>
+  <a href="https://epistasislab.github.io/tpot" target="_blank"> <img src="https://github.com/EpistasisLab/tpot/blob/master/images/tpot-logo.jpg" alt="TPOT" width="40" height="40" /> </a>
   <a href="https://github.com/hyperopt/hyperopt-sklearn" target="_blank"> hyperopt-sklearn </a> |
   <!-- <a href="https://github.com/AutoML/auto-sklearn" target="_blank"> auto-sklearn </a> | -->
   <!-- <a href="https://github.com/automl/Auto-PyTorch" target="_blank"> Auto-PyTorch </a> | -->
-  <a href="https://github.com/EpistasisLab/tpot" target="_blank"> TPOT </a> |
   <a href="https://photon-ai.com" target="_blank"> PHOTONAI </a> |
   <!-- <a href="https://github.com/keras-team/keras-tuner" target="_blank"> KerasTuner </a> | -->
   <!-- <a href="https://autokeras.com" target="_blank"> <img src="https://github.com/keras-team/autokeras/blob/master/docs/templates/img/logo_red.svg" alt="AutoKeras" width="40" height="40" /> </a> -->
