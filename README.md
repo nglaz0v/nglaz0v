@@ -108,7 +108,8 @@
       <a href="https://github.com/py-pdf/pypdf" target="_blank"> pypdf </a> |
       <a href="https://github.com/euske/pdfminer" target="_blank"> PDFMiner </a> |
       <a href="https://github.com/pymupdf/pymupdf" target="_blank"> PyMuPDF </a> |
-      <a href="https://github.com/facebookresearch/faiss" target="_blank"> Faiss </a> | -->
+      <a href="https://github.com/facebookresearch/faiss" target="_blank"> Faiss </a> |
+      <a href="https://pydotplus.readthedocs.io" target="_blank"> PyDotPlus </a> | -->
     </li>
   </ul>
 </p>
@@ -137,6 +138,17 @@
       <a href="https://github.com/lmcinnes/umap" target="_blank"> <img src="https://github.com/lmcinnes/umap/blob/master/doc/logo.png" alt="UMAP" width="40" height="40" /> </a>
       <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
       <!-- <a href="https://explainerdashboard.readthedocs.io" target="_blank"> <img src="https://github.com/oegedijk/explainerdashboard/blob/master/explainerdashboard/assets/favicon.ico" alt="explainerdashboard" width="40" height="40" /> -->
+      <!-- <a href="https://github.com/pyjanitor-devs/pyjanitor" target="_blank"> pyjanitor </a> -->
+      <!-- <a href="https://github.com/rasbt/mlxtend" target="_blank"> <img src="https://github.com/rasbt/mlxtend/blob/master/docs/sources/img/logo.png" alt="mlxtend" width="40" height="40" /> </a> -->
+      <!-- <a href="https://github.com/ResidentMario/missingno" target="_blank"> missingno </a> -->
+      <!-- <a href="https://docs.fast.ai" target="_blank"> fastai </a> -->
+      <!-- <a href="https://contrib.scikit-learn.org/category_encoders" target="_blank"> Category Encoders </a> -->
+      <!-- <a href="https://github.com/parrt/random-forest-importances" target="_blank"> rfpimp </a> -->
+      <!-- <a href="https://github.com/limexp/xgbfir" target="_blank"> xgbfir </a> -->
+      <!-- <a href="https://github.com/andosa/treeinterpreter" target="_blank"> TreeInterpreter </a> -->
+      <!-- <a href="https://github.com/SauceCat/PDPbox" target="_blank"> PDPbox </a> -->
+      <!-- <a href="https://github.com/KrishnaswamyLab/scprep" target="_blank"> <img src="https://github.com/KrishnaswamyLab/scprep/blob/master/logo.png" alt="scprep" width="40" height="40" /> </a> -->
+      <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE </a> -->
     </li>
   </ul>
 </p>
@@ -160,7 +172,7 @@
   <!-- <ul>
     <li>EDA:
       <a href="https://github.com/AutoViML/AutoViz" target="_blank"> <img src="https://github.com/AutoViML/AutoViz/blob/master/images/logo.png" alt="AutoViz" width="40" height="40" /> </a>
-      <a href="https://github.com/ydataai/ydata-profiling" target="_blank"> <img src="https://camo.githubusercontent.com/131a2dffbf5c489a68648fdc0013b8f93481bcc8db78e6a7241c00a973af9c5b/68747470733a2f2f6173736574732e79646174612e61692f6f73732f79646174612d70726f66696c696e675f626c61636b2e706e67" alt="ydata-profiling" width="40" height="40" /> </a>
+      <a href="https://github.com/ydataai/ydata-profiling" target="_blank"> <img src="https://camo.githubusercontent.com/131a2dffbf5c489a68648fdc0013b8f93481bcc8db78e6a7241c00a973af9c5b/68747470733a2f2f6173736574732e79646174612e61692f6f73732f79646174612d70726f66696c696e675f626c61636b2e706e67" alt="YData-profiling" width="40" height="40" /> </a>
     </li>
   </ul> -->
 </p>
