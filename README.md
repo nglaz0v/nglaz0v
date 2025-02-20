@@ -188,6 +188,9 @@
       <!-- <a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" alt="Detectron2" width="40" height="40" /> </a> -->
       <a href="https://github.com/facebookresearch/pytorch3d" target="_blank"> <img src="https://github.com/facebookresearch/pytorch3d/blob/main/website/static/img/pytorch3dfavicon.png" alt="PyTorch3D" width="40" height="40" /> </a>
       <!-- <a href="https://albumentations.ai" target="_blank"> <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="Albumentations" width="40" height="40" /> </a> -->
+      <!-- <a href="https://kornia.github.io" target="_blank"> <img src="https://github.com/kornia/kornia/blob/main/docs/source/_static/img/kornia_logo_only.png" alt="kornia" width="40" height="40" /> </a> -->
+      <!-- <a href="https://huggingface.co/docs/timm" target="_blank"> timm </a> -->
+      <!-- <a href="https://smp.readthedocs.io" target="_blank"> Segmentation Models </a> -->
       <!-- <a href="https://github.com/UKPLab/sentence-transformers" target="_blank"> <img src="https://github.com/UKPLab/sentence-transformers/blob/master/docs/img/logo_org.png" alt="Sentence Transformers" width="40" height="40" /> </a> -->
       <!-- <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️ LangChain </a> -->
     </li>
