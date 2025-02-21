@@ -156,18 +156,18 @@
   <a href="https://pycaret.org" target="_blank"> <img src="https://github.com/pycaret/pycaret/blob/master/docs/images/logo.png" alt="PyCaret" width="40" height="40" /> </a>
   <a href="https://epistasislab.github.io/tpot" target="_blank"> <img src="https://github.com/EpistasisLab/tpot/blob/master/images/tpot-logo.jpg" alt="TPOT" width="40" height="40" /> </a>
   <a href="https://github.com/hyperopt/hyperopt-sklearn" target="_blank"> hyperopt-sklearn </a> |
+  <a href="https://photon-ai.com" target="_blank"> PHOTONAI </a> |
   <!-- <a href="https://github.com/AutoML/auto-sklearn" target="_blank"> auto-sklearn </a> | -->
   <!-- <a href="https://github.com/automl/Auto-PyTorch" target="_blank"> Auto-PyTorch </a> | -->
-  <a href="https://photon-ai.com" target="_blank"> PHOTONAI </a> |
   <!-- <a href="https://github.com/keras-team/keras-tuner" target="_blank"> KerasTuner </a> | -->
   <!-- <a href="https://autokeras.com" target="_blank"> <img src="https://github.com/keras-team/autokeras/blob/master/docs/templates/img/logo_red.svg" alt="AutoKeras" width="40" height="40" /> </a> -->
-  <!-- <ul>
-    <li>Optimum:
+  <ul>
+    <li>Optimization:
       <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/favicon.ico" alt="scikit-optimize" width="40" height="40" /> </a>
-      <a href="https://hyperopt.github.io/hyperopt/" target="_blank"> <img src="https://camo.githubusercontent.com/d9cabe82cdc7bff598f84d61b0a8921cd5c3ceb0716b03399fc31db1a2a23182/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a>
+      <a href="https://hyperopt.github.io/hyperopt" target="_blank"> <img src="https://camo.githubusercontent.com/d9cabe82cdc7bff598f84d61b0a8921cd5c3ceb0716b03399fc31db1a2a23182/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a>
       <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a>
     </li>
-  </ul> -->
+  </ul>
   <ul>
     <li>EDA:
       <a href="https://github.com/AutoViML/AutoViz" target="_blank"> <img src="https://github.com/AutoViML/AutoViz/blob/master/images/logo.png" alt="AutoViz" width="40" height="40" /> </a>
