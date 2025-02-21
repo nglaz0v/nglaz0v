@@ -140,7 +140,6 @@
       <!-- <a href="https://explainerdashboard.readthedocs.io" target="_blank"> <img src="https://github.com/oegedijk/explainerdashboard/blob/master/explainerdashboard/assets/favicon.ico" alt="explainerdashboard" width="40" height="40" /> -->
       <!-- <a href="https://github.com/pyjanitor-devs/pyjanitor" target="_blank"> pyjanitor </a> -->
       <!-- <a href="https://github.com/rasbt/mlxtend" target="_blank"> <img src="https://github.com/rasbt/mlxtend/blob/master/docs/sources/img/logo.png" alt="mlxtend" width="40" height="40" /> </a> -->
-      <!-- <a href="https://github.com/ResidentMario/missingno" target="_blank"> missingno </a> -->
       <!-- <a href="https://docs.fast.ai" target="_blank"> fastai </a> -->
       <!-- <a href="https://contrib.scikit-learn.org/category_encoders" target="_blank"> Category Encoders </a> -->
       <!-- <a href="https://github.com/parrt/random-forest-importances" target="_blank"> rfpimp </a> -->
@@ -169,12 +168,13 @@
       <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a>
     </li>
   </ul> -->
-  <!-- <ul>
+  <ul>
     <li>EDA:
       <a href="https://github.com/AutoViML/AutoViz" target="_blank"> <img src="https://github.com/AutoViML/AutoViz/blob/master/images/logo.png" alt="AutoViz" width="40" height="40" /> </a>
       <a href="https://github.com/ydataai/ydata-profiling" target="_blank"> <img src="https://camo.githubusercontent.com/131a2dffbf5c489a68648fdc0013b8f93481bcc8db78e6a7241c00a973af9c5b/68747470733a2f2f6173736574732e79646174612e61692f6f73732f79646174612d70726f66696c696e675f626c61636b2e706e67" alt="YData-profiling" width="40" height="40" /> </a>
+      <a href="https://github.com/ResidentMario/missingno" target="_blank"> missingno </a> |
     </li>
-  </ul> -->
+  </ul>
 </p>
 <h3 align="left">Deep Learning:</h3>
 <p align="left">
