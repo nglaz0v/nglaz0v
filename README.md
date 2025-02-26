@@ -100,6 +100,8 @@
     <li>misc:
       <a href="https://github.com/asweigart/pyautogui" target="_blank"> PyAutoGUI </a> |
       <a href="https://github.com/theskumar/python-dotenv" target="_blank"> python-dotenv </a> |
+      <a href="https://github.com/python/mypy" target="_blank"> mypy </a> |
+      <a href="https://github.com/Kyostenas/prettyTables" target="_blank"> prettyTables </a> |
       <!-- <a href="https://github.com/jupyter-widgets/ipywidgets" target="_blank"> ipywidgets </a> |
       <a href="https://github.com/asweigart/pyperclip" target="_blank">  pyperclip </a> |
       <a href="https://github.com/JessicaTegner/pypandoc" target="_blank">  pypandoc </a> |
@@ -154,7 +156,7 @@
 <h3 align="left">AutoML:</h3>
 <p align="left">
   <a href="https://pycaret.org" target="_blank"> <img src="https://github.com/pycaret/pycaret/blob/master/docs/images/logo.png" alt="PyCaret" width="40" height="40" /> </a>
-  <a href="https://epistasislab.github.io/tpot" target="_blank"> <img src="https://github.com/EpistasisLab/tpot/blob/master/images/tpot-logo.jpg" alt="TPOT" width="40" height="40" /> </a>
+  <a href="https://epistasislab.github.io/tpot" target="_blank"> <img src="https://github.com/EpistasisLab/tpot/blob/main/docs/assets/tpot-logo.jpg" alt="TPOT" width="40" height="40" /> </a>
   <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a>
   <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/favicon.ico" alt="scikit-optimize" width="40" height="40" /> </a>
   <a href="https://hyperopt.github.io/hyperopt" target="_blank"> <img src="https://camo.githubusercontent.com/d9cabe82cdc7bff598f84d61b0a8921cd5c3ceb0716b03399fc31db1a2a23182/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a>
