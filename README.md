@@ -62,7 +62,6 @@
       <a href="https://plotly.com/python" target="_blank"> <img src="https://raw.githubusercontent.com/plotly/plotly.py/refs/heads/main/doc/apidoc/_static/favicon.ico" alt="Plotly" width="40" height="40" /> </a>
       <!--<a href="https://bokeh.org" target="_blank"> <img src="https://github.com/bokeh/bokeh/blob/branch-3.4/bokehjs/test/assets/images/logo.svg" alt="Bokeh" width="40" height="40" /> </a>-->
       <!--<a href="https://altair-viz.github.io" target="_blank"> <img src="https://github.com/altair-viz/altair/blob/main/design/altair-logo.svg" alt="Altair" width="40" height="40" /> </a>-->
-      <a href="https://ggplot2.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/ggplot2/blob/main/man/figures/logo.png" alt="ggplot2" width="40" height="40" /> </a>
     </li>
     <li>Data:
       <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
@@ -70,7 +69,16 @@
       <!-- <a href="https://www.dask.org" target="_blank"> <img src="https://github.com/dask/dask/blob/main/docs/source/images/dask_icon.svg" alt="Dask" width="40" height="40" /> </a> -->
       <!-- <a href="https://github.com/zarr-developers/zarr-python" target="_blank"> <img src="https://github.com/zarr-developers/zarr-python/blob/main/docs/_static/logo1.png" alt="Zarr" width="40" height="40" /> -->
       <!-- <a href="https://pola.rs" target="_blank"> <img src="https://github.com/pola-rs/polars/blob/main/docs/_build/assets/logo.png" alt="Polars" width="40" height="40" /> </a> -->
-      <a href="https://tidyverse.tidyverse.org" target="_blank"> <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="tidyverse" width="40" height="40" /> </a>
+      <a href="https://tidyverse.tidyverse.org" target="_blank"> <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="tidyverse" width="40" height="40" /> </a>(
+      <!-- <a href="https://dplyr.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/dplyr/blob/main/man/figures/logo.png" alt="dplyr" width="32" height="32" /> </a> -->
+      <a href="https://tibble.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/tibble/blob/main/man/figures/logo.png" alt="tibble" width="32" height="32" /> </a>
+      <a href="https://ggplot2.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/ggplot2/blob/main/man/figures/logo.png" alt="ggplot2" width="32" height="32" /> </a>
+      <!-- <a href="https://readr.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/readr/blob/main/man/figures/logo.png" alt="readr" width="32" height="32" /> </a> -->
+      <!-- <a href="https://tidyr.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/tidyr/blob/main/man/figures/logo.png" alt="tidyr" width="32" height="32" /> </a> -->
+      <!-- <a href="https://stringr.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/stringr/blob/main/man/figures/logo.png" alt="stringr" width="32" height="32" /> </a> -->
+      <!-- <a href="https://forcats.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/forcats/blob/main/man/figures/logo.png" alt="forcats" width="32" height="32" /> </a> -->
+      <!-- <a href="https://lubridate.tidyverse.org/" target="_blank"> <img src="https://github.com/tidyverse/lubridate/blob/main/man/figures/logo.png" alt="lubridate" width="32" height="32" /> </a> -->
+      <!-- <a href="https://purrr.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/purrr/blob/main/man/figures/logo.png" alt="purrr" width="32" height="32" /> </a> -->)
       <!-- <a href="https://rdatatable.gitlab.io/data.table/" target="_blank"> <img src="https://github.com/Rdatatable/data.table/blob/master/.graphics/logo.png" alt="data.table" width="40" height="40" /> </a> -->
       <!-- <a href="https://arrow.apache.org" target="_blank"> <img src="https://github.com/apache/arrow/blob/main/docs/source/_static/favicon.ico" alt="Apache Arrow" width="40" height="40" /> </a> -->
       <!-- <ul>
