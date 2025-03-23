@@ -72,6 +72,7 @@
       <!-- <a href="https://github.com/zarr-developers/zarr-python" target="_blank"> <img src="https://github.com/zarr-developers/zarr-python/blob/main/docs/_static/logo1.png" alt="Zarr" width="40" height="40" /> -->
       <!-- <a href="https://pola.rs" target="_blank"> <img src="https://github.com/pola-rs/polars/blob/main/docs/_build/assets/logo.png" alt="Polars" width="40" height="40" /> </a> -->
       <a href="https://tidyverse.tidyverse.org" target="_blank"> <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="tidyverse" width="40" height="40" /> </a>(
+      <a href="https://magrittr.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/magrittr/blob/main/man/figures/logo.png" alt="magrittr" width="32" height="32" /> </a>
       <!-- <a href="https://dplyr.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/dplyr/blob/main/man/figures/logo.png" alt="dplyr" width="32" height="32" /> </a> -->
       <!-- <a href="https://tibble.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/tibble/blob/main/man/figures/logo.png" alt="tibble" width="32" height="32" /> </a> -->
       <a href="https://ggplot2.tidyverse.org" target="_blank"> <img src="https://github.com/tidyverse/ggplot2/blob/main/man/figures/logo.png" alt="ggplot2" width="32" height="32" /> </a>
