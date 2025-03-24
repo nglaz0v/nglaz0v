@@ -321,6 +321,7 @@
 <p align="left">
   <a href="https://airflow.apache.org" target="_blank"> <img src="https://github.com/apache/airflow/blob/main/airflow-core/docs/img/logos/airflow_transparent.png" alt="Apache Airflow" width="40" height="40" /> </a>
   <a href="https://nextflow.io" target="_blank"> <img src="https://github.com/nextflow-io/nextflow/blob/master/docs/_static/favicon.ico" alt="Nextflow" width="40" height="40" /> </a>
+  <!-- <a href="https://snakemake.github.io" target="_blank"> <img src="https://github.com/snakemake/snakemake/blob/main/images/logo.png" alt="Snakemake" width="40" height="40" /> </a> -->
 </p>
 <h3 align="left">Prototyping:</h3>
 <p align="left">
