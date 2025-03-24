@@ -231,8 +231,8 @@
 </p>
 <h3 align="left">BioMed:</h3>
 <p align="left">
+  <a href="https://bioconductor.org" target="_blank"> <img src="https://bioconductor.org/images/icons/BioconductorSticker1.png" alt="Bioconductor" width="40" height="40" /> </a>
   <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
-  <!-- <a href="https://bioconductor.org" target="_blank"> <img src="https://bioconductor.org/images/icons/BioconductorSticker1.png" alt="Bioconductor" width="40" height="40" /> </a> -->
   <a href="https://deepchem.io" target="_blank"> <img src="https://deepchem.io//_next/static/media/deepchem-logo.95f3f074.png" alt="DeepChem" width="40" height="40" /> </a>
   <!-- <a href="https://sgkit-dev.github.io/sgkit" target="_blank"> <img src="https://github.com/sgkit-dev/sgkit/blob/main/docs/_static/sgkit_blue_trnsprnt.png" alt="sgkit" width="40" height="40" /> </a> -->
   <!-- <a href="https://www.rdkit.org" target="_blank"> <img src="https://www.rdkit.org/Images/logo.png" alt="RDKit" width="40" height="40" /> </a> -->
@@ -240,6 +240,8 @@
   <a href="https://github.com/therneau/survival" target="_blank"> <img src="https://github.com/therneau/survival/blob/master/man/figures/logo.png" alt="survival" width="40" height="40" /> </a>
   <!-- <a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://github.com/mne-tools/mne-python/blob/main/doc/_static/mne_logo.svg" alt="MNE" width="40" height="40" /> </a> -->
   <a href="https://github.com/pydicom/pydicom" target="_blank"> <img src="https://github.com/pydicom/pydicom/blob/main/doc/assets/img/pydicom_flat_black.svg" alt="pydicom" width="40" height="40" /> </a>
+  <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" target="_blank"> <img src="https://github.com/s-andrews/FastQC/blob/master/Templates/Icons/fastqc_icon.png" alt="FastQC" width="40" height="40" /> </a>
+  <a href="https://seqera.io/multiqc/" target="_blank"> <img src="https://github.com/MultiQC/MultiQC/blob/main/multiqc/templates/default/assets/img/favicon-96x96.png" alt="MultiQC" width="40" height="40" /> </a>
   <!-- <ul>
     <li>MedNLP:
       <a href="https://sparknlp.org" target="_blank"> <img src="https://github.com/JohnSnowLabs/spark-nlp/blob/master/docs/assets/fav.ico" alt="Spark NLP" width="40" height="40" /> </a>
@@ -317,7 +319,8 @@
 </p>
 <h3 align="left">Workflow:</h3>
 <p align="left">
-  <a href="https://airflow.apache.org" target="_blank"> <img src="https://github.com/apache/airflow/blob/main/docs/apache-airflow/img/logos/airflow_transparent.png" alt="Apache Airflow" width="40" height="40" /> </a>
+  <a href="https://airflow.apache.org" target="_blank"> <img src="https://github.com/apache/airflow/blob/main/airflow-core/docs/img/logos/airflow_transparent.png" alt="Apache Airflow" width="40" height="40" /> </a>
+  <a href="https://nextflow.io" target="_blank"> <img src="https://github.com/nextflow-io/nextflow/blob/master/docs/_static/favicon.ico" alt="Nextflow" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Prototyping:</h3>
 <p align="left">
