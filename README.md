@@ -56,6 +56,7 @@
       <a href="https://scipy.org" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40" /> </a>
       <!-- <a href="https://www.statsmodels.org" target="_blank"> <img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="40" height="40" /> </a> -->
       <!-- <a href="https://easystats.github.io/easystats" target="_blank"> <img src="https://easystats.github.io/easystats/logo.png" alt="easystats" width="40" height="40" /> </a> -->
+      <!-- <a href="https://lbbe-software.github.io/fitdistrplus" target="_blank"> <img src="https://github.com/lbbe-software/fitdistrplus/blob/master/man/figures/fitdistrplus_hex.png" alt="fitdistrplus" width="40" height="40" /> </a> -->
     </li>
     <li>Plots:
       <a href="https://matplotlib.org" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" width="40" height="40" /> </a>
@@ -133,8 +134,10 @@
   <a href="https://lightgbm.readthedocs.io" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
   <a href="https://catboost.ai" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
   <!-- <a href="https://tidymodels.tidymodels.org" target="_blank"> <img src="https://github.com/tidymodels/tidymodels/blob/main/man/figures/logo.png" alt="tidymodels" width="40" height="40" /> </a> -->
+  <!-- <a href="https://github.com/bethatkinson/rpart" target="_blank"> <img src="https://github.com/bethatkinson/rpart/blob/master/man/figures/rpart.png" alt="rpart" width="40" height="40" /> </a> -->
   <!-- <a href="https://facebook.github.io/prophet" target="_blank"> <img src="https://github.com/facebook/prophet/blob/main/docs/static/favicon.png" alt="Prophet" width="40" height="40" /> </a> -->
   <!-- <a href="https://rapids.ai" target="_blank"> <img src="https://github.com/rapidsai/rapids.ai/blob/main/assets/images/RAPIDS-logo.png" alt="RAPIDS" width="40" height="40" /> </a> -->
+  <!-- <a href="http://topepo.github.io/caret/index.html" target="_blank"> caret </a> | -->
   <ul>
     <!-- <li>MLOps:
       <a href="https://mlflow.org" target="_blank"> <img src="https://github.com/mlflow/mlflow/blob/master/assets/icon.svg" alt="MLflow" width="40" height="40" /> </a>
