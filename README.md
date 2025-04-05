@@ -196,11 +196,19 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /> </a>
   <a href="https://pytorch.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /> </a>
   <a href="https://lightning.ai" target="_blank"> <img src="https://github.com/Lightning-AI/pytorch-lightning/blob/master/docs/source-fabric/_static/images/logo-large.svg" alt="PyTorch Lightning" width="40" height="40" /> </a>
+  <!-- <ul>
+    <li>Pre-trained models:
+      <a href="https://keras.io/keras_hub/" target="_blank"> KerasHub </a> |
+      <a href="https://www.kaggle.com/models" target="_blank"> Kaggle Models </a> |
+      <a href="https://pytorch.org/hub/" target="_blank"> PyTorch Hub </a> |
+    </li>
+  </ul> -->
   <ul>
     <li>SoTA:
       <a href="https://docs.ultralytics.com" target="_blank"> <img src="https://raw.githubusercontent.com/ultralytics/ultralytics/main/docs/overrides/assets/favicon.ico" alt="Ultralytics YOLOv8" width="40" height="40" /> </a>
       <!-- <a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" alt="Detectron2" width="40" height="40" /> </a> -->
       <a href="https://github.com/facebookresearch/pytorch3d" target="_blank"> <img src="https://github.com/facebookresearch/pytorch3d/blob/main/website/static/img/pytorch3dfavicon.png" alt="PyTorch3D" width="40" height="40" /> </a>
+      <!-- <a href="https://pyg.org" target="_blank"> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true" alt="PyG" width="40" height="40" /> </a> -->
       <!-- <a href="https://albumentations.ai" target="_blank"> <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="Albumentations" width="40" height="40" /> </a> -->
       <!-- <a href="https://kornia.github.io" target="_blank"> <img src="https://github.com/kornia/kornia/blob/main/docs/source/_static/img/kornia_logo_only.png" alt="kornia" width="40" height="40" /> </a> -->
       <!-- <a href="https://huggingface.co/docs/timm" target="_blank"> timm </a> -->
