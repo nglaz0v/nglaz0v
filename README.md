@@ -40,6 +40,7 @@
   <a href="https://www.anaconda.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" /> </a>
   <a href="https://pypi.org" target="_blank"> <img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="PyPI" width="40" height="40" /> </a>
   <a href="https://cran.r-project.org" target="_blank"> CRAN </a> |
+  <a href="https://bioconductor.org" target="_blank"> <img src="https://bioconductor.org/images/icons/BioconductorSticker1.png" alt="Bioconductor" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Interactive Computing:</h3>
 <p align="left">
@@ -130,15 +131,20 @@
 <h3 align="left">Machine Learning:</h3>
 <p align="left">
   <a href="https://scikit-learn.org" target="_blank"> <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="scikit-learn" width="40" height="40" /> </a>
-  <a href="https://xgboost.ai" target="_blank"> <img src="https://xgboost.ai/images/logo/xgboost-logo.png" alt="XGBoost" width="40" height="40" /> </a>
-  <a href="https://lightgbm.readthedocs.io" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
-  <a href="https://catboost.ai" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
   <!-- <a href="https://tidymodels.tidymodels.org" target="_blank"> <img src="https://github.com/tidymodels/tidymodels/blob/main/man/figures/logo.png" alt="tidymodels" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/bethatkinson/rpart" target="_blank"> <img src="https://github.com/bethatkinson/rpart/blob/master/man/figures/rpart.png" alt="rpart" width="40" height="40" /> </a> -->
+  <!-- <a href="https://www.sktime.net/en/stable" target="_blank"> <img src="https://github.com/sktime/sktime/blob/main/docs/source/images/sktime-logo.png" alt="sktime" width="40" height="40" /> </a> -->
   <!-- <a href="https://facebook.github.io/prophet" target="_blank"> <img src="https://github.com/facebook/prophet/blob/main/docs/static/favicon.png" alt="Prophet" width="40" height="40" /> </a> -->
   <!-- <a href="https://rapids.ai" target="_blank"> <img src="https://github.com/rapidsai/rapids.ai/blob/main/assets/images/RAPIDS-logo.png" alt="RAPIDS" width="40" height="40" /> </a> -->
   <!-- <a href="http://topepo.github.io/caret/index.html" target="_blank"> caret </a> | -->
+  <!-- <a href="https://github.com/nicodv/kmodes" target="_blank"> kmodes </a> | -->
+  <!-- <a href="https://github.com/yzhao062/pyod" target="_blank"> PyOD </a> | -->
   <ul>
+    <li>Boosting:
+      <a href="https://xgboost.ai" target="_blank"> <img src="https://xgboost.ai/images/logo/xgboost-logo.png" alt="XGBoost" width="40" height="40" /> </a>
+      <a href="https://lightgbm.readthedocs.io" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
+      <a href="https://catboost.ai" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
+    </li>
     <!-- <li>MLOps:
       <a href="https://mlflow.org" target="_blank"> <img src="https://github.com/mlflow/mlflow/blob/master/assets/icon.svg" alt="MLflow" width="40" height="40" /> </a>
       <a href="https://www.kubeflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/kubeflow/kubeflow/master/components/centraldashboard/public/assets/favicon-32x32.png" alt="Kubeflow" width="40" height="40" /> </a>
@@ -242,7 +248,6 @@
 </p>
 <h3 align="left">BioMed:</h3>
 <p align="left">
-  <a href="https://bioconductor.org" target="_blank"> <img src="https://bioconductor.org/images/icons/BioconductorSticker1.png" alt="Bioconductor" width="40" height="40" /> </a>
   <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
   <a href="https://deepchem.io" target="_blank"> <img src="https://deepchem.io//_next/static/media/deepchem-logo.95f3f074.png" alt="DeepChem" width="40" height="40" /> </a>
   <!-- <a href="https://sgkit-dev.github.io/sgkit" target="_blank"> <img src="https://github.com/sgkit-dev/sgkit/blob/main/docs/_static/sgkit_blue_trnsprnt.png" alt="sgkit" width="40" height="40" /> </a> -->
