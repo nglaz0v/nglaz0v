@@ -256,8 +256,6 @@
   <a href="https://github.com/therneau/survival" target="_blank"> <img src="https://github.com/therneau/survival/blob/master/man/figures/logo.png" alt="survival" width="40" height="40" /> </a>
   <!-- <a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://github.com/mne-tools/mne-python/blob/main/doc/_static/mne_logo.svg" alt="MNE" width="40" height="40" /> </a> -->
   <a href="https://github.com/pydicom/pydicom" target="_blank"> <img src="https://github.com/pydicom/pydicom/blob/main/doc/assets/img/pydicom_flat_black.svg" alt="pydicom" width="40" height="40" /> </a>
-  <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" target="_blank"> <img src="https://github.com/s-andrews/FastQC/blob/master/Templates/Icons/fastqc_icon.png" alt="FastQC" width="40" height="40" /> </a>
-  <a href="https://seqera.io/multiqc/" target="_blank"> <img src="https://github.com/MultiQC/MultiQC/blob/main/multiqc/templates/default/assets/img/favicon-96x96.png" alt="MultiQC" width="40" height="40" /> </a>
   <!-- <ul>
     <li>MedNLP:
       <a href="https://sparknlp.org" target="_blank"> <img src="https://github.com/JohnSnowLabs/spark-nlp/blob/master/docs/assets/fav.ico" alt="Spark NLP" width="40" height="40" /> </a>
@@ -266,6 +264,24 @@
       <a href="https://github.com/ncbi-nlp/BioSentVec" target="_blank"> BioSentVec </a>
     </li>
   </ul> -->
+  <!--<ul>Sequence analysis:
+    <li>Quality control:
+      <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" target="_blank"> <img src="https://github.com/s-andrews/FastQC/blob/master/Templates/Icons/fastqc_icon.png" alt="FastQC" width="40" height="40" /> </a>
+      <a href="https://seqera.io/multiqc/" target="_blank"> <img src="https://github.com/MultiQC/MultiQC/blob/main/multiqc/templates/default/assets/img/favicon-96x96.png" alt="MultiQC" width="40" height="40" /> </a>
+      <a href="http://qualimap.conesalab.org/" target="_blank"> QualiMap </a>
+    </li>
+    <li>Read alignment:
+      <a href="https://bio-bwa.sourceforge.net" target="_blank"> BWA </a>
+      <a href="https://bowtie-bio.sourceforge.net/bowtie2/index.shtml" target="_blank"> Bowtie2 </a>
+      <a href="https://mafft.cbrc.jp/alignment/software/tips0.html" target="_blank"> MAFFT </a>
+    </li>
+    <li>Sequence alignment:
+      <a href="http://www.htslib.org" target="_blank"> samtools </a>
+    </li>
+    <li>Variant calling:
+      <a href="http://www.htslib.org" target="_blank"> bcftools </a>
+    </li>
+  </ul>-->
   <!-- <ul>
     <li>NGS:
       <a href="https://github.com/jamescasbon/PyVCF" target="_blank"> PyVCF </a>
