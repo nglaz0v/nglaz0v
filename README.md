@@ -312,6 +312,7 @@
   <a href="https://joblib.readthedocs.io/en/stable/" target="_blank"> <img src="https://github.com/joblib/joblib/blob/main/doc/_static/joblib_logo.svg" alt="Joblib" width="40" height="40" /> </a>
   <!-- <a href="https://cython.org/" target="_blank"> <img src="https://github.com/cython/cython/blob/master/docs/_static/cython-logo-C.svg" alt="Cython" width="40" height="40" /> </a> -->
   <!-- <a href="https://numba.pydata.org/" target="_blank"> <img src="https://github.com/numba/numba/blob/main/docs/_static/numba-blue-icon-rgb.svg" alt="Numba" width="40" height="40" /> </a> -->
+  <!-- <a href="https://github.com/cupy/cupy" target="_blank"> <img src="https://github.com/cupy/cupy/blob/main/docs/image/cupy_logo.svg" alt="CuPy" width="40" height="40" /> </a> -->
   <!-- <a href="https://jax.readthedocs.io/en/latest/" target="_blank"> <img src="https://github.com/google/jax/blob/main/images/jax_logo.svg" alt="JAX" width="40" height="40" /> </a> -->
 </p>
 <h3 align="left">Web:</h3>
