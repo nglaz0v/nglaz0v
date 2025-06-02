@@ -45,7 +45,7 @@
 <h3 align="left">Interactive Computing:</h3>
 <p align="left">
   <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
-  <a href="https://ipython.org" target="_blank"> IPython </a>
+  <a href="https://ipython.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/230453" alt="IPython" width="40" height="40" /> </a>
   <a href="https://jupytext.readthedocs.io" target="_blank"> <img src="https://github.com/mwouts/jupytext/blob/main/docs/images/logo.png" alt="Jupytext" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Data Science:</h3>
@@ -211,7 +211,7 @@
   </ul> -->
   <ul>
     <li>SoTA:
-      <a href="https://docs.ultralytics.com" target="_blank"> <img src="https://raw.githubusercontent.com/ultralytics/ultralytics/main/docs/overrides/assets/favicon.ico" alt="Ultralytics YOLOv8" width="40" height="40" /> </a>
+      <a href="https://docs.ultralytics.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/26833451" alt="Ultralytics YOLOv8" width="40" height="40" /> </a>
       <!-- <a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" alt="Detectron2" width="40" height="40" /> </a> -->
       <a href="https://github.com/facebookresearch/pytorch3d" target="_blank"> <img src="https://github.com/facebookresearch/pytorch3d/blob/main/website/static/img/pytorch3dfavicon.png" alt="PyTorch3D" width="40" height="40" /> </a>
       <!-- <a href="https://pyg.org" target="_blank"> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true" alt="PyG" width="40" height="40" /> </a> -->
@@ -302,6 +302,7 @@
   <a href="https://github.com/Uberi/speech_recognition" target="_blank"> SpeechRecognition </a> |
   <a href="https://github.com/pndurette/gTTS" target="_blank"> gTTS </a> |
   <!-- <a href="https://github.com/ssut/py-googletrans" target="_blank"> Googletrans </a> | -->
+  <a href="https://github.com/cuthbertLab/music21" target="_blank"> music21 </a> |
   <!-- <a href="https://librosa.org/" target="_blank"> <img src="https://github.com/librosa/librosa/blob/main/docs/img/librosa_logo_text.png" alt="librosa" width="40" height="40" /> </a> -->
   <!-- <a href="https://magenta.tensorflow.org/" target="_blank"> <img src="https://magenta.tensorflow.org/assets/magenta-logo-bottom-text.png" alt="Magenta" width="40" height="40" /> </a> -->
 </p>
@@ -318,7 +319,7 @@
 <h3 align="left">Web:</h3>
 <p align="left">
   <a href="https://requests.readthedocs.io" target="_blank"> <img src="https://github.com/psf/requests/blob/main/ext/requests-logo.svg" alt="Requests" width="40" height="40" /> </a>
-  <a href="https://scrapy.org" target="_blank"> <img src="https://scrapy.org/img/scrapy-pros.png" alt="Scrapy" width="40" height="40" /> </a>
+  <a href="https://scrapy.org" target="_blank"> <img src="https://github.com/scrapy/scrapy/blob/master/docs/_static/logo.svg" alt="Scrapy" width="40" height="40" /> </a>
   <!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://github.com/SeleniumHQ/selenium/blob/trunk/javascript/grid-ui/public/logo192.png" alt="Selenium" width="40" height="40" /> </a> -->
   <a href="https://www.crummy.com/software/BeautifulSoup" target="_blank"> bs4 </a>
   <ul>
