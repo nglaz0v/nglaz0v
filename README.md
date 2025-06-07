@@ -55,9 +55,13 @@
       <a href="https://sympy.org" target="_blank"> <img src="https://github.com/sympy/sympy/blob/master/doc/src/logo/sympy.svg" alt="SymPy" width="40" height="40" /> </a>
       <a href="https://numpy.org" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40" /> </a>
       <a href="https://scipy.org" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40" /> </a>
-      <!-- <a href="https://www.statsmodels.org" target="_blank"> <img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="40" height="40" /> </a> -->
+    </li>
+    <li>Statistics:
+      <a href="https://www.statsmodels.org" target="_blank"> <img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="40" height="40" /> </a>
       <!-- <a href="https://easystats.github.io/easystats" target="_blank"> <img src="https://easystats.github.io/easystats/logo.png" alt="easystats" width="40" height="40" /> </a> -->
       <!-- <a href="https://lbbe-software.github.io/fitdistrplus" target="_blank"> <img src="https://github.com/lbbe-software/fitdistrplus/blob/master/man/figures/fitdistrplus_hex.png" alt="fitdistrplus" width="40" height="40" /> </a> -->
+      <!-- <a href="https://github.com/maximtrp/scikit-posthocs" target="_blank"> scikit-posthocs </a> | -->
+      <!-- <a href="https://github.com/raphaelvallat/pingouin" target="_blank"> Pingouin </a> | -->
     </li>
     <li>Plots:
       <a href="https://matplotlib.org" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" width="40" height="40" /> </a>
