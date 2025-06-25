@@ -182,7 +182,7 @@
   <a href="https://pycaret.org" target="_blank"> <img src="https://github.com/pycaret/pycaret/blob/master/docs/images/logo.png" alt="PyCaret" width="40" height="40" /> </a>
   <a href="https://epistasislab.github.io/tpot" target="_blank"> <img src="https://github.com/EpistasisLab/tpot/blob/main/docs/assets/tpot-logo.jpg" alt="TPOT" width="40" height="40" /> </a>
   <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a>
-  <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/favicon.ico" alt="scikit-optimize" width="40" height="40" /> </a>
+  <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/logo.png" alt="scikit-optimize" width="40" height="40" /> </a>
   <a href="https://hyperopt.github.io/hyperopt" target="_blank"> <img src="https://camo.githubusercontent.com/d9cabe82cdc7bff598f84d61b0a8921cd5c3ceb0716b03399fc31db1a2a23182/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a>
   <!-- <a href="https://github.com/h2oai/h2o-3" target="_blank"> <img src="https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/images/logo.png" alt="H2O" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/sb-ai-lab/LightAutoML" target="_blank"> <img src="https://github.com/sb-ai-lab/LightAutoML/blob/master/imgs/LightAutoML_logo_small.png" alt="LightAutoML" width="40" height="40" /> </a> -->
@@ -208,6 +208,7 @@
   <a href="https://lightning.ai" target="_blank"> <img src="https://github.com/Lightning-AI/pytorch-lightning/blob/master/docs/source-fabric/_static/images/logo-large.svg" alt="PyTorch Lightning" width="40" height="40" /> </a>
   <!-- <ul>
     <li>Pre-trained models:
+      <a href="https://github.com/keras-team/keras-cv" target="_blank"> KerasCV </a> |
       <a href="https://keras.io/keras_hub/" target="_blank"> KerasHub </a> |
       <a href="https://www.kaggle.com/models" target="_blank"> Kaggle Models </a> |
       <a href="https://pytorch.org/hub/" target="_blank"> PyTorch Hub </a> |
@@ -225,6 +226,8 @@
       <!-- <a href="https://smp.readthedocs.io" target="_blank"> Segmentation Models </a> -->
       <!-- <a href="https://github.com/UKPLab/sentence-transformers" target="_blank"> <img src="https://github.com/UKPLab/sentence-transformers/blob/master/docs/img/logo_org.png" alt="Sentence Transformers" width="40" height="40" /> </a> -->
       <!-- <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️ LangChain </a> -->
+      <!-- <a href="https://github.com/tensorflow/probability" target="_blank"> TensorFlow Probability </a> -->
+      <!-- <a href="https://github.com/sicara/tf-explain" target="_blank"> tf-explain </a> -->
     </li>
   </ul>
   <ul>
@@ -328,7 +331,7 @@
   <a href="https://www.crummy.com/software/BeautifulSoup" target="_blank"> bs4 </a>
   <ul>
     <li>Frameworks:
-      <a href="https://palletsprojects.com/p/flask" target="_blank"> <img src="https://github.com/pallets/flask/blob/main/docs/_static/shortcut-icon.png" alt="Flask" width="40" height="40" /> </a>
+      <a href="https://palletsprojects.com/p/flask" target="_blank"> <img src="https://github.com/pallets/flask/blob/main/docs/_static/flask-logo.svg" alt="Flask" width="40" height="40" /> </a>
       <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/favicon.png" alt="FastAPI" width="40" height="40" /> </a>
       <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
       <a href="https://www.gradio.app" target="_blank"> <img src="https://github.com/gradio-app/gradio/blob/main/guides/assets/logo.png" alt="Gradio" width="40" height="40" /> </a>
