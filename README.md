@@ -149,6 +149,23 @@
       <a href="https://lightgbm.readthedocs.io" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
       <a href="https://catboost.ai" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
     </li>
+    <li>Dimensionality Reduction:
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html" target="_blank"> PCA <!-- Principal Component Analysis --> </a> |
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.IncrementalPCA.html#sklearn.decomposition.IncrementalPCA" target="_blank"> IPCA <!-- Incremental Principal Component Analysis --> </a> |
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html#sklearn.decomposition.KernelPCA" target="_blank"> KPCA <!-- Kernel Principal Component Analysis --> </a> |
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparsePCA.html#sklearn.decomposition.SparsePCA" target="_blank"> SPCA < !-- Sparse Principal Component Analysis -- > </a> | -->
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html#sklearn.decomposition.TruncatedSVD" target="_blank"> Truncated_SVD < !-- Truncated Singular Value Decomposition -- > </a> | -->
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparseCoder.html#sklearn.decomposition.SparseCoder" target="_blank"> Sparse_Coding </a> | -->
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.DictionaryLearning.html#sklearn.decomposition.DictionaryLearning" target="_blank"> Dictionary_Learning </a> | -->
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html#sklearn.decomposition.FactorAnalysis" target="_blank"> Factor_Analysis </a> | -->
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FastICA.html#sklearn.decomposition.FastICA" target="_blank"> ICA < !-- Independent Component Analysis -- > </a> | -->
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation" target="_blank"> LDA < !-- Latent Dirichlet Allocation -- > </a> | -->
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html#sklearn.decomposition.NMF" target="_blank"> NMF < !-- Non-Negative Matrix Factorization -- > </a> | -->
+      <!-- <a href="https://github.com/rmarkello/snfpy" target="_blank"> SNF < !-- Similarity Network Fusion -- > </a> | -->
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE" target="_blank"> t-SNE  <!-- t-distributed Stochastic Neighbor Embedding --> </a> |
+      <a href="https://github.com/lmcinnes/umap" target="_blank"> UMAP  <!-- Uniform Manifold Approximation and Projection --> </a> |
+      <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE  < !-- Potential of Heat-diffusion for Affinity-based Transition Embedding -- > </a> | -->
+    </li>
     <!-- <li>MLOps:
       <a href="https://mlflow.org" target="_blank"> <img src="https://github.com/mlflow/mlflow/blob/master/assets/icon.svg" alt="MLflow" width="40" height="40" /> </a>
       <a href="https://www.kubeflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/kubeflow/kubeflow/master/components/centraldashboard/public/assets/favicon-32x32.png" alt="Kubeflow" width="40" height="40" /> </a>
@@ -161,7 +178,6 @@
       <!-- <a href="https://interpret.ml" target="_blank"> InterpretML </a> -->
       <a href="https://github.com/scikit-learn-contrib/imbalanced-learn" target="_blank"> <img src="https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/doc/_static/img/logo.png" alt="imbalanced-learn" width="40" height="40" /> </a>
       <a href="https://www.scikit-yb.org" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a>
-      <a href="https://github.com/lmcinnes/umap" target="_blank"> <img src="https://github.com/lmcinnes/umap/blob/master/doc/logo.png" alt="UMAP" width="40" height="40" /> </a>
       <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
       <!-- <a href="https://explainerdashboard.readthedocs.io" target="_blank"> <img src="https://github.com/oegedijk/explainerdashboard/blob/master/explainerdashboard/assets/favicon.ico" alt="explainerdashboard" width="40" height="40" /> -->
       <!-- <a href="https://github.com/pyjanitor-devs/pyjanitor" target="_blank"> pyjanitor </a> -->
@@ -173,7 +189,7 @@
       <!-- <a href="https://github.com/andosa/treeinterpreter" target="_blank"> TreeInterpreter </a> -->
       <!-- <a href="https://github.com/SauceCat/PDPbox" target="_blank"> PDPbox </a> -->
       <!-- <a href="https://github.com/KrishnaswamyLab/scprep" target="_blank"> <img src="https://github.com/KrishnaswamyLab/scprep/blob/master/logo.png" alt="scprep" width="40" height="40" /> </a> -->
-      <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE </a> -->
+      <a href="https://github.com/Ekeany/Boruta-Shap" target="_blank"> Boruta-Shap </a> |
     </li>
   </ul>
 </p>
