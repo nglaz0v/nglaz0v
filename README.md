@@ -166,17 +166,29 @@
       <a href="https://github.com/lmcinnes/umap" target="_blank"> UMAP  <!-- Uniform Manifold Approximation and Projection --> </a> |
       <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE  < !-- Potential of Heat-diffusion for Affinity-based Transition Embedding -- > </a> | -->
     </li>
+    <li>Feature Selection:
+      <a href="https://github.com/Ekeany/Boruta-Shap" target="_blank"> Boruta-Shap </a> |
+    </li>
+    <li>Imbalanced Data:
+      <a href="https://imbalanced-learn.org" target="_blank"> <img src="https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/doc/_static/img/logo.png" alt="imbalanced-learn" width="40" height="40" /> </a>
+      <a href="https://themis.tidymodels.org/" target="_blank"> <img src="https://github.com/tidymodels/themis/blob/main/man/figures/logo.png" alt="themis" width="40" height="40" /> </a>
+      <a href="https://github.com/analyticalmindsltd/smote_variants" target="_blank"> SMOTE-variants </a> |
+    </li>
+    <!-- <li>Similarity Search:
+      <a href="https://github.com/spotify/annoy" target="_blank"> Annoy </a> |
+      <a href="https://github.com/nmslib/nmslib" target="_blank"> NMSLIB </a> |
+      <a href="http://falconn-lib.org/" target="_blank"> FALCONN </a> |
+    </li> -->
     <!-- <li>MLOps:
       <a href="https://mlflow.org" target="_blank"> <img src="https://github.com/mlflow/mlflow/blob/master/assets/icon.svg" alt="MLflow" width="40" height="40" /> </a>
       <a href="https://www.kubeflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/kubeflow/kubeflow/master/components/centraldashboard/public/assets/favicon-32x32.png" alt="Kubeflow" width="40" height="40" /> </a>
       <a href="https://www.zenml.io" target="_blank"> <img src="https://github.com/zenml-io/zenml/blob/main/docs/mkdocs/_assets/favicon.png" alt="ZenML" width="40" height="40" /> </a>
     </li> -->
-    <li>ML tools:
+    <li>Explainable AI:
       <a href="https://shap.readthedocs.io" target="_blank"> <img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/favicon.ico" alt="SHAP" width="40" height="40" /> </a>
       <!-- <a href="https://github.com/eli5-org/eli5" target="_blank"> ELI5 </a> -->
       <!-- <a href="https://github.com/marcotcr/lime" target="_blank"> LIME </a> -->
       <!-- <a href="https://interpret.ml" target="_blank"> InterpretML </a> -->
-      <a href="https://github.com/scikit-learn-contrib/imbalanced-learn" target="_blank"> <img src="https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/doc/_static/img/logo.png" alt="imbalanced-learn" width="40" height="40" /> </a>
       <a href="https://www.scikit-yb.org" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a>
       <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
       <!-- <a href="https://explainerdashboard.readthedocs.io" target="_blank"> <img src="https://github.com/oegedijk/explainerdashboard/blob/master/explainerdashboard/assets/favicon.ico" alt="explainerdashboard" width="40" height="40" /> -->
@@ -189,7 +201,6 @@
       <!-- <a href="https://github.com/andosa/treeinterpreter" target="_blank"> TreeInterpreter </a> -->
       <!-- <a href="https://github.com/SauceCat/PDPbox" target="_blank"> PDPbox </a> -->
       <!-- <a href="https://github.com/KrishnaswamyLab/scprep" target="_blank"> <img src="https://github.com/KrishnaswamyLab/scprep/blob/master/logo.png" alt="scprep" width="40" height="40" /> </a> -->
-      <a href="https://github.com/Ekeany/Boruta-Shap" target="_blank"> Boruta-Shap </a> |
     </li>
   </ul>
 </p>
@@ -278,7 +289,7 @@
   <!-- <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a> -->
   <a href="https://github.com/therneau/survival" target="_blank"> <img src="https://github.com/therneau/survival/blob/master/man/figures/logo.png" alt="survival" width="40" height="40" /> </a>
   <!-- <a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://github.com/mne-tools/mne-python/blob/main/doc/_static/mne_logo.svg" alt="MNE" width="40" height="40" /> </a> -->
-  <a href="https://github.com/pydicom/pydicom" target="_blank"> <img src="https://github.com/pydicom/pydicom/blob/main/doc/assets/img/pydicom_flat_black.svg" alt="pydicom" width="40" height="40" /> </a>
+  <a href="https://github.com/pydicom/pydicom" target="_blank"> <img src="https://github.com/pydicom/pydicom/blob/main/doc/_static/img/pydicom_flat_black.svg" alt="pydicom" width="40" height="40" /> </a>
   <!-- <ul>
     <li>MedNLP:
       <a href="https://sparknlp.org" target="_blank"> <img src="https://github.com/JohnSnowLabs/spark-nlp/blob/master/docs/assets/fav.ico" alt="Spark NLP" width="40" height="40" /> </a>
