@@ -165,6 +165,7 @@
       <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE" target="_blank"> t-SNE  <!-- t-distributed Stochastic Neighbor Embedding --> </a> |
       <a href="https://github.com/lmcinnes/umap" target="_blank"> UMAP  <!-- Uniform Manifold Approximation and Projection --> </a> |
       <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE  < !-- Potential of Heat-diffusion for Affinity-based Transition Embedding -- > </a> | -->
+      <!-- <a href="https://github.com/dhdegroot/Bonsai-data-representation" target="_blank"> Bonsai </a> | -->
     </li>
     <li>Feature Selection:
       <a href="https://github.com/Ekeany/Boruta-Shap" target="_blank"> Boruta-Shap </a> |
@@ -242,6 +243,14 @@
     </li>
   </ul> -->
   <ul>
+    <li>TensorFlow environment:
+      <a href="https://github.com/tensorflow/tensorboard" target="_blank"> TensorBoard </a> |
+      <!-- <a href="https://github.com/tensorflow/datasets" target="_blank"> Datasets </a> | -->
+      <!-- <a href="https://github.com/tensorflow/metadata" target="_blank"> Metadata </a> | -->
+      <a href="https://github.com/tensorflow/probability" target="_blank"> Probability </a> |
+      <!-- <a href="https://github.com/microsoft/tensorwatch" target="_blank"> TensorWatch </a> | -->
+      <a href="https://github.com/sicara/tf-explain" target="_blank"> tf-explain </a> |
+    </li>
     <li>SoTA:
       <a href="https://docs.ultralytics.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/26833451" alt="Ultralytics YOLOv8" width="40" height="40" /> </a>
       <!-- <a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" alt="Detectron2" width="40" height="40" /> </a> -->
@@ -253,8 +262,6 @@
       <!-- <a href="https://smp.readthedocs.io" target="_blank"> Segmentation Models </a> -->
       <!-- <a href="https://github.com/UKPLab/sentence-transformers" target="_blank"> <img src="https://github.com/UKPLab/sentence-transformers/blob/master/docs/img/logo_org.png" alt="Sentence Transformers" width="40" height="40" /> </a> -->
       <!-- <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️ LangChain </a> -->
-      <!-- <a href="https://github.com/tensorflow/probability" target="_blank"> TensorFlow Probability </a> -->
-      <!-- <a href="https://github.com/sicara/tf-explain" target="_blank"> tf-explain </a> -->
     </li>
   </ul>
   <ul>
