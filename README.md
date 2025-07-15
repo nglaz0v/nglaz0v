@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> </a>
   <a href="https://isocpp.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> </a>
@@ -13,18 +13,18 @@
   <a href="https://www.r-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40" /> </a>
   <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
   <ul>
-    <li>FFI:
+    <li>Foreign Function Interface (FFI):
       <a href="https://rpy2.github.io" target="_blank"> <img src="https://github.com/rpy2/rpy2/blob/master/doc/_static/rpy2_logo.png" alt="rpy2" width="40" height="40" /> </a>
       <a href="https://rstudio.github.io/reticulate" target="_blank"> <img src="https://github.com/rstudio/reticulate/blob/main/man/figures/reticulated_python.png" alt="reticulate" width="40" height="40" /> </a>
     </li>
   </ul>
 </p>
-<h3 align="left">Graphical User Interface:</h3>
+<h3 align="left">Graphical User Interface (GUI):</h3>
 <p align="left">
   <a href="https://www.qt.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40" /> </a>
   <!-- <a href="https://kivy.org" target="_blank"> <img src="https://github.com/kivy/kivy/blob/master/kivy/data/logo/kivy-icon-256.png" alt="Kivy" width="40" height="40" /> </a> -->
 </p>
-<h3 align="left">Image Processing & Computer Vision:</h3>
+<h3 align="left">Image Processing & Computer Vision (CV):</h3>
 <p align="left">
   <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" /> </a>
   <a href="https://python-pillow.org" target="_blank"> <img src="https://github.com/python-pillow/Pillow/blob/main/docs/resources/favicon.ico" alt="Pillow" width="40" height="40" /> </a>
@@ -97,7 +97,7 @@
         </li>
       </ul> -->
     </li>
-    <li>NLP:
+    <li>Natural Language Processing (NLP):
       <a href="https://spacy.io" target="_blank"> <img src="https://github.com/explosion/spaCy/blob/master/website/src/images/icon.png" alt="spaCy" width="40" height="40" /> </a>
       <a href="https://radimrehurek.com/gensim" target="_blank"> <img src="https://github.com/piskvorky/gensim/blob/develop/docs/src/_static/favicon.ico" alt="Gensim" width="40" height="40" /> </a>
       <!-- <a href="https://textblob.readthedocs.io" target="_blank"> <img src="https://github.com/sloria/TextBlob/blob/dev/docs/_static/textblob-logo.png" alt="TextBlob" width="40" height="40" /> </a> -->
@@ -132,7 +132,7 @@
     </li>
   </ul>
 </p>
-<h3 align="left">Machine Learning:</h3>
+<h3 align="left">Machine Learning (ML):</h3>
 <p align="left">
   <a href="https://scikit-learn.org" target="_blank"> <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="scikit-learn" width="40" height="40" /> </a>
   <!-- <a href="https://tidymodels.tidymodels.org" target="_blank"> <img src="https://github.com/tidymodels/tidymodels/blob/main/man/figures/logo.png" alt="tidymodels" width="40" height="40" /> </a> -->
@@ -164,6 +164,7 @@
       <!-- <a href="https://github.com/rmarkello/snfpy" target="_blank"> SNF < !-- Similarity Network Fusion -- > </a> | -->
       <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE" target="_blank"> t-SNE  <!-- t-distributed Stochastic Neighbor Embedding --> </a> |
       <a href="https://github.com/lmcinnes/umap" target="_blank"> UMAP  <!-- Uniform Manifold Approximation and Projection --> </a> |
+      <a href="https://keras.io/examples/generative/vae/" target="_blank"> VAE  <!-- Variational AutoEncoder --> </a> |
       <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE  < !-- Potential of Heat-diffusion for Affinity-based Transition Embedding -- > </a> | -->
       <!-- <a href="https://github.com/dhdegroot/Bonsai-data-representation" target="_blank"> Bonsai </a> | -->
     </li>
@@ -217,9 +218,6 @@
   <a href="https://github.com/hyperopt/hyperopt-sklearn" target="_blank"> hyperopt-sklearn </a> |
   <a href="https://github.com/AutoML/auto-sklearn" target="_blank"> auto-sklearn </a> |
   <a href="https://photon-ai.com" target="_blank"> PHOTONAI </a> |
-  <!-- <a href="https://github.com/automl/Auto-PyTorch" target="_blank"> Auto-PyTorch </a> | -->
-  <!-- <a href="https://github.com/keras-team/keras-tuner" target="_blank"> KerasTuner </a> | -->
-  <!-- <a href="https://autokeras.com" target="_blank"> <img src="https://github.com/keras-team/autokeras/blob/master/docs/templates/img/logo_red.svg" alt="AutoKeras" width="40" height="40" /> </a> -->
   <ul>
     <li>EDA:
       <a href="https://github.com/AutoViML/AutoViz" target="_blank"> <img src="https://github.com/AutoViML/AutoViz/blob/master/images/logo.png" alt="AutoViz" width="40" height="40" /> </a>
@@ -243,6 +241,13 @@
     </li>
   </ul> -->
   <ul>
+    <li>Neural Architecture Search (NAS):
+      <a href="https://autokeras.com" target="_blank"> <img src="https://github.com/keras-team/autokeras/blob/master/docs/templates/img/logo_red.svg" alt="AutoKeras" width="40" height="40" /> </a>
+      <a href="https://github.com/keras-team/keras-tuner" target="_blank"> KerasTuner </a> |
+      <!-- <a href="https://github.com/automl/Auto-PyTorch" target="_blank"> Auto-PyTorch </a> | -->
+    </li>
+  </ul>
+  <ul>
     <li>TensorFlow environment:
       <a href="https://github.com/tensorflow/tensorboard" target="_blank"> TensorBoard </a> |
       <!-- <a href="https://github.com/tensorflow/datasets" target="_blank"> Datasets </a> | -->
@@ -251,7 +256,10 @@
       <!-- <a href="https://github.com/microsoft/tensorwatch" target="_blank"> TensorWatch </a> | -->
       <a href="https://github.com/sicara/tf-explain" target="_blank"> tf-explain </a> |
     </li>
-    <li>SoTA:
+  </ul>
+  <ul>
+    <li>state of the art (SotA):
+      <a href="https://onnx.ai/" target="_blank"> <img src="https://onnx.ai/images/icon/icon-ONNX-logo.svg" alt="ONNX" width="40" height="40" /> </a>
       <a href="https://docs.ultralytics.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/26833451" alt="Ultralytics YOLOv8" width="40" height="40" /> </a>
       <!-- <a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" alt="Detectron2" width="40" height="40" /> </a> -->
       <a href="https://github.com/facebookresearch/pytorch3d" target="_blank"> <img src="https://github.com/facebookresearch/pytorch3d/blob/main/website/static/img/pytorch3dfavicon.png" alt="PyTorch3D" width="40" height="40" /> </a>
@@ -405,12 +413,12 @@
   <a href="https://processing.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" width="40" height="40" /> </a>
   <a href="https://kernel.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> </a>
 </p>
-<h3 align="left">Computer Algebra Systems:</h3>
+<h3 align="left">Computer Algebra Systems (CAS):</h3>
 <p align="left">
   <a href="https://maxima.sourceforge.io" target="_blank"> <img src="https://maxima.sourceforge.io/img/maxima.svg" alt="Maxima" width="40" height="40" /> </a>
   <a href="https://www.scilab.org" target="_blank"> <img src="https://www.scilab.org/themes/bs43ds/img/scilab-logo.png" alt="Scilab" width="40" height="40" /> </a>
 </p>
-<h3 align="left">Computer-Aided Design:</h3>
+<h3 align="left">Computer-Aided Design (CAD):</h3>
 <p align="left">
   <a href="https://www.kicad.org" target="_blank"> <img src="https://docs.kicad.org/img/guide-icons/kicad.png" alt="KiCad" width="40" height="40" /> </a>
   <a href="https://www.autodesk.com/products/inventor/overview" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.autodesk.com%2Fcontent%2Fdam%2Fautodesk%2Fwww%2Fproduct-imagery%2Fbadge-75x75%2Finventor-professional-badge-75x75.png&f=1&nofb=1&ipt=1eb0ac87c08544b25f7815aa2541182d93911187339cec309c1f7c982175c86d&ipo=images" alt="Autodesk Inventor" width="40" height="40" /> </a>
