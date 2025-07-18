@@ -115,6 +115,7 @@
       </ul>
     </li>
     <li>misc:
+      <!-- <a href="https://github.com/pypa/setuptools" target="_blank"> <img src="https://github.com/pypa/setuptools/blob/main/docs/images/logo.svg" alt="setuptools" width="40" height="40" /> </a> -->
       <a href="https://github.com/asweigart/pyautogui" target="_blank"> PyAutoGUI </a> |
       <a href="https://github.com/theskumar/python-dotenv" target="_blank"> python-dotenv </a> |
       <a href="https://github.com/python/mypy" target="_blank"> mypy </a> |
@@ -129,6 +130,15 @@
       <a href="https://github.com/pymupdf/pymupdf" target="_blank"> PyMuPDF </a> |
       <a href="https://github.com/facebookresearch/faiss" target="_blank"> Faiss </a> |
       <a href="https://pydotplus.readthedocs.io" target="_blank"> PyDotPlus </a> | -->
+      <!-- <a href="https://github.com/pallets/jinja" target="_blank"> <img src="https://github.com/pallets/jinja/blob/main/docs/_static/jinja-logo.svg" alt="Jinja" width="40" height="40" /> </a>
+      <a href="https://github.com/pallets/markupsafe" target="_blank"> <img src="https://github.com/pallets/markupsafe/blob/main/docs/_static/markupsafe-logo.svg" alt="MarkupSafe" width="40" height="40" /> </a>
+      <a href="https://github.com/plotly/kaleido" target="_blank"> Kaleido </a> |
+      <a href="https://schemdraw.readthedocs.io/en/stable/" target="_blank"> Schemdraw </a> |
+      <a href="https://github.com/pitrou/pickle5-backport" target="_blank"> pickle5 </a> |
+      <a href="https://github.com/cloudpipe/cloudpickle" target="_blank"> cloudpickle </a> |
+      <a href="https://deprecation.readthedocs.io/en/latest/" target="_blank"> deprecation </a> |
+      <a href="https://github.com/ifduyue/python-xxhash" target="_blank"> xxhash </a> |
+      <a href="https://github.com/minrk/wurlitzer" target="_blank"> wurlitzer </a> | -->
     </li>
   </ul>
 </p>
@@ -137,18 +147,22 @@
   <a href="https://scikit-learn.org" target="_blank"> <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="scikit-learn" width="40" height="40" /> </a>
   <!-- <a href="https://tidymodels.tidymodels.org" target="_blank"> <img src="https://github.com/tidymodels/tidymodels/blob/main/man/figures/logo.png" alt="tidymodels" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/bethatkinson/rpart" target="_blank"> <img src="https://github.com/bethatkinson/rpart/blob/master/man/figures/rpart.png" alt="rpart" width="40" height="40" /> </a> -->
-  <!-- <a href="https://www.sktime.net/en/stable" target="_blank"> <img src="https://github.com/sktime/sktime/blob/main/docs/source/images/sktime-logo.png" alt="sktime" width="40" height="40" /> </a> -->
-  <!-- <a href="https://facebook.github.io/prophet" target="_blank"> <img src="https://github.com/facebook/prophet/blob/main/docs/static/favicon.png" alt="Prophet" width="40" height="40" /> </a> -->
   <!-- <a href="https://rapids.ai" target="_blank"> <img src="https://github.com/rapidsai/rapids.ai/blob/main/assets/images/RAPIDS-logo.png" alt="RAPIDS" width="40" height="40" /> </a> -->
   <!-- <a href="http://topepo.github.io/caret/index.html" target="_blank"> caret </a> | -->
-  <!-- <a href="https://github.com/nicodv/kmodes" target="_blank"> kmodes </a> | -->
-  <!-- <a href="https://github.com/yzhao062/pyod" target="_blank"> PyOD </a> | -->
+  <!-- <a href="https://fairlearn.org" target="_blank"> <img src="https://raw.githubusercontent.com/fairlearn/fairlearn/refs/heads/main/docs/static_landing_page/images/fairlearn-favicon.ico" alt="Fairlearn" width="40" height="40" /> </a>
+  <a href="https://docs.deepchecks.com/stable/getting-started/welcome.html" target="_blank"> <img src="https://github.com/deepchecks/deepchecks/blob/main/docs/source/_static/favicons/favicon.png" alt="Deepchecks" width="40" height="40" /> </a>
+  <a href="https://github.com/BayesWitnesses/m2cgen" target="_blank"> m2cgen </a> |
+  <a href="https://github.com/evidentlyai/evidently" target="_blank"> Evidently </a> |
+  <a href="https://fugue-tutorials.readthedocs.io/" target="_blank"> <img src="https://github.com/fugue-project/fugue/blob/master/docs/_static/logo.svg" alt="Fugue" width="40" height="40" /> </a> -->
   <ul>
     <li>Boosting:
       <a href="https://xgboost.ai" target="_blank"> <img src="https://xgboost.ai/images/logo/xgboost-logo.png" alt="XGBoost" width="40" height="40" /> </a>
       <a href="https://lightgbm.readthedocs.io" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
       <a href="https://catboost.ai" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
     </li>
+    <!-- <li>Clustering:
+      <a href="https://github.com/nicodv/kmodes" target="_blank"> kmodes </a> |
+    </li> -->
     <li>Dimensionality Reduction:
       <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html" target="_blank"> PCA <!-- Principal Component Analysis --> </a> |
       <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.IncrementalPCA.html#sklearn.decomposition.IncrementalPCA" target="_blank"> IPCA <!-- Incremental Principal Component Analysis --> </a> |
@@ -168,6 +182,9 @@
       <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE  < !-- Potential of Heat-diffusion for Affinity-based Transition Embedding -- > </a> | -->
       <!-- <a href="https://github.com/dhdegroot/Bonsai-data-representation" target="_blank"> Bonsai </a> | -->
     </li>
+    <!-- <li>Outlier & Anomaly Detection:
+      <a href="https://github.com/yzhao062/pyod" target="_blank"> PyOD </a> |
+    </li> -->
     <li>Feature Selection:
       <a href="https://github.com/Ekeany/Boruta-Shap" target="_blank"> Boruta-Shap </a> |
     </li>
@@ -176,6 +193,14 @@
       <a href="https://themis.tidymodels.org/" target="_blank"> <img src="https://github.com/tidymodels/themis/blob/main/man/figures/logo.png" alt="themis" width="40" height="40" /> </a>
       <a href="https://github.com/analyticalmindsltd/smote_variants" target="_blank"> SMOTE-variants </a> |
     </li>
+    <!-- <li>Time Series:
+      <a href="https://www.sktime.net/en/stable" target="_blank"> <img src="https://github.com/sktime/sktime/blob/main/docs/source/images/sktime-logo.png" alt="sktime" width="40" height="40" /> </a>
+      <a href="https://facebook.github.io/prophet" target="_blank"> <img src="https://github.com/facebook/prophet/blob/main/docs/static/favicon.png" alt="Prophet" width="40" height="40" /> </a>
+      <a href="https://nixtlaverse.nixtla.io/statsforecast/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/Nixtla/neuralforecast/main/nbs/imgs_indx/logo_mid.png" alt="StatsForecast" width="40" height="40" /> </a>
+      <a href="https://predict-idlab.github.io/plotly-resampler/v0.10.0/" target="_blank"> <img src="https://github.com/predict-idlab/plotly-resampler/blob/main/mkdocs/static/icon.png" alt="Plotly Resampler" width="40" height="40" /> </a>
+      <a href="https://github.com/intive-DataScience/tbats" target="_blank"> tbats </a> |
+      <a href="https://github.com/alkaline-ml/pmdarima" target="_blank"> pmdarima </a> |
+    </li> -->
     <!-- <li>Similarity Search:
       <a href="https://github.com/spotify/annoy" target="_blank"> Annoy </a> |
       <a href="https://github.com/nmslib/nmslib" target="_blank"> NMSLIB </a> |
@@ -192,6 +217,7 @@
       <!-- <a href="https://github.com/marcotcr/lime" target="_blank"> LIME </a> -->
       <!-- <a href="https://interpret.ml" target="_blank"> InterpretML </a> -->
       <a href="https://www.scikit-yb.org" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a>
+      <a href="https://github.com/reiinakano/scikit-plot" target="_blank"> scikit-plot </a>
       <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
       <!-- <a href="https://explainerdashboard.readthedocs.io" target="_blank"> <img src="https://github.com/oegedijk/explainerdashboard/blob/master/explainerdashboard/assets/favicon.ico" alt="explainerdashboard" width="40" height="40" /> -->
       <!-- <a href="https://github.com/pyjanitor-devs/pyjanitor" target="_blank"> pyjanitor </a> -->
@@ -218,6 +244,8 @@
   <a href="https://github.com/hyperopt/hyperopt-sklearn" target="_blank"> hyperopt-sklearn </a> |
   <a href="https://github.com/AutoML/auto-sklearn" target="_blank"> auto-sklearn </a> |
   <a href="https://photon-ai.com" target="_blank"> PHOTONAI </a> |
+  <!-- <a href="https://github.com/ray-project/tune-sklearn" target="_blank"> tune-sklearn </a> | -->
+  <!-- <a href="https://www.ray.io" target="_blank"> <img src="https://github.com/ray-project/ray/blob/master/doc/source/images/ray_header_logo.png" alt="Ray" width="40" height="40" /> </a> -->
   <ul>
     <li>EDA:
       <a href="https://github.com/AutoViML/AutoViz" target="_blank"> <img src="https://github.com/AutoViML/AutoViz/blob/master/images/logo.png" alt="AutoViz" width="40" height="40" /> </a>
@@ -377,6 +405,7 @@
       <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/favicon.png" alt="FastAPI" width="40" height="40" /> </a>
       <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
       <a href="https://www.gradio.app" target="_blank"> <img src="https://github.com/gradio-app/gradio/blob/main/guides/assets/logo.png" alt="Gradio" width="40" height="40" /> </a>
+      <!-- <a href="https://www.uvicorn.org/" target="_blank"> <img src="https://github.com/encode/uvicorn/blob/master/docs/uvicorn.png" alt="uvicorn" width="40" height="40" /> </a> -->
       <!-- <a href="https://github.com/aio-libs/aiohttp" target="_blank"> <img src="https://github.com/aio-libs/aiohttp/blob/master/docs/aiohttp-icon.svg" alt="AIOHTTP" width="40" height="40" /> </a> -->
       <!-- <a href="https://www.djangoproject.com" target="_blank"> Django </a> -->
       <!-- <a href="https://plotly.com/dash" target="_blank"> Dash </a> -->
