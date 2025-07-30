@@ -117,6 +117,7 @@
     <li>misc:
       <!-- <a href="https://github.com/pypa/setuptools" target="_blank"> <img src="https://github.com/pypa/setuptools/blob/main/docs/images/logo.svg" alt="setuptools" width="40" height="40" /> </a> -->
       <a href="https://github.com/asweigart/pyautogui" target="_blank"> PyAutoGUI </a> |
+      <a href="https://github.com/ThomasWaldmann/argparse" target="_blank"> argparse </a> |
       <a href="https://github.com/theskumar/python-dotenv" target="_blank"> python-dotenv </a> |
       <a href="https://github.com/python/mypy" target="_blank"> mypy </a> |
       <a href="https://github.com/Kyostenas/prettyTables" target="_blank"> prettyTables </a> |
@@ -303,11 +304,20 @@
   <ul>
     <li>
       <a href="https://huggingface.co" target="_blank"> 🤗 Hugging Face </a>:
-      <a href="https://github.com/huggingface/transformers" target="_blank"> Transformers </a>,
-      <!-- <a href="https://github.com/huggingface/datasets" target="_blank"> Datasets </a>, -->
-      <!-- <a href="https://github.com/huggingface/tokenizers" target="_blank"> Tokenizers </a>, -->
-      <a href="https://github.com/huggingface/diffusers" target="_blank"> 🧨 Diffusers </a>,
-      <!-- <a href="https://github.com/huggingface/accelerate" target="_blank"> Accelerate </a> -->
+      <a href="https://github.com/huggingface/transformers" target="_blank"> Transformers </a> |
+      <!-- <a href="https://github.com/huggingface/datasets" target="_blank"> Datasets </a> | -->
+      <!-- <a href="https://github.com/huggingface/tokenizers" target="_blank"> Tokenizers </a> | -->
+      <a href="https://github.com/huggingface/diffusers" target="_blank"> 🧨 Diffusers </a> |
+      <!-- <a href="https://github.com/huggingface/accelerate" target="_blank"> Accelerate </a> | -->
+      <!-- <a href="https://github.com/huggingface/knockknock" target="_blank"> Knock_Knock </a> | -->
+    </li>
+  </ul>
+  <ul>
+    <li>Playgrounds:
+      <a href="https://playground.tensorflow.org/" target="_blank"> TensorFlow Playground </a> |
+      <a href="https://convnetplayground.fastforwardlabs.com/#/" target="_blank"> ConvNet PlayGround </a> |
+      <a href="https://tensorspace.org/" target="_blank"> TensorSpace.js </a> |
+      <a href="https://poloclub.github.io/ganlab/" target="_blank"> GAN Lab </a> |
     </li>
   </ul>
 </p>
@@ -392,6 +402,7 @@
   <!-- <a href="https://numba.pydata.org/" target="_blank"> <img src="https://github.com/numba/numba/blob/main/docs/_static/numba-blue-icon-rgb.svg" alt="Numba" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/cupy/cupy" target="_blank"> <img src="https://github.com/cupy/cupy/blob/main/docs/image/cupy_logo.svg" alt="CuPy" width="40" height="40" /> </a> -->
   <!-- <a href="https://jax.readthedocs.io/en/latest/" target="_blank"> <img src="https://github.com/google/jax/blob/main/images/jax_logo.svg" alt="JAX" width="40" height="40" /> </a> -->
+  <!-- <a href="https://github.com/AnswerDotAI/fastprogress" target="_blank"> fastprogress </a> | -->
 </p>
 <h3 align="left">Web:</h3>
 <p align="left">
