@@ -69,7 +69,7 @@
       <a href="https://plotly.com/python" target="_blank"> <img src="https://raw.githubusercontent.com/plotly/plotly.py/refs/heads/main/doc/apidoc/_static/favicon.ico" alt="Plotly" width="40" height="40" /> </a>
       <!-- <a href="https://bokeh.org" target="_blank"> <img src="https://github.com/bokeh/bokeh/blob/branch-3.4/bokehjs/test/assets/images/logo.svg" alt="Bokeh" width="40" height="40" /> </a> -->
       <!-- <a href="https://altair-viz.github.io" target="_blank"> <img src="https://github.com/altair-viz/altair/blob/main/design/altair-logo.svg" alt="Altair" width="40" height="40" /> </a> -->
-      <!-- <a href="https://plotnine.org" target="_blank"> <img src="https://github.com/has2k1/plotnine/blob/main/doc/images/logo.png" alt="plotnine" width="40" height="40" /> </a> -->
+      <a href="https://plotnine.org" target="_blank"> <img src="https://github.com/has2k1/plotnine/blob/main/doc/images/logo.png" alt="plotnine" width="40" height="40" /> </a>
     </li>
     <li>Data:
       <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" /> </a>
@@ -121,6 +121,7 @@
       <a href="https://github.com/theskumar/python-dotenv" target="_blank"> python-dotenv </a> |
       <a href="https://github.com/python/mypy" target="_blank"> mypy </a> |
       <a href="https://github.com/Kyostenas/prettyTables" target="_blank"> prettyTables </a> |
+      <a href="https://github.com/epigenelabs/pyComBat" target="_blank"> pyComBat </a> |
       <!-- <a href="https://github.com/jupyter-widgets/ipywidgets" target="_blank"> ipywidgets </a> |
       <a href="https://github.com/asweigart/pyperclip" target="_blank">  pyperclip </a> |
       <a href="https://github.com/JessicaTegner/pypandoc" target="_blank">  pypandoc </a> |
@@ -299,6 +300,7 @@
       <!-- <a href="https://smp.readthedocs.io" target="_blank"> Segmentation Models </a> -->
       <!-- <a href="https://github.com/UKPLab/sentence-transformers" target="_blank"> <img src="https://github.com/UKPLab/sentence-transformers/blob/master/docs/img/logo_org.png" alt="Sentence Transformers" width="40" height="40" /> </a> -->
       <!-- <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️ LangChain </a> -->
+      <a href="https://github.com/lutzroeder/Netron" target="_blank"> <img src="https://github.com/lutzroeder/netron/blob/main/.github/logo-light.svg" alt="Netron" width="40" height="40" /> </a>
     </li>
   </ul>
   <ul>
