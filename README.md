@@ -48,13 +48,14 @@
   <a href="https://ipython.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/230453" alt="IPython" width="40" height="40" /> </a>
   <a href="https://jupytext.readthedocs.io" target="_blank"> <img src="https://github.com/mwouts/jupytext/blob/main/docs/images/logo.png" alt="Jupytext" width="40" height="40" /> </a>
 </p>
-<h3 align="left">Data Science:</h3>
+<h3 align="left">Data Science (DS):</h3>
 <p align="left">
   <ul>
     <li>Math:
       <a href="https://sympy.org" target="_blank"> <img src="https://github.com/sympy/sympy/blob/master/doc/src/logo/sympy.svg" alt="SymPy" width="40" height="40" /> </a>
       <a href="https://numpy.org" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40" /> </a>
       <a href="https://scipy.org" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40" /> </a>
+      <!-- <a href="https://mpmath.org" target="_blank"> <img src="https://mpmath.org/mpmath.svg" alt="mpmath" width="40" height="40" /> </a> -->
     </li>
     <li>Statistics:
       <a href="https://www.statsmodels.org" target="_blank"> <img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="40" height="40" /> </a>
@@ -471,10 +472,10 @@
   <a href="https://www.tableau.com" target="_blank"> Tableau </a> |
   <a href="https://datalens.yandex.ru" target="_blank"> Yandex DataLens </a>
 </p>
-<h4 align="left">Cloud Computing:</h4>
+<h4 align="left">Cloud Computing (SaaS):</h4>
 <p align="left">
   <a href="https://colab.research.google.com" target="_blank"> Google Colab </a> |
-  <a href="https://cloud.yandex.ru/services/datasphere" target="_blank"> Yandex Cloud </a>
+  <a href="https://datasphere.yandex.cloud" target="_blank"> Yandex DataSphere </a>
 </p>
 <h5 align="left">Instruction Sets:</h5>
 <p align="left">
