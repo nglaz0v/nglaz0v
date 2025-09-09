@@ -157,6 +157,8 @@
   <a href="https://github.com/BayesWitnesses/m2cgen" target="_blank"> m2cgen </a> |
   <a href="https://github.com/evidentlyai/evidently" target="_blank"> Evidently </a> |
   <a href="https://fugue-tutorials.readthedocs.io/" target="_blank"> <img src="https://github.com/fugue-project/fugue/blob/master/docs/_static/logo.svg" alt="Fugue" width="40" height="40" /> </a> -->
+  <!-- <a href="http://scikit.ml/" target="_blank"> scikit-multilearn </a> | -->
+  <!-- <a href="https://github.com/scikit-fuzzy/scikit-fuzzy" target="_blank"> scikit-fuzzy </a> | -->
   <ul>
     <li>Boosting:
       <a href="https://xgboost.ai" target="_blank"> <img src="https://xgboost.ai/images/logo/xgboost-logo.png" alt="XGBoost" width="40" height="40" /> </a>
