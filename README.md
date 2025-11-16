@@ -337,6 +337,24 @@
 <p align="left">
   <a href="https://github.com/openai/openai-python" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="OpenAI" width="40" height="40" /> </a>
   <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank"> <img src="https://avatars.githubusercontent.com/u/100950301?s=200&v=4" alt="Stable Diffusion" width="40" height="40" /> </a>
+  <!--<ul>
+    <li>AI-agents:
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3734-3139-4331-b962-323734326233/ChatGPT-Logo.svg" alt="ChatGPT" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3766-6461-4738-a266-356164303835/Google_Gemini_logo_2.svg" alt="Gemini" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3437-6136-4836-b963-613834383236/Grok-feb-2025-logo.svg" alt="Grok" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3763-3763-4530-a135-346636343537/Perplexity_AI_logo.svg" alt="Perplexity" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3334-3164-4431-a536-623930303234/deepseek-color.svg" alt="Deepseek" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3335-3732-4537-a336-653434616463/gigachat-sign-logo.svg" alt="GigaChat" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild6561-6462-4537-b330-613236663531/yandex-alisa-logo.svg" alt="YandexGPT" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild6537-3836-4762-b438-333236363866/AlphaFold.png" alt="AlphaFold" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild6532-6636-4638-b330-383231633338/rosetta-commons-logo.png" alt="RosettaFold" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild6666-3462-4338-b964-326464336463/icons8--100.png" alt="RFDiffusion" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3063-3764-4634-b365-326633336564/2025-10-09_16-30-59.png" alt="ESM" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3039-3531-4531-b731-343130616531/icon.svg" alt="ProteinMPNN" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild6136-3032-4839-a433-373666373666/paintbrush_83820.svg" alt="Kandinsky" width="40" height="40" /> </a>
+      <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3437-3765-4035-b836-316339616564/rhinoceros.svg" alt="Шедеврум" width="40" height="40" /> </a>
+    </li>
+  </ul>-->
 </p>
 <h3 align="left">BioMed:</h3>
 <p align="left">
