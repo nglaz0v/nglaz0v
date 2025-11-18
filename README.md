@@ -356,7 +356,7 @@
     </li>
   </ul>-->
 </p>
-<h3 align="left">BioMed:</h3>
+<h3 align="left">Bioinformatics:</h3>
 <p align="left">
   <a href="https://biopython.org" target="_blank"> <img src="https://github.com/biopython/biopython/blob/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40" /> </a>
   <a href="https://deepchem.io" target="_blank"> <img src="https://deepchem.io//_next/static/media/deepchem-logo.95f3f074.png" alt="DeepChem" width="40" height="40" /> </a>
@@ -374,16 +374,19 @@
       <a href="https://github.com/ncbi-nlp/BioSentVec" target="_blank"> BioSentVec </a>
     </li>
   </ul> -->
-  <!--<ul>Sequence analysis:
+<!-- </p>
+<h3 align="left">Bioinformatics - NGS:</h3>
+<p align="left">
+  <ul>Sequence analysis:
     <li>Quality control:
       <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" target="_blank"> <img src="https://github.com/s-andrews/FastQC/blob/master/Templates/Icons/fastqc_icon.png" alt="FastQC" width="40" height="40" /> </a>
-      <a href="https://seqera.io/multiqc/" target="_blank"> <img src="https://github.com/MultiQC/MultiQC/blob/main/multiqc/templates/default/assets/img/favicon-96x96.png" alt="MultiQC" width="40" height="40" /> </a>
+      <a href="https://seqera.io/multiqc/" target="_blank"> <img src="https://github.com/MultiQC/MultiQC/blob/main/multiqc/templates/default/assets/img/MultiQC_icon.svg" alt="MultiQC" width="40" height="40" /> </a>
       <a href="http://qualimap.conesalab.org/" target="_blank"> QualiMap </a>
     </li>
     <li>Read alignment:
-      <a href="https://bio-bwa.sourceforge.net" target="_blank"> BWA </a>
-      <a href="https://bowtie-bio.sourceforge.net/bowtie2/index.shtml" target="_blank"> Bowtie2 </a>
-      <a href="https://mafft.cbrc.jp/alignment/software/tips0.html" target="_blank"> MAFFT </a>
+      <a href="https://bio-bwa.sourceforge.net" target="_blank"> BWA </a> |
+      <a href="https://bowtie-bio.sourceforge.net/bowtie2/index.shtml" target="_blank"> Bowtie2 </a> |
+      <a href="https://mafft.cbrc.jp/alignment/software/tips0.html" target="_blank"> MAFFT </a> |
     </li>
     <li>Sequence alignment:
       <a href="http://www.htslib.org" target="_blank"> samtools </a>
@@ -391,9 +394,16 @@
     <li>Variant calling:
       <a href="http://www.htslib.org" target="_blank"> bcftools </a>
     </li>
-  </ul>-->
+    <li>Genomics analysis:
+      <a href="https://github.com/arq5x/bedtools2" target="_blank"> bedtools </a>
+    </li>
+    <li>Genomics viewer:
+      <a href="https://github.com/igvteam/igv" target="_blank"> <img src="https://github.com/igvteam/igv/blob/main/examples/web/IGV_64.png" alt="IGV" width="40" height="40" /> </a>
+      <a href="https://github.com/ugeneunipro/ugene" target="_blank"> <img src="https://github.com/ugeneunipro/ugene/blob/master/etc/shared/ugene.png" alt="UGENE" width="40" height="40" /> </a>
+    </li>
+  </ul>
   <!-- <ul>
-    <li>NGS:
+    <li>misc:
       <a href="https://github.com/jamescasbon/PyVCF" target="_blank"> PyVCF </a>
       <a href="https://github.com/pysam-developers/pysam" target="_blank"> Pysam </a>
       <a href="https://github.com/htseq/htseq" target="_blank"> HTSeq </a>
