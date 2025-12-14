@@ -322,7 +322,11 @@
       <a href="https://playground.tensorflow.org/" target="_blank"> TensorFlow Playground </a> |
       <a href="https://convnetplayground.fastforwardlabs.com/#/" target="_blank"> ConvNet PlayGround </a> |
       <a href="https://tensorspace.org/" target="_blank"> TensorSpace.js </a> |
+      <a href="https://tiktokenizer.vercel.app" target="_blank"> Tiktokenizer </a> |
+      <a href="https://code2vec.org" target="_blank"> code2vec </a> |
       <a href="https://poloclub.github.io/ganlab/" target="_blank"> GAN Lab </a> |
+      <a href="https://poloclub.github.io/transformer-explainer/" target="_blank"> Transformer Explainer </a> |
+      <a href="https://poloclub.github.io/diffusion-explainer/" target="_blank"> Diffusion Explainer </a> |
     </li>
   </ul>
 </p>
