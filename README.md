@@ -243,7 +243,7 @@
   <a href="https://epistasislab.github.io/tpot" target="_blank"> <img src="https://github.com/EpistasisLab/tpot/blob/main/docs/assets/tpot-logo.jpg" alt="TPOT" width="40" height="40" /> </a>
   <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a>
   <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/logo.png" alt="scikit-optimize" width="40" height="40" /> </a>
-  <a href="https://hyperopt.github.io/hyperopt" target="_blank"> <img src="https://camo.githubusercontent.com/d9cabe82cdc7bff598f84d61b0a8921cd5c3ceb0716b03399fc31db1a2a23182/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a>
+  <a href="https://hyperopt.github.io/hyperopt" target="_blank"> <img src="https://camo.githubusercontent.com/9859e30b6a81ce25a5051413b6ddfce97dac8c585e84c149fa21dce12479aff0/68747470733a2f2f692e706f7374696d672e63632f54506d66665772702f68797065726f70742d6e65772e706e67" alt="hyperopt" width="40" height="40" /> </a>
   <!-- <a href="https://github.com/h2oai/h2o-3" target="_blank"> <img src="https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/images/logo.png" alt="H2O" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/sb-ai-lab/LightAutoML" target="_blank"> <img src="https://github.com/sb-ai-lab/LightAutoML/blob/master/imgs/LightAutoML_logo_small.png" alt="LightAutoML" width="40" height="40" /> </a> -->
   <a href="https://github.com/hyperopt/hyperopt-sklearn" target="_blank"> hyperopt-sklearn </a> |
@@ -254,7 +254,7 @@
   <ul>
     <li>EDA:
       <a href="https://github.com/AutoViML/AutoViz" target="_blank"> <img src="https://github.com/AutoViML/AutoViz/blob/master/images/logo.png" alt="AutoViz" width="40" height="40" /> </a>
-      <a href="https://github.com/ydataai/ydata-profiling" target="_blank"> <img src="https://camo.githubusercontent.com/131a2dffbf5c489a68648fdc0013b8f93481bcc8db78e6a7241c00a973af9c5b/68747470733a2f2f6173736574732e79646174612e61692f6f73732f79646174612d70726f66696c696e675f626c61636b2e706e67" alt="YData-profiling" width="40" height="40" /> </a>
+      <a href="https://github.com/ydataai/ydata-profiling" target="_blank"> <img src="https://camo.githubusercontent.com/d7b1f11b06fcb66981215f5a3fafd72b6906eb12fd81135f4493a8e2d5e99ea3/68747470733a2f2f6173736574732e79646174612e61692f6f73732f79646174612d70726f66696c696e675f626c61636b2e706e67" alt="YData-profiling" width="40" height="40" /> </a>
       <a href="https://github.com/ResidentMario/missingno" target="_blank"> missingno </a> |
     </li>
   </ul>
@@ -302,8 +302,8 @@
       <!-- <a href="https://huggingface.co/docs/timm" target="_blank"> timm </a> -->
       <!-- <a href="https://smp.readthedocs.io" target="_blank"> Segmentation Models </a> -->
       <!-- <a href="https://github.com/UKPLab/sentence-transformers" target="_blank"> <img src="https://github.com/UKPLab/sentence-transformers/blob/master/docs/img/logo_org.png" alt="Sentence Transformers" width="40" height="40" /> </a> -->
-      <!-- <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️ LangChain </a> -->
       <a href="https://github.com/lutzroeder/Netron" target="_blank"> <img src="https://github.com/lutzroeder/netron/blob/main/.github/logo-light.svg" alt="Netron" width="40" height="40" /> </a>
+      <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️ LangChain </a>
     </li>
   </ul>
   <ul>
