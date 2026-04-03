@@ -123,6 +123,7 @@
       <a href="https://github.com/python/mypy" target="_blank"> mypy </a> |
       <a href="https://github.com/Kyostenas/prettyTables" target="_blank"> prettyTables </a> |
       <a href="https://github.com/epigenelabs/pyComBat" target="_blank"> pyComBat </a> |
+      <a href="https://github.com/trent-b/iterative-stratification" target="_blank"> iterative-stratification </a> |
       <!-- <a href="https://github.com/jupyter-widgets/ipywidgets" target="_blank"> ipywidgets </a> |
       <a href="https://github.com/asweigart/pyperclip" target="_blank">  pyperclip </a> |
       <a href="https://github.com/JessicaTegner/pypandoc" target="_blank">  pypandoc </a> |
@@ -186,6 +187,7 @@
       <a href="https://keras.io/examples/generative/vae/" target="_blank"> VAE  <!-- Variational AutoEncoder --> </a> |
       <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE  < !-- Potential of Heat-diffusion for Affinity-based Transition Embedding -- > </a> | -->
       <!-- <a href="https://github.com/dhdegroot/Bonsai-data-representation" target="_blank"> Bonsai </a> | -->
+      <!-- <a href="https://github.com/JustGlowing/minisom" target="_blank"> SOM </a> | --> <!-- Self Organizing Maps -->
     </li>
     <!-- <li>Outlier & Anomaly Detection:
       <a href="https://github.com/yzhao062/pyod" target="_blank"> PyOD </a> |
@@ -432,7 +434,7 @@
 </p>
 <h3 align="left">Performance:</h3>
 <p align="left">
-  <a href="https://github.com/giampaolo/psutil" target="_blank"> <img src="https://github.com/giampaolo/psutil/blob/master/docs/_static/psutil-logo.png" alt="psutil" width="40" height="40" /> </a>
+  <a href="https://github.com/giampaolo/psutil" target="_blank"> <img src="https://github.com/giampaolo/psutil/blob/master/docs/_static/images/logo-psutil.svg" alt="psutil" width="40" height="40" /> </a>
   <a href="https://tqdm.github.io/" target="_blank"> <img src="https://github.com/tqdm/tqdm/blob/master/logo.png" alt="tqdm" width="40" height="40" /> </a>
   <a href="https://joblib.readthedocs.io/en/stable/" target="_blank"> <img src="https://github.com/joblib/joblib/blob/main/doc/_static/joblib_logo.svg" alt="Joblib" width="40" height="40" /> </a>
   <!-- <a href="https://cython.org/" target="_blank"> <img src="https://github.com/cython/cython/blob/master/docs/_static/cython-logo-C.svg" alt="Cython" width="40" height="40" /> </a> -->
@@ -465,6 +467,9 @@
       <a href="https://python-telegram-bot.org" target="_blank"> <img src="https://github.com/python-telegram-bot/python-telegram-bot/blob/master/docs/source/ptb-logo_1024.png" alt="python-telegram-bot" width="40" height="40" /> </a>
       <a href="https://aiogram.dev" target="_blank"> <img src="https://github.com/aiogram/aiogram/blob/dev-3.x/docs/_static/logo.png" alt="aiogram" width="40" height="40" /> </a>
     </li>
+    <li>VK bots:
+      <a href="https://github.com/vkbottle/vkbottle" target="_blank"> <img src="https://github.com/vkbottle/vkbottle/blob/master/docs/logo.png" alt="VKBottle" width="40" height="40" /> </a>
+    </li>
   </ul>
 </p>
 <h3 align="left">Databases:</h3>
@@ -482,6 +487,7 @@
   <a href="https://airflow.apache.org" target="_blank"> <img src="https://github.com/apache/airflow/blob/main/airflow-core/docs/img/logos/airflow_transparent.png" alt="Apache Airflow" width="40" height="40" /> </a>
   <a href="https://nextflow.io" target="_blank"> <img src="https://github.com/nextflow-io/nextflow/blob/master/docs/_static/favicon.ico" alt="Nextflow" width="40" height="40" /> </a>
   <!-- <a href="https://snakemake.github.io" target="_blank"> <img src="https://github.com/snakemake/snakemake/blob/main/images/logo.png" alt="Snakemake" width="40" height="40" /> </a> -->
+  <a href="https://n8n.io/" target="_blank"> <img src="https://github.com/n8n-io/n8n/blob/master/packages/frontend/%40n8n/design-system/src/components/N8nLogo/logo-icon.svg" alt="n8n" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Prototyping:</h3>
 <p align="left">
@@ -499,7 +505,7 @@
 <p align="left">
   <a href="https://www.kicad.org" target="_blank"> <img src="https://docs.kicad.org/img/guide-icons/kicad.png" alt="KiCad" width="40" height="40" /> </a>
   <a href="https://www.autodesk.com/products/inventor/overview" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.autodesk.com%2Fcontent%2Fdam%2Fautodesk%2Fwww%2Fproduct-imagery%2Fbadge-75x75%2Finventor-professional-badge-75x75.png&f=1&nofb=1&ipt=1eb0ac87c08544b25f7815aa2541182d93911187339cec309c1f7c982175c86d&ipo=images" alt="Autodesk Inventor" width="40" height="40" /> </a>
-  <a href="https://www.pronterface.com" target="_blank"> <img src="https://github.com/kliment/Printrun/blob/master/pronterface.png" alt="Pronterface" width="40" height="40" /> </a>
+  <a href="https://www.pronterface.com" target="_blank"> <img src="https://github.com/kliment/Printrun/blob/master/assets_raw/icons/pronterface.png" alt="Pronterface" width="40" height="40" /> </a>
 </p>
 <h4 align="left">Data Visualization:</h4>
 <p align="left">
@@ -509,7 +515,9 @@
 <h4 align="left">Cloud Computing (SaaS):</h4>
 <p align="left">
   <a href="https://colab.research.google.com" target="_blank"> Google Colab </a> |
-  <a href="https://datasphere.yandex.cloud" target="_blank"> Yandex DataSphere </a>
+  <a href="https://datasphere.yandex.cloud" target="_blank"> Yandex DataSphere </a> |
+  <a href="https://github.com/codespaces" target="_blank"> GitHub Codespaces </a> |
+  <a href="https://replit.com/" target="_blank"> Replit </a> |
 </p>
 <h5 align="left">Instruction Sets:</h5>
 <p align="left">
