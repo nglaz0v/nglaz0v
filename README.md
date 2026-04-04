@@ -457,7 +457,7 @@
       <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/favicon.png" alt="FastAPI" width="40" height="40" /> </a>
       <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
       <a href="https://www.gradio.app" target="_blank"> <img src="https://github.com/gradio-app/gradio/blob/main/guides/assets/logo.png" alt="Gradio" width="40" height="40" /> </a>
-      <a href="https://www.uvicorn.org/" target="_blank"> <img src="https://github.com/encode/uvicorn/blob/master/docs/uvicorn.png" alt="uvicorn" width="40" height="40" /> </a>
+      <a href="https://github.com/Kludex/uvicorn" target="_blank"> <img src="https://github.com/Kludex/uvicorn/blob/main/docs/uvicorn.png" alt="uvicorn" width="40" height="40" /> </a>
       <!-- <a href="https://github.com/aio-libs/aiohttp" target="_blank"> <img src="https://github.com/aio-libs/aiohttp/blob/master/docs/aiohttp-icon.svg" alt="AIOHTTP" width="40" height="40" /> </a> -->
       <!-- <a href="https://www.djangoproject.com" target="_blank"> Django </a> -->
       <!-- <a href="https://plotly.com/dash" target="_blank"> Dash </a> -->
