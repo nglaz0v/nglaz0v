@@ -170,24 +170,35 @@
       <a href="https://github.com/nicodv/kmodes" target="_blank"> kmodes </a> |
     </li> -->
     <li>Dimensionality Reduction:
-      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html" target="_blank"> PCA <!-- Principal Component Analysis --> </a> |
-      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.IncrementalPCA.html#sklearn.decomposition.IncrementalPCA" target="_blank"> IPCA <!-- Incremental Principal Component Analysis --> </a> |
-      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html#sklearn.decomposition.KernelPCA" target="_blank"> KPCA <!-- Kernel Principal Component Analysis --> </a> |
-      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparsePCA.html#sklearn.decomposition.SparsePCA" target="_blank"> SPCA < !-- Sparse Principal Component Analysis -- > </a> | -->
-      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html#sklearn.decomposition.TruncatedSVD" target="_blank"> Truncated_SVD < !-- Truncated Singular Value Decomposition -- > </a> | -->
-      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparseCoder.html#sklearn.decomposition.SparseCoder" target="_blank"> Sparse_Coding </a> | -->
-      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.DictionaryLearning.html#sklearn.decomposition.DictionaryLearning" target="_blank"> Dictionary_Learning </a> | -->
-      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html#sklearn.decomposition.FactorAnalysis" target="_blank"> Factor_Analysis </a> | -->
-      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FastICA.html#sklearn.decomposition.FastICA" target="_blank"> ICA < !-- Independent Component Analysis -- > </a> | -->
-      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation" target="_blank"> LDA < !-- Latent Dirichlet Allocation -- > </a> | -->
-      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html#sklearn.decomposition.NMF" target="_blank"> NMF < !-- Non-Negative Matrix Factorization -- > </a> | -->
-      <!-- <a href="https://github.com/rmarkello/snfpy" target="_blank"> SNF < !-- Similarity Network Fusion -- > </a> | -->
-      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE" target="_blank"> t-SNE  <!-- t-distributed Stochastic Neighbor Embedding --> </a> |
-      <a href="https://github.com/lmcinnes/umap" target="_blank"> UMAP  <!-- Uniform Manifold Approximation and Projection --> </a> |
-      <a href="https://keras.io/examples/generative/vae/" target="_blank"> VAE  <!-- Variational AutoEncoder --> </a> |
-      <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE  < !-- Potential of Heat-diffusion for Affinity-based Transition Embedding -- > </a> | -->
-      <!-- <a href="https://github.com/dhdegroot/Bonsai-data-representation" target="_blank"> Bonsai </a> | -->
-      <!-- <a href="https://github.com/JustGlowing/minisom" target="_blank"> SOM </a> | --> <!-- Self Organizing Maps -->
+      <ul>
+        <li>Matrix Decomposition:
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html" target="_blank"> PCA <!-- Principal Component Analysis --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.IncrementalPCA.html" target="_blank"> IPCA <!-- Incremental Principal Component Analysis --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html" target="_blank"> KPCA <!-- Kernel Principal Component Analysis --> </a> |
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparsePCA.html" target="_blank"> SPCA < !-- Sparse Principal Component Analysis -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html" target="_blank"> Truncated_SVD < !-- Truncated Singular Value Decomposition -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparseCoder.html" target="_blank"> Sparse_Coding </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.DictionaryLearning.html" target="_blank"> Dictionary_Learning </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html" target="_blank"> Factor_Analysis </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FastICA.html" target="_blank"> ICA < !-- Independent Component Analysis -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html" target="_blank"> LDA < !-- Latent Dirichlet Allocation -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html" target="_blank"> NMF < !-- Non-Negative Matrix Factorization -- > </a> | -->
+        </li>
+        <li>Manifold Learning:
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html" target="_blank"> t-SNE  <!-- t-distributed Stochastic Neighbor Embedding --> </a> |
+          <a href="https://github.com/lmcinnes/umap" target="_blank"> UMAP  <!-- Uniform Manifold Approximation and Projection --> </a> |
+          <a href="https://keras.io/examples/generative/vae/" target="_blank"> VAE  <!-- Variational AutoEncoder --> </a> |
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.ClassicalMDS.html" target="_blank"> PCoA < !-- Principal Coordinates Analysis -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html" target="_blank"> Isomap < !-- Isometric Mapping -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.LocallyLinearEmbedding.html" target="_blank"> LLE < !-- Locally Linear Embedding -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html" target="_blank"> MDS < !-- MultiDimensional Scaling -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.SpectralEmbedding.html" target="_blank"> Spectral < !-- Spectral Embedding -- > </a> | -->
+          <!-- <a href="https://github.com/JustGlowing/minisom" target="_blank"> SOM < !-- Self Organizing Maps -- > </a> | -->
+          <!-- <a href="https://github.com/rmarkello/snfpy" target="_blank"> SNF < !-- Similarity Network Fusion -- > </a> | -->
+          <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE  < !-- Potential of Heat-diffusion for Affinity-based Transition Embedding -- > </a> | -->
+          <!-- <a href="https://github.com/dhdegroot/Bonsai-data-representation" target="_blank"> Bonsai </a> | -->
+        </li>
+      </ul>
     </li>
     <!-- <li>Outlier & Anomaly Detection:
       <a href="https://github.com/yzhao062/pyod" target="_blank"> PyOD </a> |
