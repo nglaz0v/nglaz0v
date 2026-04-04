@@ -446,6 +446,8 @@
 <h3 align="left">Web:</h3>
 <p align="left">
   <a href="https://requests.readthedocs.io" target="_blank"> <img src="https://github.com/psf/requests/blob/main/ext/requests-logo.svg" alt="Requests" width="40" height="40" /> </a>
+  <!-- <a href="https://github.com/encode/httpx" target="_blank"> <img src="https://github.com/encode/httpx/blob/master/docs/img/butterfly.png" alt="httpx" width="40" height="40" /> </a> -->
+  <!-- <a href="https://github.com/urllib3/urllib3" target="_blank"> <img src="https://github.com/urllib3/urllib3/blob/main/docs/images/logo.png" alt="urllib3" width="40" height="40" /> </a> -->
   <a href="https://scrapy.org" target="_blank"> <img src="https://github.com/scrapy/scrapy/blob/master/docs/_static/logo.svg" alt="Scrapy" width="40" height="40" /> </a>
   <!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://github.com/SeleniumHQ/selenium/blob/trunk/javascript/grid-ui/public/logo192.png" alt="Selenium" width="40" height="40" /> </a> -->
   <a href="https://www.crummy.com/software/BeautifulSoup" target="_blank"> bs4 </a>
@@ -455,7 +457,7 @@
       <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/favicon.png" alt="FastAPI" width="40" height="40" /> </a>
       <a href="https://streamlit.io" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40" /> </a>
       <a href="https://www.gradio.app" target="_blank"> <img src="https://github.com/gradio-app/gradio/blob/main/guides/assets/logo.png" alt="Gradio" width="40" height="40" /> </a>
-      <!-- <a href="https://www.uvicorn.org/" target="_blank"> <img src="https://github.com/encode/uvicorn/blob/master/docs/uvicorn.png" alt="uvicorn" width="40" height="40" /> </a> -->
+      <a href="https://www.uvicorn.org/" target="_blank"> <img src="https://github.com/encode/uvicorn/blob/master/docs/uvicorn.png" alt="uvicorn" width="40" height="40" /> </a>
       <!-- <a href="https://github.com/aio-libs/aiohttp" target="_blank"> <img src="https://github.com/aio-libs/aiohttp/blob/master/docs/aiohttp-icon.svg" alt="AIOHTTP" width="40" height="40" /> </a> -->
       <!-- <a href="https://www.djangoproject.com" target="_blank"> Django </a> -->
       <!-- <a href="https://plotly.com/dash" target="_blank"> Dash </a> -->
