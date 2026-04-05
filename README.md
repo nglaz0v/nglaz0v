@@ -200,9 +200,12 @@
         </li>
       </ul>
     </li>
-    <!-- <li>Outlier & Anomaly Detection:
+    <li>Outlier & Anomaly Detection:
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html" target="_blank"> IForest  <!-- Isolation Forest --> </a> |
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.covariance.EllipticEnvelope.html" target="_blank"> EE  <!-- Elliptic Envelope --> </a> |
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html" target="_blank"> LOF  <!-- Local Outlier Factor --> </a> |
       <a href="https://github.com/yzhao062/pyod" target="_blank"> PyOD </a> |
-    </li> -->
+    </li>
     <li>Feature Selection:
       <a href="https://github.com/Ekeany/Boruta-Shap" target="_blank"> Boruta-Shap </a> |
     </li>
