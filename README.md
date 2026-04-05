@@ -166,9 +166,17 @@
       <a href="https://lightgbm.readthedocs.io" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
       <a href="https://catboost.ai" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
     </li>
-    <!-- <li>Clustering:
-      <a href="https://github.com/nicodv/kmodes" target="_blank"> kmodes </a> |
-    </li> -->
+    <li>Clustering:
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html" target="_blank"> K-Means </a> |
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AffinityPropagation.html" target="_blank"> AP < !-- Affinity Propagation -- > </a> | -->
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html" target="_blank"> MeanShift </a> | -->
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html" target="_blank"> SC < !-- Spectral Clustering -- > </a> | -->
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html" target="_blank"> HClust <!-- Hierarchical Clustering --> </a> |
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html" target="_blank"> DBSCAN <!-- Density-Based Spatial Clustering of Applications with Noise --> </a> |
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.OPTICS.html" target="_blank"> OPTICS < !-- Ordering Points To Identify the Clustering Structure -- > </a> | -->
+      <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html" target="_blank"> BIRCH < !-- Balanced Iterative Reducing and Clustering using Hierarchies -- > </a> | -->
+      <!-- <a href="https://github.com/nicodv/kmodes" target="_blank"> K-Modes </a> | -->
+    </li>
     <li>Dimensionality Reduction:
       <ul>
         <li>Matrix Decomposition:
@@ -185,9 +193,9 @@
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html" target="_blank"> NMF < !-- Non-Negative Matrix Factorization -- > </a> | -->
         </li>
         <li>Manifold Learning:
-          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html" target="_blank"> t-SNE  <!-- t-distributed Stochastic Neighbor Embedding --> </a> |
-          <a href="https://github.com/lmcinnes/umap" target="_blank"> UMAP  <!-- Uniform Manifold Approximation and Projection --> </a> |
-          <a href="https://keras.io/examples/generative/vae/" target="_blank"> VAE  <!-- Variational AutoEncoder --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html" target="_blank"> t-SNE <!-- t-distributed Stochastic Neighbor Embedding --> </a> |
+          <a href="https://github.com/lmcinnes/umap" target="_blank"> UMAP <!-- Uniform Manifold Approximation and Projection --> </a> |
+          <a href="https://keras.io/examples/generative/vae/" target="_blank"> VAE <!-- Variational AutoEncoder --> </a> |
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.ClassicalMDS.html" target="_blank"> PCoA < !-- Principal Coordinates Analysis -- > </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html" target="_blank"> Isomap < !-- Isometric Mapping -- > </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.LocallyLinearEmbedding.html" target="_blank"> LLE < !-- Locally Linear Embedding -- > </a> | -->
@@ -195,7 +203,7 @@
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.SpectralEmbedding.html" target="_blank"> Spectral < !-- Spectral Embedding -- > </a> | -->
           <!-- <a href="https://github.com/JustGlowing/minisom" target="_blank"> SOM < !-- Self Organizing Maps -- > </a> | -->
           <!-- <a href="https://github.com/rmarkello/snfpy" target="_blank"> SNF < !-- Similarity Network Fusion -- > </a> | -->
-          <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE  < !-- Potential of Heat-diffusion for Affinity-based Transition Embedding -- > </a> | -->
+          <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE < !-- Potential of Heat-diffusion for Affinity-based Transition Embedding -- > </a> | -->
           <!-- <a href="https://github.com/dhdegroot/Bonsai-data-representation" target="_blank"> Bonsai </a> | -->
         </li>
       </ul>
@@ -204,9 +212,9 @@
       <a href="https://github.com/yzhao062/pyod" target="_blank"> PyOD </a> |
       <ul>
         <li>
-          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html" target="_blank"> IForest  <!-- Isolation Forest --> </a> |
-          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.covariance.EllipticEnvelope.html" target="_blank"> EE  <!-- Elliptic Envelope --> </a> |
-          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html" target="_blank"> LOF  <!-- Local Outlier Factor --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html" target="_blank"> IForest <!-- Isolation Forest --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.covariance.EllipticEnvelope.html" target="_blank"> EE <!-- Elliptic Envelope --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html" target="_blank"> LOF <!-- Local Outlier Factor --> </a> |
         </li>
       </ul>
     </li>
@@ -219,31 +227,31 @@
       <a href="https://github.com/analyticalmindsltd/smote_variants" target="_blank"> SMOTE-variants </a> |
       <ul>
         <li>Under-sampling:
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.RandomUnderSampler.html" target="_blank"> RUS  <!-- Random Under-Sampler --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.ClusterCentroids.html" target="_blank"> CC  <!-- Cluster Centroids --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.CondensedNearestNeighbour.html" target="_blank"> CNN  <!-- Condensed Nearest Neighbour --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.EditedNearestNeighbours.html" target="_blank"> ENN  <!-- Edited Nearest Neighbours --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.RepeatedEditedNearestNeighbours.html" target="_blank"> RENN  <!-- Repeated Edited Nearest Neighbours --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.AllKNN.html" target="_blank"> AllKNN  <!-- AllKNN --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.InstanceHardnessThreshold.html" target="_blank"> IHT  <!-- Instance Hardness Threshold --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.NearMiss.html" target="_blank"> NearMiss  <!-- NearMiss --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.NeighbourhoodCleaningRule.html" target="_blank"> NCR  <!-- Neighbourhood Cleaning Rule --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.OneSidedSelection.html" target="_blank"> OSS  <!-- One-Sided Selection --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.TomekLinks.html" target="_blank"> TomekLinks  <!-- Tomek Links --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.RandomUnderSampler.html" target="_blank"> RUS <!-- Random Under-Sampler --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.ClusterCentroids.html" target="_blank"> CC <!-- Cluster Centroids --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.CondensedNearestNeighbour.html" target="_blank"> CNN <!-- Condensed Nearest Neighbour --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.EditedNearestNeighbours.html" target="_blank"> ENN <!-- Edited Nearest Neighbours --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.RepeatedEditedNearestNeighbours.html" target="_blank"> RENN <!-- Repeated Edited Nearest Neighbours --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.AllKNN.html" target="_blank"> AllKNN <!-- AllKNN --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.InstanceHardnessThreshold.html" target="_blank"> IHT <!-- Instance Hardness Threshold --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.NearMiss.html" target="_blank"> NearMiss <!-- NearMiss --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.NeighbourhoodCleaningRule.html" target="_blank"> NCR <!-- Neighbourhood Cleaning Rule --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.OneSidedSelection.html" target="_blank"> OSS <!-- One-Sided Selection --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.TomekLinks.html" target="_blank"> TomekLinks <!-- Tomek Links --> </a> |
         </li>
         <li>Over-sampling:
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html" target="_blank"> ROS  <!-- Random Over-Sampler --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html" target="_blank"> SMOTE  <!-- Synthetic Minority Over-sampling Technique --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTENC.html" target="_blank"> SMOTENC  <!-- Synthetic Minority Over-sampling Technique for Nominal and Continuous --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTEN.html" target="_blank"> SMOTEN  <!-- Synthetic Minority Over-sampling Technique for Nominal --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.ADASYN.html" target="_blank"> ADASYN  <!-- Adaptive Synthetic --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.BorderlineSMOTE.html" target="_blank"> BorderlineSMOTE  <!-- Borderline SMOTE --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.KMeansSMOTE.html" target="_blank"> KMeansSMOTE  <!-- KMeans SMOTE --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SVMSMOTE.html" target="_blank"> SVMSMOTE  <!-- SVM-SMOTE --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html" target="_blank"> ROS <!-- Random Over-Sampler --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html" target="_blank"> SMOTE <!-- Synthetic Minority Over-sampling Technique --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTENC.html" target="_blank"> SMOTENC <!-- Synthetic Minority Over-sampling Technique for Nominal and Continuous --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTEN.html" target="_blank"> SMOTEN <!-- Synthetic Minority Over-sampling Technique for Nominal --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.ADASYN.html" target="_blank"> ADASYN <!-- Adaptive Synthetic --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.BorderlineSMOTE.html" target="_blank"> BorderlineSMOTE <!-- Borderline SMOTE --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.KMeansSMOTE.html" target="_blank"> KMeansSMOTE <!-- KMeans SMOTE --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SVMSMOTE.html" target="_blank"> SVMSMOTE <!-- SVM-SMOTE --> </a> |
         </li>
         <li>Over- & Under-sampling:
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTEENN.html" target="_blank"> SMOTEENN  <!-- SMOTE & ENN --> </a> |
-          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTETomek.html" target="_blank"> SMOTETomek  <!-- SMOTE & Tomek links --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTEENN.html" target="_blank"> SMOTEENN <!-- SMOTE & ENN --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTETomek.html" target="_blank"> SMOTETomek <!-- SMOTE & Tomek links --> </a> |
         </li>
       </ul>
     </li>
