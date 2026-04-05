@@ -201,10 +201,14 @@
       </ul>
     </li>
     <li>Outlier & Anomaly Detection:
-      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html" target="_blank"> IForest  <!-- Isolation Forest --> </a> |
-      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.covariance.EllipticEnvelope.html" target="_blank"> EE  <!-- Elliptic Envelope --> </a> |
-      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html" target="_blank"> LOF  <!-- Local Outlier Factor --> </a> |
       <a href="https://github.com/yzhao062/pyod" target="_blank"> PyOD </a> |
+      <ul>
+        <li>
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html" target="_blank"> IForest  <!-- Isolation Forest --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.covariance.EllipticEnvelope.html" target="_blank"> EE  <!-- Elliptic Envelope --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html" target="_blank"> LOF  <!-- Local Outlier Factor --> </a> |
+        </li>
+      </ul>
     </li>
     <li>Feature Selection:
       <a href="https://github.com/Ekeany/Boruta-Shap" target="_blank"> Boruta-Shap </a> |
@@ -213,6 +217,35 @@
       <a href="https://imbalanced-learn.org" target="_blank"> <img src="https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/doc/_static/img/logo.png" alt="imbalanced-learn" width="40" height="40" /> </a>
       <a href="https://themis.tidymodels.org/" target="_blank"> <img src="https://github.com/tidymodels/themis/blob/main/man/figures/logo.png" alt="themis" width="40" height="40" /> </a>
       <a href="https://github.com/analyticalmindsltd/smote_variants" target="_blank"> SMOTE-variants </a> |
+      <ul>
+        <li>Under-sampling:
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.RandomUnderSampler.html" target="_blank"> RUS  <!-- Random Under-Sampler --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.ClusterCentroids.html" target="_blank"> CC  <!-- Cluster Centroids --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.CondensedNearestNeighbour.html" target="_blank"> CNN  <!-- Condensed Nearest Neighbour --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.EditedNearestNeighbours.html" target="_blank"> ENN  <!-- Edited Nearest Neighbours --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.RepeatedEditedNearestNeighbours.html" target="_blank"> RENN  <!-- Repeated Edited Nearest Neighbours --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.AllKNN.html" target="_blank"> AllKNN  <!-- AllKNN --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.InstanceHardnessThreshold.html" target="_blank"> IHT  <!-- Instance Hardness Threshold --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.NearMiss.html" target="_blank"> NearMiss  <!-- NearMiss --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.NeighbourhoodCleaningRule.html" target="_blank"> NCR  <!-- Neighbourhood Cleaning Rule --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.OneSidedSelection.html" target="_blank"> OSS  <!-- One-Sided Selection --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.TomekLinks.html" target="_blank"> TomekLinks  <!-- Tomek Links --> </a> |
+        </li>
+        <li>Over-sampling:
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html" target="_blank"> ROS  <!-- Random Over-Sampler --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html" target="_blank"> SMOTE  <!-- Synthetic Minority Over-sampling Technique --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTENC.html" target="_blank"> SMOTENC  <!-- Synthetic Minority Over-sampling Technique for Nominal and Continuous --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTEN.html" target="_blank"> SMOTEN  <!-- Synthetic Minority Over-sampling Technique for Nominal --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.ADASYN.html" target="_blank"> ADASYN  <!-- Adaptive Synthetic --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.BorderlineSMOTE.html" target="_blank"> BorderlineSMOTE  <!-- Borderline SMOTE --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.KMeansSMOTE.html" target="_blank"> KMeansSMOTE  <!-- KMeans SMOTE --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SVMSMOTE.html" target="_blank"> SVMSMOTE  <!-- SVM-SMOTE --> </a> |
+        </li>
+        <li>Over- & Under-sampling:
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTEENN.html" target="_blank"> SMOTEENN  <!-- SMOTE & ENN --> </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTETomek.html" target="_blank"> SMOTETomek  <!-- SMOTE & Tomek links --> </a> |
+        </li>
+      </ul>
     </li>
     <!-- <li>Time Series:
       <a href="https://www.sktime.net/en/stable" target="_blank"> <img src="https://github.com/sktime/sktime/blob/main/docs/source/images/sktime-logo.png" alt="sktime" width="40" height="40" /> </a>
