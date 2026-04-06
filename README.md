@@ -161,10 +161,58 @@
   <!-- <a href="http://scikit.ml/" target="_blank"> scikit-multilearn </a> | -->
   <!-- <a href="https://github.com/scikit-fuzzy/scikit-fuzzy" target="_blank"> scikit-fuzzy </a> | -->
   <ul>
+    <li>Models:
+      <ul>
+        <li>Regression:
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html" target="_blank"> LinReg <!-- Linear Regression --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html" target="_blank"> LASSO <!-- Least Absolute Shrinkage and Selection Operator --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html" target="_blank"> Ridge </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html" target="_blank"> EN <!-- Elastic Net	--> </a> |
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lars.html" target="_blank"> LAR < !-- Least Angle Regression -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLars.html" target="_blank"> LLAR < !-- Lasso Least Angle Regression -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuit.html" target="_blank"> OMP < !-- Orthogonal Matching Pursuit -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.BayesianRidge.html" target="_blank"> BR < !-- Bayesian Ridge -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ARDRegression.html" target="_blank"> ARD < !-- Automatic Relevance Determination -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html" target="_blank"> PAR < !-- Passive Aggressive Regressor -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RANSACRegressor.html" target="_blank"> RANSAC < !-- RANdom SAmple Consensus -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.TheilSenRegressor.html" target="_blank"> TR < !-- Theil-Sen Regressor -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.HuberRegressor.html" target="_blank"> Huber < !-- Huber Regressor -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.kernel_ridge.KernelRidge.html" target="_blank"> KR < !-- Kernel Ridge -- > </a> | -->
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html" target="_blank"> kNN <!-- k-Nearest Neighbors --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html" target="_blank"> SVM <!-- Support Vector Machine --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html" target="_blank"> MLP <!-- Multi-Layer Perceptron --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html" target="_blank"> DT <!-- Decision Tree --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html" target="_blank"> RF <!-- Random Forest --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.ExtraTreeRegressor.html" target="_blank"> ET <!-- Extra Trees --> </a> |
+        </li>
+        <li>Classification:
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html" target="_blank"> LogReg <!-- Logistic Regression --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifier.html" target="_blank"> Ridge </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html" target="_blank"> NB <!-- Naive Bayes --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html" target="_blank"> kNN <!-- k-Nearest Neighbors --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html" target="_blank"> SVM <!-- Support Vector Machine --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html" target="_blank"> MLP <!-- Multi-Layer Perceptron --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html" target="_blank"> DT <!-- Decision Tree --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html" target="_blank"> RF <!-- Random Forest --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.ExtraTreeClassifier.html" target="_blank"> ET <!-- Extra Trees --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html" target="_blank"> LDA <!-- Linear Discriminant Analysis	--> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.html" target="_blank"> QDA <!-- Quadratic Discriminant Analysis --> </a> |
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.GaussianProcessClassifier.html" target="_blank"> GPC < !-- Gaussian Process Classifier -- > </a> | -->
+        </li>
+        <li>Ensemble techniques:
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html" target="_blank"> bagging </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html" target="_blank"> voting </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.StackingClassifier.html" target="_blank"> stacking </a> |
+        </li>
+      </ul>
+    </li>
     <li>Boosting:
       <a href="https://xgboost.ai" target="_blank"> <img src="https://xgboost.ai/images/logo/xgboost-logo.png" alt="XGBoost" width="40" height="40" /> </a>
       <a href="https://lightgbm.readthedocs.io" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
       <a href="https://catboost.ai" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html" target="_blank"> Ada <!-- Adaptive Boosting --> </a> |
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html" target="_blank"> GB <!-- Gradient Boosting --> </a> |
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html" target="_blank"> НGB <!-- Histogram-based Gradient Boosting --> </a> |
     </li>
     <li>Clustering:
       <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html" target="_blank"> K-Means </a> |
