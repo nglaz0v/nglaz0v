@@ -47,6 +47,7 @@
   <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
   <a href="https://ipython.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/230453" alt="IPython" width="40" height="40" /> </a>
   <a href="https://jupytext.readthedocs.io" target="_blank"> <img src="https://github.com/mwouts/jupytext/blob/main/docs/images/logo.png" alt="Jupytext" width="40" height="40" /> </a>
+  <!-- <a href="https://marimo.io/" target="_blank"> <img src="https://github.com/marimo-team/marimo/blob/main/frontend/public/favicon.ico" alt="marimo" width="40" height="40" /> </a> -->
 </p>
 <h3 align="left">Data Science (DS):</h3>
 <p align="left">
@@ -424,10 +425,11 @@
     <li>
       <a href="https://huggingface.co" target="_blank"> 🤗 Hugging Face </a>:
       <a href="https://github.com/huggingface/transformers" target="_blank"> Transformers </a> |
-      <!-- <a href="https://github.com/huggingface/datasets" target="_blank"> Datasets </a> | -->
+      <a href="https://github.com/huggingface/datasets" target="_blank"> Datasets </a> |
       <!-- <a href="https://github.com/huggingface/tokenizers" target="_blank"> Tokenizers </a> | -->
       <a href="https://github.com/huggingface/diffusers" target="_blank"> 🧨 Diffusers </a> |
       <!-- <a href="https://github.com/huggingface/accelerate" target="_blank"> Accelerate </a> | -->
+      <!-- <a href="https://github.com/huggingface/peft" target="_blank"> PEFT < !-- Parameter-Efficient Fine-Tuning -- > </a> | -->
       <!-- <a href="https://github.com/huggingface/knockknock" target="_blank"> Knock_Knock </a> | -->
     </li>
   </ul>
@@ -483,6 +485,7 @@
   <!-- <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a> -->
   <a href="https://github.com/therneau/survival" target="_blank"> <img src="https://github.com/therneau/survival/blob/master/man/figures/logo.png" alt="survival" width="40" height="40" /> </a>
   <!-- <a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://github.com/mne-tools/mne-python/blob/main/doc/_static/mne_logo.svg" alt="MNE" width="40" height="40" /> </a> -->
+  <!-- <a href="https://braindecode.org/stable/index.html" target="_blank"> <img src="https://braindecode.org/stable/_images/braindecode.svg" alt="Braindecode" width="40" height="40" /> </a> -->
   <a href="https://github.com/pydicom/pydicom" target="_blank"> <img src="https://github.com/pydicom/pydicom/blob/main/doc/_static/img/pydicom_flat_black.svg" alt="pydicom" width="40" height="40" /> </a>
   <!-- <ul>
     <li>MedNLP:
