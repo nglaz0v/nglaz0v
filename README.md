@@ -484,8 +484,6 @@
   <!-- <a href="https://www.rdkit.org" target="_blank"> <img src="https://www.rdkit.org/Images/logo.png" alt="RDKit" width="40" height="40" /> </a> -->
   <!-- <a href="https://github.com/sunlabuiuc/pyhealth" target="_blank"> <img src="https://github.com/sunlabuiuc/PyHealth/blob/master/docs/_static/pyhealth_logos/pyhealth-logo.png" alt="PyHealth" width="40" height="40" /> </a> -->
   <a href="https://github.com/therneau/survival" target="_blank"> <img src="https://github.com/therneau/survival/blob/master/man/figures/logo.png" alt="survival" width="40" height="40" /> </a>
-  <!-- <a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://github.com/mne-tools/mne-python/blob/main/doc/_static/mne_logo.svg" alt="MNE" width="40" height="40" /> </a> -->
-  <!-- <a href="https://braindecode.org/stable/index.html" target="_blank"> <img src="https://braindecode.org/stable/_images/braindecode.svg" alt="Braindecode" width="40" height="40" /> </a> -->
   <a href="https://github.com/pydicom/pydicom" target="_blank"> <img src="https://github.com/pydicom/pydicom/blob/main/doc/_static/img/pydicom_flat_black.svg" alt="pydicom" width="40" height="40" /> </a>
   <!-- <ul>
     <li>MedNLP:
@@ -495,8 +493,14 @@
       <a href="https://github.com/ncbi-nlp/BioSentVec" target="_blank"> BioSentVec </a>
     </li>
   </ul> -->
-<!-- </p>
-<h3 align="left">Bioinformatics - NGS:</h3>
+</p>
+<h3 align="left">Electroencephalography (EEG):</h3>
+<p align="left">
+  <a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://github.com/mne-tools/mne-python/blob/main/doc/_static/mne_logo.svg" alt="MNE" width="40" height="40" /> </a>
+  <!-- <a href="https://moabb.neurotechx.com/docs/index.html" target="_blank"> <img src="https://github.com/NeuroTechX/moabb/blob/develop/images/moabb_logo_copy.png" alt="MOABB" width="40" height="40" /> </a> -->
+  <!-- <a href="https://braindecode.org/stable/index.html" target="_blank"> <img src="https://braindecode.org/stable/_images/braindecode.svg" alt="Braindecode" width="40" height="40" /> </a> -->
+</p>
+<!-- <h3 align="left">Bioinformatics - NGS:</h3>
 <p align="left">
   <ul>Sequence analysis:
     <li>Quality control:
@@ -523,7 +527,7 @@
       <a href="https://github.com/ugeneunipro/ugene" target="_blank"> <img src="https://github.com/ugeneunipro/ugene/blob/master/etc/shared/ugene.png" alt="UGENE" width="40" height="40" /> </a>
     </li>
   </ul>
-  <!-- <ul>
+  < !-- <ul>
     <li>misc:
       <a href="https://github.com/jamescasbon/PyVCF" target="_blank"> PyVCF </a>
       <a href="https://github.com/pysam-developers/pysam" target="_blank"> Pysam </a>
@@ -535,8 +539,8 @@
     <li>Proteomics:
       <a href="https://github.com/schrodinger/pymol-open-source" target="_blank"> PyMOL </a>
     </li>
-  </ul> -->
-</p>
+  </ul> -- >
+</p> -->
 <h3 align="left">Audio:</h3>
 <p align="left">
   <a href="https://github.com/openai/whisper" target="_blank"> Whisper </a> |
