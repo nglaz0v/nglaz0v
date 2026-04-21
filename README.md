@@ -244,15 +244,15 @@
         <li>Manifold Learning:
           <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html" target="_blank"> t-SNE <!-- t-distributed Stochastic Neighbor Embedding --> </a> |
           <a href="https://github.com/lmcinnes/umap" target="_blank"> UMAP <!-- Uniform Manifold Approximation and Projection --> </a> |
+          <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE <!-- Potential of Heat-diffusion for Affinity-based Transition Embedding --> </a> |
           <a href="https://keras.io/examples/generative/vae/" target="_blank"> VAE <!-- Variational AutoEncoder --> </a> |
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.ClassicalMDS.html" target="_blank"> PCoA < !-- Principal Coordinates Analysis -- > </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html" target="_blank"> Isomap < !-- Isometric Mapping -- > </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.LocallyLinearEmbedding.html" target="_blank"> LLE < !-- Locally Linear Embedding -- > </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html" target="_blank"> MDS < !-- MultiDimensional Scaling -- > </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.SpectralEmbedding.html" target="_blank"> Spectral < !-- Spectral Embedding -- > </a> | -->
-          <!-- <a href="https://github.com/JustGlowing/minisom" target="_blank"> SOM < !-- Self Organizing Maps -- > </a> | -->
+          <a href="https://github.com/JustGlowing/minisom" target="_blank"> SOM <!-- Self Organizing Maps --> </a> |
           <!-- <a href="https://github.com/rmarkello/snfpy" target="_blank"> SNF < !-- Similarity Network Fusion -- > </a> | -->
-          <!-- <a href="https://github.com/KrishnaswamyLab/PHATE" target="_blank"> PHATE < !-- Potential of Heat-diffusion for Affinity-based Transition Embedding -- > </a> | -->
           <!-- <a href="https://github.com/dhdegroot/Bonsai-data-representation" target="_blank"> Bonsai </a> | -->
         </li>
       </ul>
