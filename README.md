@@ -337,7 +337,8 @@
       <!-- <a href="https://github.com/marcotcr/lime" target="_blank"> LIME </a> -->
       <!-- <a href="https://interpret.ml" target="_blank"> InterpretML </a> -->
       <a href="https://www.scikit-yb.org" target="_blank"> <img src="https://github.com/DistrictDataLabs/yellowbrick/blob/develop/docs/images/favicon.ico" alt="Yellowbrick" width="40" height="40" /> </a>
-      <a href="https://github.com/reiinakano/scikit-plot" target="_blank"> scikit-plot </a>
+      <a href="https://scikit-plots.github.io/stable/" target="_blank"> <img src="https://github.com/scikit-plots/scikit-plots/blob/main/docs/source/logos/scikit-plots-logo.png" alt="scikit-plots" width="40" height="40" /> </a>
+      <!-- <a href="https://github.com/reiinakano/scikit-plot" target="_blank"> scikit-plot </a> -->
       <!-- <a href="https://networkx.org" target="_blank"> <img src="https://raw.githubusercontent.com/networkx/networkx/main/doc/_static/favicon.ico" alt="NetworkX" width="40" height="40" /> </a> -->
       <!-- <a href="https://explainerdashboard.readthedocs.io" target="_blank"> <img src="https://github.com/oegedijk/explainerdashboard/blob/master/explainerdashboard/assets/favicon.ico" alt="explainerdashboard" width="40" height="40" /> -->
       <!-- <a href="https://github.com/pyjanitor-devs/pyjanitor" target="_blank"> pyjanitor </a> -->
@@ -443,6 +444,7 @@
       <a href="https://poloclub.github.io/ganlab/" target="_blank"> GAN Lab </a> |
       <a href="https://poloclub.github.io/transformer-explainer/" target="_blank"> Transformer Explainer </a> |
       <a href="https://poloclub.github.io/diffusion-explainer/" target="_blank"> Diffusion Explainer </a> |
+      <a href="https://pair-code.github.io/understanding-umap/" target="_blank"> Understanding UMAP </a> |
     </li>
   </ul>
 </p>
