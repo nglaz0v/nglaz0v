@@ -419,18 +419,23 @@
       <!-- <a href="https://smp.readthedocs.io" target="_blank"> Segmentation Models </a> -->
       <!-- <a href="https://github.com/UKPLab/sentence-transformers" target="_blank"> <img src="https://github.com/UKPLab/sentence-transformers/blob/master/docs/img/logo_org.png" alt="Sentence Transformers" width="40" height="40" /> </a> -->
       <a href="https://github.com/lutzroeder/Netron" target="_blank"> <img src="https://github.com/lutzroeder/netron/blob/main/.github/logo-light.svg" alt="Netron" width="40" height="40" /> </a>
-      <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️ LangChain </a>
+      <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️ LangChain </a> |
+      <!-- <a href="https://github.com/langchain-ai/langgraph" target="_blank"> LangGraph </a> | -->
+      <a href="https://github.com/crewAIInc/crewAI" target="_blank"> CrewAI </a> |
     </li>
   </ul>
   <ul>
     <li>
       <a href="https://huggingface.co" target="_blank"> 🤗 Hugging Face </a>:
       <a href="https://github.com/huggingface/transformers" target="_blank"> Transformers </a> |
+      <a href="https://github.com/huggingface/diffusers" target="_blank"> 🧨 Diffusers </a> |
       <a href="https://github.com/huggingface/datasets" target="_blank"> Datasets </a> |
       <!-- <a href="https://github.com/huggingface/tokenizers" target="_blank"> Tokenizers </a> | -->
-      <a href="https://github.com/huggingface/diffusers" target="_blank"> 🧨 Diffusers </a> |
+      <!-- <a href="https://github.com/huggingface/evaluate" target="_blank"> Evaluate </a> | -->
       <!-- <a href="https://github.com/huggingface/accelerate" target="_blank"> Accelerate </a> | -->
       <!-- <a href="https://github.com/huggingface/peft" target="_blank"> PEFT < !-- Parameter-Efficient Fine-Tuning -- > </a> | -->
+      <!-- <a href="https://github.com/huggingface/trl" target="_blank"> TRL < !-- Transformers Reinforcement Learning -- > </a> | -->
+      <a href="https://github.com/huggingface/huggingface_hub" target="_blank"> huggingface_hub </a> |
       <!-- <a href="https://github.com/huggingface/knockknock" target="_blank"> Knock_Knock </a> | -->
     </li>
   </ul>
@@ -458,6 +463,7 @@
 <h3 align="left">GenAI:</h3>
 <p align="left">
   <a href="https://github.com/openai/openai-python" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="OpenAI" width="40" height="40" /> </a>
+  <a href="https://github.com/ollama/ollama" target="_blank"> <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" alt="Ollama" width="40" height="40" /> </a>
   <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank"> <img src="https://avatars.githubusercontent.com/u/100950301?s=200&v=4" alt="Stable Diffusion" width="40" height="40" /> </a>
   <!--<ul>
     <li>AI-agents:
