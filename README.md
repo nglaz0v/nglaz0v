@@ -109,6 +109,7 @@
       <!-- <a href="https://deeppavlov.ai" target="_blank"> <img src="https://github.com/deeppavlov/DeepPavlov/blob/master/docs/_static/deeppavlov_logo.png" alt="DeepPavlov" width="40" height="40" /> </a> -->
       <!-- <a href="https://stanfordnlp.github.io/CoreNLP" target="_blank"> <img src="https://github.com/stanfordnlp/CoreNLP/blob/main/data/webapps/favicon.ico" alt="CoreNLP" width="40" height="40" /> </a> -->
       <!-- <a href="https://github.com/makcedward/nlpaug" target="_blank"> <img src="https://github.com/makcedward/nlpaug/blob/master/res/logo_small.png" alt="nlpaug" width="40" height="40" /> </a> -->
+      <!-- <a href="https://github.com/openai/tiktoken" target="_blank"> tiktoken </a> | -->
       <ul>
         <li>NLP-ru:
           <a href="https://github.com/pymorphy2/pymorphy2" target="_blank"> pymorphy2 </a> |
@@ -116,8 +117,15 @@
         </li>
       </ul>
     </li>
+    <!-- <li>PDF:
+      <a href="https://github.com/py-pdf/pypdf" target="_blank"> pypdf </a> |
+      <a href="https://github.com/euske/pdfminer" target="_blank"> PDFMiner </a> |
+      <a href="https://github.com/pymupdf/pymupdf" target="_blank"> PyMuPDF </a> |
+    </li> -->
     <li>misc:
       <!-- <a href="https://github.com/pypa/setuptools" target="_blank"> <img src="https://github.com/pypa/setuptools/blob/main/docs/images/logo.svg" alt="setuptools" width="40" height="40" /> </a> -->
+      <!-- <a href="https://github.com/bitsandbytes-foundation/bitsandbytes" target="_blank"> <img src="https://avatars.githubusercontent.com/u/175231607?s=200&v=4" alt="bitsandbytes" width="40" height="40" /> </a> -->
+      <!-- <a href="https://github.com/pydantic/pydantic" target="_blank"> Pydantic </a> | -->
       <a href="https://github.com/asweigart/pyautogui" target="_blank"> PyAutoGUI </a> |
       <a href="https://github.com/ThomasWaldmann/argparse" target="_blank"> argparse </a> |
       <a href="https://github.com/theskumar/python-dotenv" target="_blank"> python-dotenv </a> |
@@ -126,13 +134,13 @@
       <a href="https://github.com/epigenelabs/pyComBat" target="_blank"> pyComBat </a> |
       <a href="https://github.com/trent-b/iterative-stratification" target="_blank"> iterative-stratification </a> |
       <!-- <a href="https://github.com/jupyter-widgets/ipywidgets" target="_blank"> ipywidgets </a> |
+      <a href="https://github.com/safetensors/safetensors" target="_blank"> safetensors </a> |
+      <a href="https://github.com/arogozhnikov/einops" target="_blank"> einops </a> |
       <a href="https://github.com/asweigart/pyperclip" target="_blank">  pyperclip </a> |
       <a href="https://github.com/JessicaTegner/pypandoc" target="_blank">  pypandoc </a> |
       <a href="https://github.com/python-openxml/python-docx" target="_blank">  python-docx </a> |
       <a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank">  openpyxl </a> |
-      <a href="https://github.com/py-pdf/pypdf" target="_blank"> pypdf </a> |
-      <a href="https://github.com/euske/pdfminer" target="_blank"> PDFMiner </a> |
-      <a href="https://github.com/pymupdf/pymupdf" target="_blank"> PyMuPDF </a> |
+      <a href="https://github.com/chroma-core/chroma" target="_blank"> ChromaDB </a> |
       <a href="https://github.com/facebookresearch/faiss" target="_blank"> Faiss </a> |
       <a href="https://pydotplus.readthedocs.io" target="_blank"> PyDotPlus </a> | -->
       <!-- <a href="https://github.com/pallets/jinja" target="_blank"> <img src="https://github.com/pallets/jinja/blob/main/docs/_static/jinja-logo.svg" alt="Jinja" width="40" height="40" /> </a>
