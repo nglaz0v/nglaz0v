@@ -38,7 +38,7 @@
 <h3 align="left">Package Installers:</h3>
 <p align="left">
   <a href="https://www.anaconda.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" /> </a>
-  <a href="https://pypi.org" target="_blank"> <img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="PyPI" width="40" height="40" /> </a>
+  <a href="https://pypi.org" target="_blank"> <img src="https://pypi.org/static/images/logo-small.0e0855d0.svg" alt="PyPI" width="40" height="40" /> </a>
   <a href="https://cran.r-project.org" target="_blank"> CRAN </a> |
   <a href="https://bioconductor.org" target="_blank"> <img src="https://bioconductor.org/images/icons/BioconductorSticker1.png" alt="Bioconductor" width="40" height="40" /> </a>
 </p>
@@ -46,7 +46,7 @@
 <p align="left">
   <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40" /> </a>
   <a href="https://ipython.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/230453" alt="IPython" width="40" height="40" /> </a>
-  <a href="https://jupytext.readthedocs.io" target="_blank"> <img src="https://github.com/mwouts/jupytext/blob/main/docs/images/logo.png" alt="Jupytext" width="40" height="40" /> </a>
+  <a href="https://jupytext.readthedocs.io" target="_blank"> <img src="https://github.com/jupytext/jupytext/blob/main/website/public/logo.png" alt="Jupytext" width="40" height="40" /> </a>
   <!-- <a href="https://marimo.io/" target="_blank"> <img src="https://github.com/marimo-team/marimo/blob/main/frontend/public/favicon.ico" alt="marimo" width="40" height="40" /> </a> -->
 </p>
 <h3 align="left">Data Science (DS):</h3>
@@ -223,7 +223,7 @@
     </li>
     <li>Boosting:
       <a href="https://xgboost.ai" target="_blank"> <img src="https://xgboost.ai/images/logo/xgboost-logo.png" alt="XGBoost" width="40" height="40" /> </a>
-      <a href="https://lightgbm.readthedocs.io" target="_blank"> <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
+      <a href="https://lightgbm.readthedocs.io" target="_blank"> <img src="https://github.com/lightgbm-org/LightGBM/blob/main/docs/logo/LightGBM_logo_no_text.svg" alt="LightGBM" width="40" height="40" /> </a>
       <a href="https://catboost.ai" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29043415?s=200&amp;v=4" alt="CatBoost" width="40" height="40" /> </a>
       <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html" target="_blank"> Ada <!-- Adaptive Boosting --> </a> |
       <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html" target="_blank"> GB <!-- Gradient Boosting --> </a> |
@@ -369,7 +369,7 @@
 </p>
 <h3 align="left">AutoML:</h3>
 <p align="left">
-  <a href="https://pycaret.org" target="_blank"> <img src="https://github.com/pycaret/pycaret/blob/master/docs/images/logo.png" alt="PyCaret" width="40" height="40" /> </a>
+  <a href="https://pycaret.org" target="_blank"> <img src="https://github.com/pycaret/pycaret/blob/main/docs/images/logo.png" alt="PyCaret" width="40" height="40" /> </a>
   <a href="https://epistasislab.github.io/tpot" target="_blank"> <img src="https://github.com/EpistasisLab/tpot/blob/main/docs/assets/tpot-logo.jpg" alt="TPOT" width="40" height="40" /> </a>
   <a href="https://optuna.org" target="_blank"> <img src="https://github.com/optuna/optuna/blob/master/docs/image/favicon.ico" alt="Optuna" width="40" height="40" /> </a>
   <a href="https://scikit-optimize.github.io" target="_blank"> <img src="https://github.com/scikit-optimize/scikit-optimize/blob/master/doc/image/logo.png" alt="scikit-optimize" width="40" height="40" /> </a>
@@ -433,7 +433,7 @@
       <!-- <a href="https://smp.readthedocs.io" target="_blank"> Segmentation Models </a> -->
       <!-- <a href="https://github.com/UKPLab/sentence-transformers" target="_blank"> <img src="https://github.com/UKPLab/sentence-transformers/blob/master/docs/img/logo_org.png" alt="Sentence Transformers" width="40" height="40" /> </a> -->
       <a href="https://github.com/lutzroeder/Netron" target="_blank"> <img src="https://github.com/lutzroeder/netron/blob/main/.github/logo-light.svg" alt="Netron" width="40" height="40" /> </a>
-      <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️ LangChain </a> |
+      <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️🔗 LangChain </a> |
       <!-- <a href="https://github.com/langchain-ai/langgraph" target="_blank"> LangGraph </a> | -->
       <a href="https://github.com/crewAIInc/crewAI" target="_blank"> CrewAI </a> |
     </li>
@@ -474,11 +474,13 @@
   <a href="https://benfred.github.io/implicit" target="_blank"> Implicit </a> |
   <a href="https://surpriselib.com" target="_blank"> <img src="https://github.com/NicolasHug/Surprise/blob/master/logo_black.svg" alt="Surprise" width="40" height="40" /> </a>
 </p> -->
-<h3 align="left">GenAI:</h3>
+<h3 align="left">GenAI & LLM:</h3>
 <p align="left">
   <a href="https://github.com/openai/openai-python" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="OpenAI" width="40" height="40" /> </a>
   <a href="https://github.com/ollama/ollama" target="_blank"> <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" alt="Ollama" width="40" height="40" /> </a>
   <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank"> <img src="https://avatars.githubusercontent.com/u/100950301?s=200&v=4" alt="Stable Diffusion" width="40" height="40" /> </a>
+  <a href="https://developers.sber.ru/studio" target="_blank"> Сбер Studio </a> |
+  <a href="https://aistudio.yandex.ru/" target="_blank"> Yandex AI Studio </a>
   <!--<ul>
     <li>AI-agents:
       <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3734-3139-4331-b962-323734326233/ChatGPT-Logo.svg" alt="ChatGPT" width="40" height="40" /> </a>
