@@ -127,6 +127,7 @@
       <a href="https://github.com/py-pdf/pypdf" target="_blank"> pypdf </a> |
       <a href="https://github.com/euske/pdfminer" target="_blank"> PDFMiner </a> |
       <a href="https://github.com/pymupdf/pymupdf" target="_blank"> PyMuPDF </a> |
+      <a href="https://github.com/jsvine/pdfplumber" target="_blank"> pdfplumber </a> |
     </li> -->
     <li>misc:
       <!-- <a href="https://github.com/pypa/setuptools" target="_blank"> <img src="https://github.com/pypa/setuptools/blob/main/docs/images/logo.svg" alt="setuptools" width="40" height="40" /> </a> -->
@@ -433,9 +434,6 @@
       <!-- <a href="https://smp.readthedocs.io" target="_blank"> Segmentation Models </a> -->
       <!-- <a href="https://github.com/UKPLab/sentence-transformers" target="_blank"> <img src="https://github.com/UKPLab/sentence-transformers/blob/master/docs/img/logo_org.png" alt="Sentence Transformers" width="40" height="40" /> </a> -->
       <a href="https://github.com/lutzroeder/Netron" target="_blank"> <img src="https://github.com/lutzroeder/netron/blob/main/.github/logo-light.svg" alt="Netron" width="40" height="40" /> </a>
-      <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️🔗 LangChain </a> |
-      <!-- <a href="https://github.com/langchain-ai/langgraph" target="_blank"> LangGraph </a> | -->
-      <a href="https://github.com/crewAIInc/crewAI" target="_blank"> CrewAI </a> |
     </li>
   </ul>
   <ul>
@@ -481,8 +479,21 @@
   <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank"> <img src="https://avatars.githubusercontent.com/u/100950301?s=200&v=4" alt="Stable Diffusion" width="40" height="40" /> </a>
   <a href="https://developers.sber.ru/studio" target="_blank"> Сбер Studio </a> |
   <a href="https://aistudio.yandex.ru/" target="_blank"> Yandex AI Studio </a>
+  <ul>
+    <li>RAG:
+      <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️🔗 LangChain </a> |
+      <!-- <a href="https://github.com/langchain-ai/langgraph" target="_blank"> LangGraph </a> | -->
+      <a href="https://www.llamaindex.ai/" target="_blank"> 🗂️LlamaIndex🦙 </a> |
+      <a href="https://github.com/crewAIInc/crewAI" target="_blank"> CrewAI </a> |
+    </li>
+  </ul>
+  <ul>
+    <li>AI-assistants:
+      <a href="https://openclaw.ai/" target="_blank"> <img src="https://github.com/openclaw/openclaw/blob/main/ui/public/favicon.svg" alt="OpenClaw" width="40" height="40" /> </a>
+    </li>
+  </ul>
   <!--<ul>
-    <li>AI-agents:
+    <li>LLM models:
       <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3734-3139-4331-b962-323734326233/ChatGPT-Logo.svg" alt="ChatGPT" width="40" height="40" /> </a>
       <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3766-6461-4738-a266-356164303835/Google_Gemini_logo_2.svg" alt="Gemini" width="40" height="40" /> </a>
       <a href="" target="_blank"> <img src="https://static.tildacdn.com/tild3437-6136-4836-b963-613834383236/Grok-feb-2025-logo.svg" alt="Grok" width="40" height="40" /> </a>
