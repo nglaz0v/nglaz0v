@@ -158,7 +158,10 @@
       <a href="https://github.com/cloudpipe/cloudpickle" target="_blank"> cloudpickle </a> |
       <a href="https://deprecation.readthedocs.io/en/latest/" target="_blank"> deprecation </a> |
       <a href="https://github.com/ifduyue/python-xxhash" target="_blank"> xxhash </a> |
-      <a href="https://github.com/minrk/wurlitzer" target="_blank"> wurlitzer </a> | -->
+      <a href="https://github.com/minrk/wurlitzer" target="_blank"> wurlitzer </a> |
+      <a href="https://github.com/mwilliamson/jq.py" target="_blank"> jq </a> |
+      <a href="https://github.com/pydata/numexpr" target="_blank"> NumExpr </a> |
+      <a href="https://github.com/Unstructured-IO/unstructured" target="_blank"> unstructured </a> | -->
     </li>
   </ul>
 </p>
@@ -484,12 +487,13 @@
       <a href="https://github.com/langchain-ai/langchain" target="_blank"> 🦜️🔗 LangChain </a> |
       <!-- <a href="https://github.com/langchain-ai/langgraph" target="_blank"> LangGraph </a> | -->
       <a href="https://www.llamaindex.ai/" target="_blank"> 🗂️LlamaIndex🦙 </a> |
+      <!-- <a href="https://github.com/vibrantlabsai/ragas" target="_blank"> Ragas </a> | -->
       <a href="https://github.com/crewAIInc/crewAI" target="_blank"> CrewAI </a> |
     </li>
   </ul>
   <ul>
     <li>AI-assistants:
-      <a href="https://openclaw.ai/" target="_blank"> <img src="https://github.com/openclaw/openclaw/blob/main/ui/public/favicon.svg" alt="OpenClaw" width="40" height="40" /> </a>
+      <a href="https://openclaw.ai/" target="_blank"> <img src="https://github.com/openclaw/openclaw/blob/main/ui/public/favicon-32.png" alt="OpenClaw" width="40" height="40" /> </a>
     </li>
   </ul>
   <!--<ul>
