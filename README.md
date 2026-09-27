@@ -129,6 +129,16 @@
       <a href="https://github.com/pymupdf/pymupdf" target="_blank"> PyMuPDF </a> |
       <a href="https://github.com/jsvine/pdfplumber" target="_blank"> pdfplumber </a> |
     </li> -->
+    <li>3D:
+      <a href="https://www.open3d.org/" target="_blank"> <img src="https://github.com/isl-org/Open3D/blob/main/docs/_static/open3d_logo.ico" alt="Open3D" width="40" height="40" /> </a>
+      <!-- <a href="https://github.com/pyvista/pyvista" target="_blank"> <img src="https://github.com/pyvista/pyvista/blob/main/logo/pyvista.svg" alt="PyVista" width="40" height="40" /> </a>
+      <a href="https://pdal.org/" target="_blank"> <img src="https://github.com/PDAL/PDAL/blob/master/doc/_static/logo/pdal-logo.svg" alt="PDAL" width="40" height="40" /> </a>
+      <a href="https://github.com/pywavefront/PyWavefront" target="_blank"> <img src="https://github.com/pywavefront/PyWavefront/blob/master/extras/logo.png" alt="PyWavefront" width="40" height="40" /> </a>
+      <a href="https://github.com/daavoo/pyntcloud" target="_blank"> <img src="https://github.com/daavoo/pyntcloud/blob/main/docs/images/pyntcloud_logo.png" alt="pyntcloud" width="40" height="40" /> </a>
+      <a href="https://github.com/laspy/laspy" target="_blank"> laspy </a> |
+      <a href="https://github.com/davidcaron/pye57" target="_blank"> pye57 </a> |
+      <a href="https://github.com/dancergraham/e57-python" target="_blank"> e57 </a> | -->
+    </li>
     <li>misc:
       <!-- <a href="https://github.com/pypa/setuptools" target="_blank"> <img src="https://github.com/pypa/setuptools/blob/main/docs/images/logo.svg" alt="setuptools" width="40" height="40" /> </a> -->
       <!-- <a href="https://github.com/bitsandbytes-foundation/bitsandbytes" target="_blank"> <img src="https://avatars.githubusercontent.com/u/175231607?s=200&v=4" alt="bitsandbytes" width="40" height="40" /> </a> -->
