@@ -135,9 +135,14 @@
       <a href="https://pdal.org/" target="_blank"> <img src="https://github.com/PDAL/PDAL/blob/master/doc/_static/logo/pdal-logo.svg" alt="PDAL" width="40" height="40" /> </a>
       <a href="https://github.com/pywavefront/PyWavefront" target="_blank"> <img src="https://github.com/pywavefront/PyWavefront/blob/master/extras/logo.png" alt="PyWavefront" width="40" height="40" /> </a>
       <a href="https://github.com/daavoo/pyntcloud" target="_blank"> <img src="https://github.com/daavoo/pyntcloud/blob/main/docs/images/pyntcloud_logo.png" alt="pyntcloud" width="40" height="40" /> </a>
+      <a href="https://github.com/mikedh/trimesh" target="_blank"> <img src="https://github.com/mikedh/trimesh/blob/main/docs/static/images/favicon.svg" alt="trimesh" width="40" height="40" /> </a>
       <a href="https://github.com/laspy/laspy" target="_blank"> laspy </a> |
       <a href="https://github.com/davidcaron/pye57" target="_blank"> pye57 </a> |
-      <a href="https://github.com/dancergraham/e57-python" target="_blank"> e57 </a> | -->
+      <a href="https://github.com/dancergraham/e57-python" target="_blank"> e57 </a> |
+      <a href="https://github.com/nschloe/meshio" target="_blank"> meshio </a> |
+      <a href="https://github.com/dranjan/python-plyfile" target="_blank"> plyfile </a> |
+      <a href="https://github.com/pycollada/pycollada" target="_blank"> pycollada </a> |
+      <a href="https://github.com/shapely/shapely" target="_blank"> shapely </a> | -->
     </li>
     <li>misc:
       <!-- <a href="https://github.com/pypa/setuptools" target="_blank"> <img src="https://github.com/pypa/setuptools/blob/main/docs/images/logo.svg" alt="setuptools" width="40" height="40" /> </a> -->
