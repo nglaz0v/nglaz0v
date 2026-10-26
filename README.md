@@ -509,6 +509,10 @@
   <ul>
     <li>AI-assistants:
       <a href="https://openclaw.ai/" target="_blank"> <img src="https://github.com/openclaw/openclaw/blob/main/ui/public/favicon-32.png" alt="OpenClaw" width="40" height="40" /> </a>
+      <a href="https://github.com/NousResearch/hermes-agent" target="_blank"> <img src="https://github.com/NousResearch/hermes-agent/blob/main/website/static/img/nous-logo-dark.png" alt="Hermes-Agent" width="40" height="40" /> </a>
+    </li>
+    <li>AI-coding:
+      <a href="https://claude.ai/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" alt="Claude Code" width="40" height="40" /> </a>
     </li>
   </ul>
   <!--<ul>
