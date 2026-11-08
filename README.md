@@ -272,7 +272,7 @@
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html" target="_blank"> Factor_Analysis </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FastICA.html" target="_blank"> ICA < !-- Independent Component Analysis -- > </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html" target="_blank"> LDA < !-- Latent Dirichlet Allocation -- > </a> | -->
-          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html" target="_blank"> NMF < !-- Non-Negative Matrix Factorization -- > </a> | -->
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html" target="_blank"> NMF <!-- Non-Negative Matrix Factorization --> </a> |
         </li>
         <li>Manifold Learning:
           <a href="https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html" target="_blank"> t-SNE <!-- t-distributed Stochastic Neighbor Embedding --> </a> |
@@ -287,6 +287,21 @@
           <a href="https://github.com/JustGlowing/minisom" target="_blank"> SOM <!-- Self Organizing Maps --> </a> |
           <!-- <a href="https://github.com/rmarkello/snfpy" target="_blank"> SNF < !-- Similarity Network Fusion -- > </a> | -->
           <!-- <a href="https://github.com/dhdegroot/Bonsai-data-representation" target="_blank"> Bonsai </a> | -->
+        </li>
+      </ul>
+    </li>
+    <li>Preprocessing:
+      <ul>
+        <li>Scalers:
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html" target="_blank"> Standard </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html" target="_blank"> MinMax </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MaxAbsScaler.html" target="_blank"> MaxAbs </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html" target="_blank"> Robust </a> |
+          MAD <!-- Median Absolute Deviation --> |
+        </li>
+        <li>Transformers:
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PowerTransformer.html" target="_blank"> Yeo-Johnson &amp; Box-Cox </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.QuantileTransformer.html" target="_blank"> Quantile </a> |
         </li>
       </ul>
     </li>
