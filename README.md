@@ -319,15 +319,15 @@
       <ul>
         <li>Under-sampling:
           <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.RandomUnderSampler.html" target="_blank"> RUS <!-- Random Under-Sampler --> </a> |
-          <!-- <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.ClusterCentroids.html" target="_blank"> CC < !-- Cluster Centroids -- > </a> | -->
-          <!-- <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.CondensedNearestNeighbour.html" target="_blank"> CNN < !-- Condensed Nearest Neighbour -- > </a> | -->
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.ClusterCentroids.html" target="_blank"> CC < !-- Cluster Centroids -- > </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.CondensedNearestNeighbour.html" target="_blank"> CNN < !-- Condensed Nearest Neighbour -- > </a> |
           <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.EditedNearestNeighbours.html" target="_blank"> ENN <!-- Edited Nearest Neighbours --> </a> |
-          <!-- <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.RepeatedEditedNearestNeighbours.html" target="_blank"> RENN < !-- Repeated Edited Nearest Neighbours -- > </a> | -->
-          <!-- <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.AllKNN.html" target="_blank"> AllKNN < !-- AllKNN -- > </a> | -->
-          <!-- <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.InstanceHardnessThreshold.html" target="_blank"> IHT < !-- Instance Hardness Threshold -- > </a> | -->
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.RepeatedEditedNearestNeighbours.html" target="_blank"> RENN < !-- Repeated Edited Nearest Neighbours -- > </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.AllKNN.html" target="_blank"> AllKNN < !-- AllKNN -- > </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.InstanceHardnessThreshold.html" target="_blank"> IHT < !-- Instance Hardness Threshold -- > </a> |
           <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.NearMiss.html" target="_blank"> NearMiss <!-- NearMiss --> </a> |
-          <!-- <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.NeighbourhoodCleaningRule.html" target="_blank"> NCR < !-- Neighbourhood Cleaning Rule -- > </a> | -->
-          <!-- <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.OneSidedSelection.html" target="_blank"> OSS < !-- One-Sided Selection -- > </a> | -->
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.NeighbourhoodCleaningRule.html" target="_blank"> NCR < !-- Neighbourhood Cleaning Rule -- > </a> |
+          <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.OneSidedSelection.html" target="_blank"> OSS < !-- One-Sided Selection -- > </a> |
           <a href="https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.TomekLinks.html" target="_blank"> TomekLinks <!-- Tomek Links --> </a> |
         </li>
         <li>Over-sampling:
