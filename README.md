@@ -48,6 +48,8 @@
   <a href="https://ipython.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/230453" alt="IPython" width="40" height="40" /> </a>
   <a href="https://jupytext.readthedocs.io" target="_blank"> <img src="https://github.com/jupytext/jupytext/blob/main/website/public/logo.png" alt="Jupytext" width="40" height="40" /> </a>
   <!-- <a href="https://marimo.io/" target="_blank"> <img src="https://github.com/marimo-team/marimo/blob/main/frontend/public/favicon.ico" alt="marimo" width="40" height="40" /> </a> -->
+  <a href="https://rmarkdown.rstudio.com/" target="_blank"> <img src="https://github.com/rstudio/rmarkdown/blob/main/man/figures/logo.png" alt="rmarkdown" width="40" height="40" /> </a>
+  <a href="https://quarto.org/" target="_blank"> <img src="https://github.com/quarto-dev/quarto/blob/main/apps/vscode/assets/logo/quarto.png" alt="quarto" width="40" height="40" /> </a>
 </p>
 <h3 align="left">Data Science (DS):</h3>
 <p align="left">
@@ -415,6 +417,7 @@
   <a href="https://photon-ai.com" target="_blank"> PHOTONAI </a> |
   <!-- <a href="https://github.com/ray-project/tune-sklearn" target="_blank"> tune-sklearn </a> | -->
   <!-- <a href="https://www.ray.io" target="_blank"> <img src="https://github.com/ray-project/ray/blob/master/doc/source/images/ray_header_logo.png" alt="Ray" width="40" height="40" /> </a> -->
+  <!-- <a href="https://auto.gluon.ai/" target="_blank"> <img src="https://raw.githubusercontent.com/autogluon/autogluon/refs/heads/master/docs/_static/favicon.ico" alt="AutoGluon" width="40" height="40" /> </a> -->
   <ul>
     <li>EDA:
       <a href="https://github.com/AutoViML/AutoViz" target="_blank"> <img src="https://github.com/AutoViML/AutoViz/blob/master/images/logo.png" alt="AutoViz" width="40" height="40" /> </a>
