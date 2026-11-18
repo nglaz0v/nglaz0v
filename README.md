@@ -231,7 +231,7 @@
           <a href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html" target="_blank"> DT <!-- Decision Tree --> </a> |
           <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html" target="_blank"> RF <!-- Random Forest --> </a> |
           <a href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.ExtraTreeClassifier.html" target="_blank"> ET <!-- Extra Trees --> </a> |
-          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html" target="_blank"> LDA <!-- Linear Discriminant Analysis	--> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html" target="_blank"> LDA <!-- Linear Discriminant Analysis --> </a> |
           <a href="https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.html" target="_blank"> QDA <!-- Quadratic Discriminant Analysis --> </a> |
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.GaussianProcessClassifier.html" target="_blank"> GPC < !-- Gaussian Process Classifier -- > </a> | -->
         </li>
@@ -265,13 +265,15 @@
       <ul>
         <li>Matrix Decomposition:
           <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html" target="_blank"> PCA <!-- Principal Component Analysis --> </a> |
-          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.IncrementalPCA.html" target="_blank"> IPCA <!-- Incremental Principal Component Analysis --> </a> |
-          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html" target="_blank"> KPCA <!-- Kernel Principal Component Analysis --> </a> |
-          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparsePCA.html" target="_blank"> SPCA < !-- Sparse Principal Component Analysis -- > </a> | -->
-          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html" target="_blank"> Truncated_SVD < !-- Truncated Singular Value Decomposition -- > </a> | -->
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.IncrementalPCA.html" target="_blank"> iPCA <!-- incremental Principal Component Analysis --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html" target="_blank"> kPCA <!-- kernel Principal Component Analysis --> </a> |
+          <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparsePCA.html" target="_blank"> sPCA <!-- sparse Principal Component Analysis --> </a> |
+          <!-- <a href="https://rdrr.io/bioc/mixOmics/man/ipca.html" target="_blank"> IPCA < !-- Independent Principal Component Analysis -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSCanonical.html" target="_blank"> PLS < !-- Projection to Latent Structures (Partial Least Squares) -- > </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html" target="_blank"> TSVD < !-- Truncated Singular Value Decomposition -- > </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparseCoder.html" target="_blank"> Sparse_Coding </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.DictionaryLearning.html" target="_blank"> Dictionary_Learning </a> | -->
-          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html" target="_blank"> Factor_Analysis </a> | -->
+          <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html" target="_blank"> FA < !-- Factor Analysis -- > </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FastICA.html" target="_blank"> ICA < !-- Independent Component Analysis -- > </a> | -->
           <!-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html" target="_blank"> LDA < !-- Latent Dirichlet Allocation -- > </a> | -->
           <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html" target="_blank"> NMF <!-- Non-Negative Matrix Factorization --> </a> |
